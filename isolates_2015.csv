@@ -1,0 +1,931 @@
+Population,RegionName,NumValue
+Acinetobacter spp.|Aminoglycosides,Austria,63
+Acinetobacter spp.|Aminoglycosides,Belgium,15
+Acinetobacter spp.|Aminoglycosides,Bulgaria,116
+Acinetobacter spp.|Aminoglycosides,Cyprus,59
+Acinetobacter spp.|Aminoglycosides,Czech Republic,60
+Acinetobacter spp.|Aminoglycosides,Germany,328
+Acinetobacter spp.|Aminoglycosides,Denmark,63
+Acinetobacter spp.|Aminoglycosides,Estonia,2
+Acinetobacter spp.|Aminoglycosides,Greece,945
+Acinetobacter spp.|Aminoglycosides,Spain,96
+Acinetobacter spp.|Aminoglycosides,Finland,42
+Acinetobacter spp.|Aminoglycosides,France,431
+Acinetobacter spp.|Aminoglycosides,Croatia,197
+Acinetobacter spp.|Aminoglycosides,Hungary,465
+Acinetobacter spp.|Aminoglycosides,Ireland,80
+Acinetobacter spp.|Aminoglycosides,Iceland,6
+Acinetobacter spp.|Aminoglycosides,Italy,656
+Acinetobacter spp.|Aminoglycosides,Lithuania,73
+Acinetobacter spp.|Aminoglycosides,Luxembourg,8
+Acinetobacter spp.|Aminoglycosides,Latvia,61
+Acinetobacter spp.|Aminoglycosides,Malta,15
+Acinetobacter spp.|Aminoglycosides,Netherlands,74
+Acinetobacter spp.|Aminoglycosides,Norway,32
+Acinetobacter spp.|Aminoglycosides,Poland,245
+Acinetobacter spp.|Aminoglycosides,Portugal,310
+Acinetobacter spp.|Aminoglycosides,Romania,188
+Acinetobacter spp.|Aminoglycosides,Sweden,26
+Acinetobacter spp.|Aminoglycosides,Slovenia,31
+Acinetobacter spp.|Aminoglycosides,Slovakia,154
+Acinetobacter spp.|Aminoglycosides,United Kingdom,153
+Acinetobacter spp.|Carbapenems,Austria,64
+Acinetobacter spp.|Carbapenems,Belgium,24
+Acinetobacter spp.|Carbapenems,Bulgaria,130
+Acinetobacter spp.|Carbapenems,Cyprus,59
+Acinetobacter spp.|Carbapenems,Czech Republic,60
+Acinetobacter spp.|Carbapenems,Germany,334
+Acinetobacter spp.|Carbapenems,Denmark,65
+Acinetobacter spp.|Carbapenems,Estonia,3
+Acinetobacter spp.|Carbapenems,Greece,983
+Acinetobacter spp.|Carbapenems,Spain,95
+Acinetobacter spp.|Carbapenems,Finland,43
+Acinetobacter spp.|Carbapenems,France,428
+Acinetobacter spp.|Carbapenems,Croatia,200
+Acinetobacter spp.|Carbapenems,Hungary,467
+Acinetobacter spp.|Carbapenems,Ireland,84
+Acinetobacter spp.|Carbapenems,Iceland,6
+Acinetobacter spp.|Carbapenems,Italy,664
+Acinetobacter spp.|Carbapenems,Lithuania,73
+Acinetobacter spp.|Carbapenems,Luxembourg,7
+Acinetobacter spp.|Carbapenems,Latvia,61
+Acinetobacter spp.|Carbapenems,Malta,15
+Acinetobacter spp.|Carbapenems,Netherlands,73
+Acinetobacter spp.|Carbapenems,Norway,32
+Acinetobacter spp.|Carbapenems,Poland,244
+Acinetobacter spp.|Carbapenems,Portugal,307
+Acinetobacter spp.|Carbapenems,Romania,189
+Acinetobacter spp.|Carbapenems,Sweden,34
+Acinetobacter spp.|Carbapenems,Slovenia,31
+Acinetobacter spp.|Carbapenems,Slovakia,142
+Acinetobacter spp.|Carbapenems,United Kingdom,132
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Austria,61
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Belgium,13
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Bulgaria,112
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Cyprus,59
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Czech Republic,60
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Germany,325
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Denmark,60
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Estonia,1
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Greece,943
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Spain,94
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Finland,42
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",France,424
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Croatia,193
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Hungary,462
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Ireland,75
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Iceland,6
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Italy,650
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Lithuania,73
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Luxembourg,7
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Latvia,60
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Malta,15
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Netherlands,73
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Norway,32
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Poland,240
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Portugal,302
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Romania,186
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Sweden,26
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Slovenia,31
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",Slovakia,142
+"Acinetobacter spp.|Combined resistance (fluoroquinolones, aminoglycosides and carbapenems)",United Kingdom,131
+Acinetobacter spp.|Fluoroquinolones,Austria,61
+Acinetobacter spp.|Fluoroquinolones,Belgium,26
+Acinetobacter spp.|Fluoroquinolones,Bulgaria,131
+Acinetobacter spp.|Fluoroquinolones,Cyprus,60
+Acinetobacter spp.|Fluoroquinolones,Czech Republic,60
+Acinetobacter spp.|Fluoroquinolones,Germany,336
+Acinetobacter spp.|Fluoroquinolones,Denmark,68
+Acinetobacter spp.|Fluoroquinolones,Estonia,4
+Acinetobacter spp.|Fluoroquinolones,Greece,946
+Acinetobacter spp.|Fluoroquinolones,Spain,95
+Acinetobacter spp.|Fluoroquinolones,Finland,43
+Acinetobacter spp.|Fluoroquinolones,France,430
+Acinetobacter spp.|Fluoroquinolones,Croatia,196
+Acinetobacter spp.|Fluoroquinolones,Hungary,464
+Acinetobacter spp.|Fluoroquinolones,Ireland,83
+Acinetobacter spp.|Fluoroquinolones,Iceland,6
+Acinetobacter spp.|Fluoroquinolones,Italy,664
+Acinetobacter spp.|Fluoroquinolones,Lithuania,73
+Acinetobacter spp.|Fluoroquinolones,Luxembourg,8
+Acinetobacter spp.|Fluoroquinolones,Latvia,60
+Acinetobacter spp.|Fluoroquinolones,Malta,15
+Acinetobacter spp.|Fluoroquinolones,Netherlands,74
+Acinetobacter spp.|Fluoroquinolones,Norway,32
+Acinetobacter spp.|Fluoroquinolones,Poland,243
+Acinetobacter spp.|Fluoroquinolones,Portugal,308
+Acinetobacter spp.|Fluoroquinolones,Romania,189
+Acinetobacter spp.|Fluoroquinolones,Sweden,26
+Acinetobacter spp.|Fluoroquinolones,Slovenia,31
+Acinetobacter spp.|Fluoroquinolones,Slovakia,154
+Acinetobacter spp.|Fluoroquinolones,United Kingdom,139
+Enterococcus faecalis|Aminopenicillins,Austria,623
+Enterococcus faecalis|Aminopenicillins,Belgium,384
+Enterococcus faecalis|Aminopenicillins,Bulgaria,110
+Enterococcus faecalis|Aminopenicillins,Cyprus,58
+Enterococcus faecalis|Aminopenicillins,Czech Republic,547
+Enterococcus faecalis|Aminopenicillins,Germany,1536
+Enterococcus faecalis|Aminopenicillins,Denmark,590
+Enterococcus faecalis|Aminopenicillins,Estonia,31
+Enterococcus faecalis|Aminopenicillins,Greece,477
+Enterococcus faecalis|Aminopenicillins,Spain,973
+Enterococcus faecalis|Aminopenicillins,Finland,378
+Enterococcus faecalis|Aminopenicillins,France,1843
+Enterococcus faecalis|Aminopenicillins,Croatia,205
+Enterococcus faecalis|Aminopenicillins,Hungary,729
+Enterococcus faecalis|Aminopenicillins,Ireland,291
+Enterococcus faecalis|Aminopenicillins,Iceland,21
+Enterococcus faecalis|Aminopenicillins,Italy,1583
+Enterococcus faecalis|Aminopenicillins,Lithuania,81
+Enterococcus faecalis|Aminopenicillins,Luxembourg,58
+Enterococcus faecalis|Aminopenicillins,Latvia,21
+Enterococcus faecalis|Aminopenicillins,Malta,31
+Enterococcus faecalis|Aminopenicillins,Netherlands,646
+Enterococcus faecalis|Aminopenicillins,Norway,437
+Enterococcus faecalis|Aminopenicillins,Poland,356
+Enterococcus faecalis|Aminopenicillins,Portugal,907
+Enterococcus faecalis|Aminopenicillins,Romania,111
+Enterococcus faecalis|Aminopenicillins,Sweden,775
+Enterococcus faecalis|Aminopenicillins,Slovenia,133
+Enterococcus faecalis|Aminopenicillins,Slovakia,255
+Enterococcus faecalis|Aminopenicillins,United Kingdom,373
+Enterococcus faecalis|High-level gentamicin,Austria,501
+Enterococcus faecalis|High-level gentamicin,Belgium,249
+Enterococcus faecalis|High-level gentamicin,Bulgaria,100
+Enterococcus faecalis|High-level gentamicin,Cyprus,58
+Enterococcus faecalis|High-level gentamicin,Czech Republic,544
+Enterococcus faecalis|High-level gentamicin,Germany,1249
+Enterococcus faecalis|High-level gentamicin,Denmark,63
+Enterococcus faecalis|High-level gentamicin,Estonia,26
+Enterococcus faecalis|High-level gentamicin,Greece,460
+Enterococcus faecalis|High-level gentamicin,Spain,936
+Enterococcus faecalis|High-level gentamicin,Finland,0
+Enterococcus faecalis|High-level gentamicin,France,1097
+Enterococcus faecalis|High-level gentamicin,Croatia,203
+Enterococcus faecalis|High-level gentamicin,Hungary,730
+Enterococcus faecalis|High-level gentamicin,Ireland,261
+Enterococcus faecalis|High-level gentamicin,Iceland,21
+Enterococcus faecalis|High-level gentamicin,Italy,1249
+Enterococcus faecalis|High-level gentamicin,Lithuania,63
+Enterococcus faecalis|High-level gentamicin,Luxembourg,56
+Enterococcus faecalis|High-level gentamicin,Latvia,58
+Enterococcus faecalis|High-level gentamicin,Malta,29
+Enterococcus faecalis|High-level gentamicin,Netherlands,343
+Enterococcus faecalis|High-level gentamicin,Norway,163
+Enterococcus faecalis|High-level gentamicin,Poland,388
+Enterococcus faecalis|High-level gentamicin,Portugal,872
+Enterococcus faecalis|High-level gentamicin,Romania,0
+Enterococcus faecalis|High-level gentamicin,Sweden,579
+Enterococcus faecalis|High-level gentamicin,Slovenia,133
+Enterococcus faecalis|High-level gentamicin,Slovakia,234
+Enterococcus faecalis|High-level gentamicin,United Kingdom,0
+Enterococcus faecalis|Vancomycin,Austria,684
+Enterococcus faecalis|Vancomycin,Belgium,380
+Enterococcus faecalis|Vancomycin,Bulgaria,107
+Enterococcus faecalis|Vancomycin,Cyprus,58
+Enterococcus faecalis|Vancomycin,Czech Republic,547
+Enterococcus faecalis|Vancomycin,Germany,1674
+Enterococcus faecalis|Vancomycin,Denmark,530
+Enterococcus faecalis|Vancomycin,Estonia,32
+Enterococcus faecalis|Vancomycin,Greece,494
+Enterococcus faecalis|Vancomycin,Spain,980
+Enterococcus faecalis|Vancomycin,Finland,477
+Enterococcus faecalis|Vancomycin,France,1983
+Enterococcus faecalis|Vancomycin,Croatia,205
+Enterococcus faecalis|Vancomycin,Hungary,721
+Enterococcus faecalis|Vancomycin,Ireland,292
+Enterococcus faecalis|Vancomycin,Iceland,21
+Enterococcus faecalis|Vancomycin,Italy,1605
+Enterococcus faecalis|Vancomycin,Lithuania,80
+Enterococcus faecalis|Vancomycin,Luxembourg,58
+Enterococcus faecalis|Vancomycin,Latvia,59
+Enterococcus faecalis|Vancomycin,Malta,31
+Enterococcus faecalis|Vancomycin,Netherlands,646
+Enterococcus faecalis|Vancomycin,Norway,433
+Enterococcus faecalis|Vancomycin,Poland,429
+Enterococcus faecalis|Vancomycin,Portugal,980
+Enterococcus faecalis|Vancomycin,Romania,113
+Enterococcus faecalis|Vancomycin,Sweden,856
+Enterococcus faecalis|Vancomycin,Slovenia,133
+Enterococcus faecalis|Vancomycin,Slovakia,254
+Enterococcus faecalis|Vancomycin,United Kingdom,247
+Enterococcus faecium|Aminopenicillins,Austria,446
+Enterococcus faecium|Aminopenicillins,Belgium,160
+Enterococcus faecium|Aminopenicillins,Bulgaria,43
+Enterococcus faecium|Aminopenicillins,Cyprus,28
+Enterococcus faecium|Aminopenicillins,Czech Republic,322
+Enterococcus faecium|Aminopenicillins,Germany,1152
+Enterococcus faecium|Aminopenicillins,Denmark,640
+Enterococcus faecium|Aminopenicillins,Estonia,19
+Enterococcus faecium|Aminopenicillins,Greece,304
+Enterococcus faecium|Aminopenicillins,Spain,566
+Enterococcus faecium|Aminopenicillins,Finland,220
+Enterococcus faecium|Aminopenicillins,France,799
+Enterococcus faecium|Aminopenicillins,Croatia,93
+Enterococcus faecium|Aminopenicillins,Hungary,233
+Enterococcus faecium|Aminopenicillins,Ireland,403
+Enterococcus faecium|Aminopenicillins,Iceland,20
+Enterococcus faecium|Aminopenicillins,Italy,759
+Enterococcus faecium|Aminopenicillins,Lithuania,52
+Enterococcus faecium|Aminopenicillins,Luxembourg,23
+Enterococcus faecium|Aminopenicillins,Latvia,15
+Enterococcus faecium|Aminopenicillins,Malta,6
+Enterococcus faecium|Aminopenicillins,Netherlands,572
+Enterococcus faecium|Aminopenicillins,Norway,185
+Enterococcus faecium|Aminopenicillins,Poland,165
+Enterococcus faecium|Aminopenicillins,Portugal,430
+Enterococcus faecium|Aminopenicillins,Romania,71
+Enterococcus faecium|Aminopenicillins,Sweden,378
+Enterococcus faecium|Aminopenicillins,Slovenia,124
+Enterococcus faecium|Aminopenicillins,Slovakia,143
+Enterococcus faecium|Aminopenicillins,United Kingdom,313
+Enterococcus faecium|High-level gentamicin,Austria,333
+Enterococcus faecium|High-level gentamicin,Belgium,98
+Enterococcus faecium|High-level gentamicin,Bulgaria,40
+Enterococcus faecium|High-level gentamicin,Cyprus,28
+Enterococcus faecium|High-level gentamicin,Czech Republic,322
+Enterococcus faecium|High-level gentamicin,Germany,1020
+Enterococcus faecium|High-level gentamicin,Denmark,55
+Enterococcus faecium|High-level gentamicin,Estonia,17
+Enterococcus faecium|High-level gentamicin,Greece,285
+Enterococcus faecium|High-level gentamicin,Spain,542
+Enterococcus faecium|High-level gentamicin,Finland,0
+Enterococcus faecium|High-level gentamicin,France,538
+Enterococcus faecium|High-level gentamicin,Croatia,90
+Enterococcus faecium|High-level gentamicin,Hungary,240
+Enterococcus faecium|High-level gentamicin,Ireland,383
+Enterococcus faecium|High-level gentamicin,Iceland,19
+Enterococcus faecium|High-level gentamicin,Italy,604
+Enterococcus faecium|High-level gentamicin,Lithuania,35
+Enterococcus faecium|High-level gentamicin,Luxembourg,19
+Enterococcus faecium|High-level gentamicin,Latvia,33
+Enterococcus faecium|High-level gentamicin,Malta,6
+Enterococcus faecium|High-level gentamicin,Netherlands,324
+Enterococcus faecium|High-level gentamicin,Norway,82
+Enterococcus faecium|High-level gentamicin,Poland,194
+Enterococcus faecium|High-level gentamicin,Portugal,418
+Enterococcus faecium|High-level gentamicin,Romania,0
+Enterococcus faecium|High-level gentamicin,Sweden,295
+Enterococcus faecium|High-level gentamicin,Slovenia,124
+Enterococcus faecium|High-level gentamicin,Slovakia,130
+Enterococcus faecium|High-level gentamicin,United Kingdom,0
+Enterococcus faecium|Vancomycin,Austria,483
+Enterococcus faecium|Vancomycin,Belgium,163
+Enterococcus faecium|Vancomycin,Bulgaria,41
+Enterococcus faecium|Vancomycin,Cyprus,28
+Enterococcus faecium|Vancomycin,Czech Republic,322
+Enterococcus faecium|Vancomycin,Germany,1312
+Enterococcus faecium|Vancomycin,Denmark,690
+Enterococcus faecium|Vancomycin,Estonia,27
+Enterococcus faecium|Vancomycin,Greece,315
+Enterococcus faecium|Vancomycin,Spain,571
+Enterococcus faecium|Vancomycin,Finland,298
+Enterococcus faecium|Vancomycin,France,849
+Enterococcus faecium|Vancomycin,Croatia,93
+Enterococcus faecium|Vancomycin,Hungary,240
+Enterococcus faecium|Vancomycin,Ireland,404
+Enterococcus faecium|Vancomycin,Iceland,20
+Enterococcus faecium|Vancomycin,Italy,756
+Enterococcus faecium|Vancomycin,Lithuania,52
+Enterococcus faecium|Vancomycin,Luxembourg,23
+Enterococcus faecium|Vancomycin,Latvia,34
+Enterococcus faecium|Vancomycin,Malta,6
+Enterococcus faecium|Vancomycin,Netherlands,572
+Enterococcus faecium|Vancomycin,Norway,185
+Enterococcus faecium|Vancomycin,Poland,215
+Enterococcus faecium|Vancomycin,Portugal,459
+Enterococcus faecium|Vancomycin,Romania,72
+Enterococcus faecium|Vancomycin,Sweden,408
+Enterococcus faecium|Vancomycin,Slovenia,124
+Enterococcus faecium|Vancomycin,Slovakia,143
+Enterococcus faecium|Vancomycin,United Kingdom,218
+Escherichia coli|Aminoglycosides,Austria,4884
+Escherichia coli|Aminoglycosides,Belgium,2286
+Escherichia coli|Aminoglycosides,Bulgaria,182
+Escherichia coli|Aminoglycosides,Cyprus,123
+Escherichia coli|Aminoglycosides,Czech Republic,3172
+Escherichia coli|Aminoglycosides,Germany,8723
+Escherichia coli|Aminoglycosides,Denmark,4591
+Escherichia coli|Aminoglycosides,Estonia,257
+Escherichia coli|Aminoglycosides,Greece,1200
+Escherichia coli|Aminoglycosides,Spain,6489
+Escherichia coli|Aminoglycosides,Finland,4135
+Escherichia coli|Aminoglycosides,France,11055
+Escherichia coli|Aminoglycosides,Croatia,1008
+Escherichia coli|Aminoglycosides,Hungary,2020
+Escherichia coli|Aminoglycosides,Ireland,2646
+Escherichia coli|Aminoglycosides,Iceland,173
+Escherichia coli|Aminoglycosides,Italy,5408
+Escherichia coli|Aminoglycosides,Lithuania,583
+Escherichia coli|Aminoglycosides,Luxembourg,347
+Escherichia coli|Aminoglycosides,Latvia,191
+Escherichia coli|Aminoglycosides,Malta,238
+Escherichia coli|Aminoglycosides,Netherlands,5378
+Escherichia coli|Aminoglycosides,Norway,3301
+Escherichia coli|Aminoglycosides,Poland,1581
+Escherichia coli|Aminoglycosides,Portugal,5372
+Escherichia coli|Aminoglycosides,Romania,366
+Escherichia coli|Aminoglycosides,Sweden,5761
+Escherichia coli|Aminoglycosides,Slovenia,1326
+Escherichia coli|Aminoglycosides,Slovakia,896
+Escherichia coli|Aminoglycosides,United Kingdom,6052
+Escherichia coli|Aminopenicillins,Austria,4880
+Escherichia coli|Aminopenicillins,Belgium,2674
+Escherichia coli|Aminopenicillins,Bulgaria,143
+Escherichia coli|Aminopenicillins,Cyprus,123
+Escherichia coli|Aminopenicillins,Czech Republic,3172
+Escherichia coli|Aminopenicillins,Germany,8053
+Escherichia coli|Aminopenicillins,Denmark,4594
+Escherichia coli|Aminopenicillins,Estonia,196
+Escherichia coli|Aminopenicillins,Greece,1079
+Escherichia coli|Aminopenicillins,Spain,6427
+Escherichia coli|Aminopenicillins,Finland,2472
+Escherichia coli|Aminopenicillins,France,10946
+Escherichia coli|Aminopenicillins,Croatia,1042
+Escherichia coli|Aminopenicillins,Hungary,1970
+Escherichia coli|Aminopenicillins,Ireland,2646
+Escherichia coli|Aminopenicillins,Iceland,173
+Escherichia coli|Aminopenicillins,Italy,3385
+Escherichia coli|Aminopenicillins,Lithuania,582
+Escherichia coli|Aminopenicillins,Luxembourg,347
+Escherichia coli|Aminopenicillins,Latvia,192
+Escherichia coli|Aminopenicillins,Malta,238
+Escherichia coli|Aminopenicillins,Netherlands,5376
+Escherichia coli|Aminopenicillins,Norway,3299
+Escherichia coli|Aminopenicillins,Poland,346
+Escherichia coli|Aminopenicillins,Portugal,5177
+Escherichia coli|Aminopenicillins,Romania,259
+Escherichia coli|Aminopenicillins,Sweden,396
+Escherichia coli|Aminopenicillins,Slovenia,1326
+Escherichia coli|Aminopenicillins,Slovakia,878
+Escherichia coli|Aminopenicillins,United Kingdom,5117
+Escherichia coli|Carbapenems,Austria,4760
+Escherichia coli|Carbapenems,Belgium,2588
+Escherichia coli|Carbapenems,Bulgaria,182
+Escherichia coli|Carbapenems,Cyprus,123
+Escherichia coli|Carbapenems,Czech Republic,1471
+Escherichia coli|Carbapenems,Germany,8725
+Escherichia coli|Carbapenems,Denmark,4046
+Escherichia coli|Carbapenems,Estonia,219
+Escherichia coli|Carbapenems,Greece,1215
+Escherichia coli|Carbapenems,Spain,6399
+Escherichia coli|Carbapenems,Finland,4425
+Escherichia coli|Carbapenems,France,10481
+Escherichia coli|Carbapenems,Croatia,1046
+Escherichia coli|Carbapenems,Hungary,1922
+Escherichia coli|Carbapenems,Ireland,2615
+Escherichia coli|Carbapenems,Iceland,0
+Escherichia coli|Carbapenems,Italy,5592
+Escherichia coli|Carbapenems,Lithuania,579
+Escherichia coli|Carbapenems,Luxembourg,347
+Escherichia coli|Carbapenems,Latvia,192
+Escherichia coli|Carbapenems,Malta,238
+Escherichia coli|Carbapenems,Netherlands,5375
+Escherichia coli|Carbapenems,Norway,3297
+Escherichia coli|Carbapenems,Poland,1499
+Escherichia coli|Carbapenems,Portugal,5354
+Escherichia coli|Carbapenems,Romania,368
+Escherichia coli|Carbapenems,Sweden,5307
+Escherichia coli|Carbapenems,Slovenia,1326
+Escherichia coli|Carbapenems,Slovakia,830
+Escherichia coli|Carbapenems,United Kingdom,5497
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Austria,4785
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Belgium,2285
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Bulgaria,182
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Cyprus,123
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Czech Republic,3165
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Germany,8707
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Denmark,4531
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Estonia,233
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Greece,1187
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Spain,6416
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Finland,4103
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",France,10988
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Croatia,1000
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Hungary,2015
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Ireland,2621
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Iceland,162
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Italy,5389
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Lithuania,581
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Luxembourg,347
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Latvia,191
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Malta,238
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Netherlands,5377
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Norway,3298
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Poland,1532
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Portugal,5366
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Romania,364
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Sweden,5257
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Slovenia,1325
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Slovakia,891
+"Escherichia coli|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",United Kingdom,5119
+Escherichia coli|Fluoroquinolones,Austria,4808
+Escherichia coli|Fluoroquinolones,Belgium,2565
+Escherichia coli|Fluoroquinolones,Bulgaria,204
+Escherichia coli|Fluoroquinolones,Cyprus,123
+Escherichia coli|Fluoroquinolones,Czech Republic,3165
+Escherichia coli|Fluoroquinolones,Germany,8712
+Escherichia coli|Fluoroquinolones,Denmark,4570
+Escherichia coli|Fluoroquinolones,Estonia,256
+Escherichia coli|Fluoroquinolones,Greece,1191
+Escherichia coli|Fluoroquinolones,Spain,6484
+Escherichia coli|Fluoroquinolones,Finland,4404
+Escherichia coli|Fluoroquinolones,France,10998
+Escherichia coli|Fluoroquinolones,Croatia,1038
+Escherichia coli|Fluoroquinolones,Hungary,2021
+Escherichia coli|Fluoroquinolones,Ireland,2631
+Escherichia coli|Fluoroquinolones,Iceland,162
+Escherichia coli|Fluoroquinolones,Italy,5590
+Escherichia coli|Fluoroquinolones,Lithuania,583
+Escherichia coli|Fluoroquinolones,Luxembourg,347
+Escherichia coli|Fluoroquinolones,Latvia,194
+Escherichia coli|Fluoroquinolones,Malta,238
+Escherichia coli|Fluoroquinolones,Netherlands,5379
+Escherichia coli|Fluoroquinolones,Norway,3298
+Escherichia coli|Fluoroquinolones,Poland,1571
+Escherichia coli|Fluoroquinolones,Portugal,5371
+Escherichia coli|Fluoroquinolones,Romania,371
+Escherichia coli|Fluoroquinolones,Sweden,5525
+Escherichia coli|Fluoroquinolones,Slovenia,1325
+Escherichia coli|Fluoroquinolones,Slovakia,894
+Escherichia coli|Fluoroquinolones,United Kingdom,5812
+Escherichia coli|Third-generation cephalosporins,Austria,4900
+Escherichia coli|Third-generation cephalosporins,Belgium,2593
+Escherichia coli|Third-generation cephalosporins,Bulgaria,205
+Escherichia coli|Third-generation cephalosporins,Cyprus,123
+Escherichia coli|Third-generation cephalosporins,Czech Republic,3172
+Escherichia coli|Third-generation cephalosporins,Germany,8724
+Escherichia coli|Third-generation cephalosporins,Denmark,4561
+Escherichia coli|Third-generation cephalosporins,Estonia,246
+Escherichia coli|Third-generation cephalosporins,Greece,1215
+Escherichia coli|Third-generation cephalosporins,Spain,6428
+Escherichia coli|Third-generation cephalosporins,Finland,4342
+Escherichia coli|Third-generation cephalosporins,France,11051
+Escherichia coli|Third-generation cephalosporins,Croatia,1046
+Escherichia coli|Third-generation cephalosporins,Hungary,2026
+Escherichia coli|Third-generation cephalosporins,Ireland,2638
+Escherichia coli|Third-generation cephalosporins,Iceland,173
+Escherichia coli|Third-generation cephalosporins,Italy,5592
+Escherichia coli|Third-generation cephalosporins,Lithuania,581
+Escherichia coli|Third-generation cephalosporins,Luxembourg,347
+Escherichia coli|Third-generation cephalosporins,Latvia,201
+Escherichia coli|Third-generation cephalosporins,Malta,238
+Escherichia coli|Third-generation cephalosporins,Netherlands,5378
+Escherichia coli|Third-generation cephalosporins,Norway,3301
+Escherichia coli|Third-generation cephalosporins,Poland,1610
+Escherichia coli|Third-generation cephalosporins,Portugal,5376
+Escherichia coli|Third-generation cephalosporins,Romania,369
+Escherichia coli|Third-generation cephalosporins,Sweden,5995
+Escherichia coli|Third-generation cephalosporins,Slovenia,1326
+Escherichia coli|Third-generation cephalosporins,Slovakia,893
+Escherichia coli|Third-generation cephalosporins,United Kingdom,5169
+Klebsiella pneumoniae|Aminoglycosides,Austria,959
+Klebsiella pneumoniae|Aminoglycosides,Belgium,354
+Klebsiella pneumoniae|Aminoglycosides,Bulgaria,84
+Klebsiella pneumoniae|Aminoglycosides,Cyprus,62
+Klebsiella pneumoniae|Aminoglycosides,Czech Republic,1417
+Klebsiella pneumoniae|Aminoglycosides,Germany,1519
+Klebsiella pneumoniae|Aminoglycosides,Denmark,938
+Klebsiella pneumoniae|Aminoglycosides,Estonia,61
+Klebsiella pneumoniae|Aminoglycosides,Greece,1170
+Klebsiella pneumoniae|Aminoglycosides,Spain,1509
+Klebsiella pneumoniae|Aminoglycosides,Finland,625
+Klebsiella pneumoniae|Aminoglycosides,France,2337
+Klebsiella pneumoniae|Aminoglycosides,Croatia,380
+Klebsiella pneumoniae|Aminoglycosides,Hungary,706
+Klebsiella pneumoniae|Aminoglycosides,Ireland,389
+Klebsiella pneumoniae|Aminoglycosides,Iceland,36
+Klebsiella pneumoniae|Aminoglycosides,Italy,1956
+Klebsiella pneumoniae|Aminoglycosides,Lithuania,179
+Klebsiella pneumoniae|Aminoglycosides,Luxembourg,60
+Klebsiella pneumoniae|Aminoglycosides,Latvia,113
+Klebsiella pneumoniae|Aminoglycosides,Malta,88
+Klebsiella pneumoniae|Aminoglycosides,Netherlands,908
+Klebsiella pneumoniae|Aminoglycosides,Norway,700
+Klebsiella pneumoniae|Aminoglycosides,Poland,666
+Klebsiella pneumoniae|Aminoglycosides,Portugal,2090
+Klebsiella pneumoniae|Aminoglycosides,Romania,266
+Klebsiella pneumoniae|Aminoglycosides,Sweden,943
+Klebsiella pneumoniae|Aminoglycosides,Slovenia,237
+Klebsiella pneumoniae|Aminoglycosides,Slovakia,475
+Klebsiella pneumoniae|Aminoglycosides,United Kingdom,1070
+Klebsiella pneumoniae|Carbapenems,Austria,1022
+Klebsiella pneumoniae|Carbapenems,Belgium,389
+Klebsiella pneumoniae|Carbapenems,Bulgaria,95
+Klebsiella pneumoniae|Carbapenems,Cyprus,62
+Klebsiella pneumoniae|Carbapenems,Czech Republic,1100
+Klebsiella pneumoniae|Carbapenems,Germany,1520
+Klebsiella pneumoniae|Carbapenems,Denmark,846
+Klebsiella pneumoniae|Carbapenems,Estonia,56
+Klebsiella pneumoniae|Carbapenems,Greece,1185
+Klebsiella pneumoniae|Carbapenems,Spain,1483
+Klebsiella pneumoniae|Carbapenems,Finland,658
+Klebsiella pneumoniae|Carbapenems,France,2244
+Klebsiella pneumoniae|Carbapenems,Croatia,380
+Klebsiella pneumoniae|Carbapenems,Hungary,687
+Klebsiella pneumoniae|Carbapenems,Ireland,389
+Klebsiella pneumoniae|Carbapenems,Iceland,2
+Klebsiella pneumoniae|Carbapenems,Italy,1999
+Klebsiella pneumoniae|Carbapenems,Lithuania,177
+Klebsiella pneumoniae|Carbapenems,Luxembourg,60
+Klebsiella pneumoniae|Carbapenems,Latvia,112
+Klebsiella pneumoniae|Carbapenems,Malta,88
+Klebsiella pneumoniae|Carbapenems,Netherlands,907
+Klebsiella pneumoniae|Carbapenems,Norway,700
+Klebsiella pneumoniae|Carbapenems,Poland,660
+Klebsiella pneumoniae|Carbapenems,Portugal,2085
+Klebsiella pneumoniae|Carbapenems,Romania,271
+Klebsiella pneumoniae|Carbapenems,Sweden,900
+Klebsiella pneumoniae|Carbapenems,Slovenia,237
+Klebsiella pneumoniae|Carbapenems,Slovakia,436
+Klebsiella pneumoniae|Carbapenems,United Kingdom,962
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Austria,936
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Belgium,353
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Bulgaria,84
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Cyprus,62
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Czech Republic,1416
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Germany,1515
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Denmark,924
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Estonia,36
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Greece,1160
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Spain,1488
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Finland,623
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",France,2324
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Croatia,380
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Hungary,698
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Ireland,387
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Iceland,35
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Italy,1940
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Lithuania,178
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Luxembourg,60
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Latvia,112
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Malta,88
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Netherlands,908
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Norway,699
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Poland,645
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Portugal,2084
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Romania,261
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Sweden,860
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Slovenia,237
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",Slovakia,468
+"Klebsiella pneumoniae|Combined resistance (third-generation cephalosporin, fluoroquinolones and aminoglycoside)",United Kingdom,906
+Klebsiella pneumoniae|Fluoroquinolones,Austria,1029
+Klebsiella pneumoniae|Fluoroquinolones,Belgium,379
+Klebsiella pneumoniae|Fluoroquinolones,Bulgaria,96
+Klebsiella pneumoniae|Fluoroquinolones,Cyprus,62
+Klebsiella pneumoniae|Fluoroquinolones,Czech Republic,1416
+Klebsiella pneumoniae|Fluoroquinolones,Germany,1517
+Klebsiella pneumoniae|Fluoroquinolones,Denmark,935
+Klebsiella pneumoniae|Fluoroquinolones,Estonia,62
+Klebsiella pneumoniae|Fluoroquinolones,Greece,1161
+Klebsiella pneumoniae|Fluoroquinolones,Spain,1508
+Klebsiella pneumoniae|Fluoroquinolones,Finland,658
+Klebsiella pneumoniae|Fluoroquinolones,France,2332
+Klebsiella pneumoniae|Fluoroquinolones,Croatia,380
+Klebsiella pneumoniae|Fluoroquinolones,Hungary,700
+Klebsiella pneumoniae|Fluoroquinolones,Ireland,388
+Klebsiella pneumoniae|Fluoroquinolones,Iceland,35
+Klebsiella pneumoniae|Fluoroquinolones,Italy,2000
+Klebsiella pneumoniae|Fluoroquinolones,Lithuania,179
+Klebsiella pneumoniae|Fluoroquinolones,Luxembourg,60
+Klebsiella pneumoniae|Fluoroquinolones,Latvia,112
+Klebsiella pneumoniae|Fluoroquinolones,Malta,88
+Klebsiella pneumoniae|Fluoroquinolones,Netherlands,908
+Klebsiella pneumoniae|Fluoroquinolones,Norway,700
+Klebsiella pneumoniae|Fluoroquinolones,Poland,659
+Klebsiella pneumoniae|Fluoroquinolones,Portugal,2094
+Klebsiella pneumoniae|Fluoroquinolones,Romania,267
+Klebsiella pneumoniae|Fluoroquinolones,Sweden,907
+Klebsiella pneumoniae|Fluoroquinolones,Slovenia,237
+Klebsiella pneumoniae|Fluoroquinolones,Slovakia,474
+Klebsiella pneumoniae|Fluoroquinolones,United Kingdom,1011
+Klebsiella pneumoniae|Third-generation cephalosporins,Austria,1050
+Klebsiella pneumoniae|Third-generation cephalosporins,Belgium,406
+Klebsiella pneumoniae|Third-generation cephalosporins,Bulgaria,96
+Klebsiella pneumoniae|Third-generation cephalosporins,Cyprus,62
+Klebsiella pneumoniae|Third-generation cephalosporins,Czech Republic,1417
+Klebsiella pneumoniae|Third-generation cephalosporins,Germany,1518
+Klebsiella pneumoniae|Third-generation cephalosporins,Denmark,929
+Klebsiella pneumoniae|Third-generation cephalosporins,Estonia,93
+Klebsiella pneumoniae|Third-generation cephalosporins,Greece,1185
+Klebsiella pneumoniae|Third-generation cephalosporins,Spain,1491
+Klebsiella pneumoniae|Third-generation cephalosporins,Finland,644
+Klebsiella pneumoniae|Third-generation cephalosporins,France,2338
+Klebsiella pneumoniae|Third-generation cephalosporins,Croatia,380
+Klebsiella pneumoniae|Third-generation cephalosporins,Hungary,704
+Klebsiella pneumoniae|Third-generation cephalosporins,Ireland,387
+Klebsiella pneumoniae|Third-generation cephalosporins,Iceland,36
+Klebsiella pneumoniae|Third-generation cephalosporins,Italy,1999
+Klebsiella pneumoniae|Third-generation cephalosporins,Lithuania,178
+Klebsiella pneumoniae|Third-generation cephalosporins,Luxembourg,60
+Klebsiella pneumoniae|Third-generation cephalosporins,Latvia,115
+Klebsiella pneumoniae|Third-generation cephalosporins,Malta,88
+Klebsiella pneumoniae|Third-generation cephalosporins,Netherlands,908
+Klebsiella pneumoniae|Third-generation cephalosporins,Norway,701
+Klebsiella pneumoniae|Third-generation cephalosporins,Poland,676
+Klebsiella pneumoniae|Third-generation cephalosporins,Portugal,2094
+Klebsiella pneumoniae|Third-generation cephalosporins,Romania,270
+Klebsiella pneumoniae|Third-generation cephalosporins,Sweden,1001
+Klebsiella pneumoniae|Third-generation cephalosporins,Slovenia,237
+Klebsiella pneumoniae|Third-generation cephalosporins,Slovakia,469
+Klebsiella pneumoniae|Third-generation cephalosporins,United Kingdom,916
+Pseudomonas aeruginosa|Aminoglycosides,Austria,678
+Pseudomonas aeruginosa|Aminoglycosides,Belgium,218
+Pseudomonas aeruginosa|Aminoglycosides,Bulgaria,47
+Pseudomonas aeruginosa|Aminoglycosides,Cyprus,43
+Pseudomonas aeruginosa|Aminoglycosides,Czech Republic,464
+Pseudomonas aeruginosa|Aminoglycosides,Germany,936
+Pseudomonas aeruginosa|Aminoglycosides,Denmark,441
+Pseudomonas aeruginosa|Aminoglycosides,Estonia,17
+Pseudomonas aeruginosa|Aminoglycosides,Greece,667
+Pseudomonas aeruginosa|Aminoglycosides,Spain,883
+Pseudomonas aeruginosa|Aminoglycosides,Finland,341
+Pseudomonas aeruginosa|Aminoglycosides,France,1950
+Pseudomonas aeruginosa|Aminoglycosides,Croatia,256
+Pseudomonas aeruginosa|Aminoglycosides,Hungary,766
+Pseudomonas aeruginosa|Aminoglycosides,Ireland,195
+Pseudomonas aeruginosa|Aminoglycosides,Iceland,12
+Pseudomonas aeruginosa|Aminoglycosides,Italy,1050
+Pseudomonas aeruginosa|Aminoglycosides,Lithuania,41
+Pseudomonas aeruginosa|Aminoglycosides,Luxembourg,28
+Pseudomonas aeruginosa|Aminoglycosides,Latvia,11
+Pseudomonas aeruginosa|Aminoglycosides,Malta,25
+Pseudomonas aeruginosa|Aminoglycosides,Netherlands,502
+Pseudomonas aeruginosa|Aminoglycosides,Norway,219
+Pseudomonas aeruginosa|Aminoglycosides,Poland,258
+Pseudomonas aeruginosa|Aminoglycosides,Portugal,1191
+Pseudomonas aeruginosa|Aminoglycosides,Romania,90
+Pseudomonas aeruginosa|Aminoglycosides,Sweden,387
+Pseudomonas aeruginosa|Aminoglycosides,Slovenia,141
+Pseudomonas aeruginosa|Aminoglycosides,Slovakia,277
+Pseudomonas aeruginosa|Aminoglycosides,United Kingdom,539
+Pseudomonas aeruginosa|Carbapenems,Austria,680
+Pseudomonas aeruginosa|Carbapenems,Belgium,256
+Pseudomonas aeruginosa|Carbapenems,Bulgaria,55
+Pseudomonas aeruginosa|Carbapenems,Cyprus,43
+Pseudomonas aeruginosa|Carbapenems,Czech Republic,464
+Pseudomonas aeruginosa|Carbapenems,Germany,941
+Pseudomonas aeruginosa|Carbapenems,Denmark,437
+Pseudomonas aeruginosa|Carbapenems,Estonia,16
+Pseudomonas aeruginosa|Carbapenems,Greece,675
+Pseudomonas aeruginosa|Carbapenems,Spain,872
+Pseudomonas aeruginosa|Carbapenems,Finland,341
+Pseudomonas aeruginosa|Carbapenems,France,1925
+Pseudomonas aeruginosa|Carbapenems,Croatia,257
+Pseudomonas aeruginosa|Carbapenems,Hungary,770
+Pseudomonas aeruginosa|Carbapenems,Ireland,195
+Pseudomonas aeruginosa|Carbapenems,Iceland,12
+Pseudomonas aeruginosa|Carbapenems,Italy,1082
+Pseudomonas aeruginosa|Carbapenems,Lithuania,41
+Pseudomonas aeruginosa|Carbapenems,Luxembourg,24
+Pseudomonas aeruginosa|Carbapenems,Latvia,13
+Pseudomonas aeruginosa|Carbapenems,Malta,25
+Pseudomonas aeruginosa|Carbapenems,Netherlands,500
+Pseudomonas aeruginosa|Carbapenems,Norway,228
+Pseudomonas aeruginosa|Carbapenems,Poland,254
+Pseudomonas aeruginosa|Carbapenems,Portugal,1191
+Pseudomonas aeruginosa|Carbapenems,Romania,92
+Pseudomonas aeruginosa|Carbapenems,Sweden,398
+Pseudomonas aeruginosa|Carbapenems,Slovenia,141
+Pseudomonas aeruginosa|Carbapenems,Slovakia,262
+Pseudomonas aeruginosa|Carbapenems,United Kingdom,499
+Pseudomonas aeruginosa|Ceftazidime,Austria,577
+Pseudomonas aeruginosa|Ceftazidime,Belgium,226
+Pseudomonas aeruginosa|Ceftazidime,Bulgaria,52
+Pseudomonas aeruginosa|Ceftazidime,Cyprus,43
+Pseudomonas aeruginosa|Ceftazidime,Czech Republic,464
+Pseudomonas aeruginosa|Ceftazidime,Germany,938
+Pseudomonas aeruginosa|Ceftazidime,Denmark,439
+Pseudomonas aeruginosa|Ceftazidime,Estonia,7
+Pseudomonas aeruginosa|Ceftazidime,Greece,660
+Pseudomonas aeruginosa|Ceftazidime,Spain,816
+Pseudomonas aeruginosa|Ceftazidime,Finland,334
+Pseudomonas aeruginosa|Ceftazidime,France,1919
+Pseudomonas aeruginosa|Ceftazidime,Croatia,248
+Pseudomonas aeruginosa|Ceftazidime,Hungary,763
+Pseudomonas aeruginosa|Ceftazidime,Ireland,195
+Pseudomonas aeruginosa|Ceftazidime,Iceland,11
+Pseudomonas aeruginosa|Ceftazidime,Italy,1068
+Pseudomonas aeruginosa|Ceftazidime,Lithuania,41
+Pseudomonas aeruginosa|Ceftazidime,Luxembourg,28
+Pseudomonas aeruginosa|Ceftazidime,Latvia,13
+Pseudomonas aeruginosa|Ceftazidime,Malta,25
+Pseudomonas aeruginosa|Ceftazidime,Netherlands,502
+Pseudomonas aeruginosa|Ceftazidime,Norway,216
+Pseudomonas aeruginosa|Ceftazidime,Poland,259
+Pseudomonas aeruginosa|Ceftazidime,Portugal,1185
+Pseudomonas aeruginosa|Ceftazidime,Romania,85
+Pseudomonas aeruginosa|Ceftazidime,Sweden,379
+Pseudomonas aeruginosa|Ceftazidime,Slovenia,141
+Pseudomonas aeruginosa|Ceftazidime,Slovakia,247
+Pseudomonas aeruginosa|Ceftazidime,United Kingdom,472
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Austria,680
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Belgium,260
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Bulgaria,55
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Cyprus,43
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Czech Republic,464
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Germany,941
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Denmark,441
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Estonia,15
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Greece,666
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Spain,874
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Finland,341
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",France,1940
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Croatia,257
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Hungary,770
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Ireland,195
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Iceland,12
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Italy,1082
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Lithuania,41
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Luxembourg,28
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Latvia,13
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Malta,25
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Netherlands,502
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Norway,230
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Poland,260
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Portugal,1186
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Romania,92
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Sweden,386
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Slovenia,141
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",Slovakia,270
+"Pseudomonas aeruginosa|Combined resistance (at least three of piperac. and tazob., fluoroq., ceftaz., aminogl. and carbapenems)",United Kingdom,501
+Pseudomonas aeruginosa|Fluoroquinolones,Austria,659
+Pseudomonas aeruginosa|Fluoroquinolones,Belgium,261
+Pseudomonas aeruginosa|Fluoroquinolones,Bulgaria,55
+Pseudomonas aeruginosa|Fluoroquinolones,Cyprus,43
+Pseudomonas aeruginosa|Fluoroquinolones,Czech Republic,464
+Pseudomonas aeruginosa|Fluoroquinolones,Germany,940
+Pseudomonas aeruginosa|Fluoroquinolones,Denmark,420
+Pseudomonas aeruginosa|Fluoroquinolones,Estonia,18
+Pseudomonas aeruginosa|Fluoroquinolones,Greece,662
+Pseudomonas aeruginosa|Fluoroquinolones,Spain,881
+Pseudomonas aeruginosa|Fluoroquinolones,Finland,302
+Pseudomonas aeruginosa|Fluoroquinolones,France,1939
+Pseudomonas aeruginosa|Fluoroquinolones,Croatia,256
+Pseudomonas aeruginosa|Fluoroquinolones,Hungary,769
+Pseudomonas aeruginosa|Fluoroquinolones,Ireland,194
+Pseudomonas aeruginosa|Fluoroquinolones,Iceland,12
+Pseudomonas aeruginosa|Fluoroquinolones,Italy,1080
+Pseudomonas aeruginosa|Fluoroquinolones,Lithuania,41
+Pseudomonas aeruginosa|Fluoroquinolones,Luxembourg,28
+Pseudomonas aeruginosa|Fluoroquinolones,Latvia,13
+Pseudomonas aeruginosa|Fluoroquinolones,Malta,25
+Pseudomonas aeruginosa|Fluoroquinolones,Netherlands,502
+Pseudomonas aeruginosa|Fluoroquinolones,Norway,230
+Pseudomonas aeruginosa|Fluoroquinolones,Poland,257
+Pseudomonas aeruginosa|Fluoroquinolones,Portugal,1185
+Pseudomonas aeruginosa|Fluoroquinolones,Romania,92
+Pseudomonas aeruginosa|Fluoroquinolones,Sweden,382
+Pseudomonas aeruginosa|Fluoroquinolones,Slovenia,141
+Pseudomonas aeruginosa|Fluoroquinolones,Slovakia,278
+Pseudomonas aeruginosa|Fluoroquinolones,United Kingdom,522
+Pseudomonas aeruginosa|PiperacillinTazobactam,Austria,675
+Pseudomonas aeruginosa|PiperacillinTazobactam,Belgium,251
+Pseudomonas aeruginosa|PiperacillinTazobactam,Bulgaria,55
+Pseudomonas aeruginosa|PiperacillinTazobactam,Cyprus,43
+Pseudomonas aeruginosa|PiperacillinTazobactam,Czech Republic,463
+Pseudomonas aeruginosa|PiperacillinTazobactam,Germany,941
+Pseudomonas aeruginosa|PiperacillinTazobactam,Denmark,441
+Pseudomonas aeruginosa|PiperacillinTazobactam,Estonia,16
+Pseudomonas aeruginosa|PiperacillinTazobactam,Greece,638
+Pseudomonas aeruginosa|PiperacillinTazobactam,Spain,871
+Pseudomonas aeruginosa|PiperacillinTazobactam,Finland,333
+Pseudomonas aeruginosa|PiperacillinTazobactam,France,1915
+Pseudomonas aeruginosa|PiperacillinTazobactam,Croatia,249
+Pseudomonas aeruginosa|PiperacillinTazobactam,Hungary,747
+Pseudomonas aeruginosa|PiperacillinTazobactam,Ireland,195
+Pseudomonas aeruginosa|PiperacillinTazobactam,Iceland,11
+Pseudomonas aeruginosa|PiperacillinTazobactam,Italy,1074
+Pseudomonas aeruginosa|PiperacillinTazobactam,Lithuania,41
+Pseudomonas aeruginosa|PiperacillinTazobactam,Luxembourg,27
+Pseudomonas aeruginosa|PiperacillinTazobactam,Latvia,13
+Pseudomonas aeruginosa|PiperacillinTazobactam,Malta,25
+Pseudomonas aeruginosa|PiperacillinTazobactam,Netherlands,494
+Pseudomonas aeruginosa|PiperacillinTazobactam,Norway,227
+Pseudomonas aeruginosa|PiperacillinTazobactam,Poland,249
+Pseudomonas aeruginosa|PiperacillinTazobactam,Portugal,1176
+Pseudomonas aeruginosa|PiperacillinTazobactam,Romania,78
+Pseudomonas aeruginosa|PiperacillinTazobactam,Sweden,399
+Pseudomonas aeruginosa|PiperacillinTazobactam,Slovenia,141
+Pseudomonas aeruginosa|PiperacillinTazobactam,Slovakia,257
+Pseudomonas aeruginosa|PiperacillinTazobactam,United Kingdom,493
+Staphylococcus aureus|Meticillin (MRSA),Austria,2785
+Staphylococcus aureus|Meticillin (MRSA),Belgium,913
+Staphylococcus aureus|Meticillin (MRSA),Bulgaria,222
+Staphylococcus aureus|Meticillin (MRSA),Cyprus,143
+Staphylococcus aureus|Meticillin (MRSA),Czech Republic,1806
+Staphylococcus aureus|Meticillin (MRSA),Germany,4871
+Staphylococcus aureus|Meticillin (MRSA),Denmark,1876
+Staphylococcus aureus|Meticillin (MRSA),Estonia,151
+Staphylococcus aureus|Meticillin (MRSA),Greece,612
+Staphylococcus aureus|Meticillin (MRSA),Spain,1968
+Staphylococcus aureus|Meticillin (MRSA),Finland,2070
+Staphylococcus aureus|Meticillin (MRSA),France,5535
+Staphylococcus aureus|Meticillin (MRSA),Croatia,486
+Staphylococcus aureus|Meticillin (MRSA),Hungary,1517
+Staphylococcus aureus|Meticillin (MRSA),Ireland,1057
+Staphylococcus aureus|Meticillin (MRSA),Iceland,88
+Staphylococcus aureus|Meticillin (MRSA),Italy,3000
+Staphylococcus aureus|Meticillin (MRSA),Lithuania,376
+Staphylococcus aureus|Meticillin (MRSA),Luxembourg,135
+Staphylococcus aureus|Meticillin (MRSA),Latvia,251
+Staphylococcus aureus|Meticillin (MRSA),Malta,87
+Staphylococcus aureus|Meticillin (MRSA),Netherlands,2107
+Staphylococcus aureus|Meticillin (MRSA),Norway,1453
+Staphylococcus aureus|Meticillin (MRSA),Poland,958
+Staphylococcus aureus|Meticillin (MRSA),Portugal,3619
+Staphylococcus aureus|Meticillin (MRSA),Romania,297
+Staphylococcus aureus|Meticillin (MRSA),Sweden,3124
+Staphylococcus aureus|Meticillin (MRSA),Slovenia,513
+Staphylococcus aureus|Meticillin (MRSA),Slovakia,583
+Staphylococcus aureus|Meticillin (MRSA),United Kingdom,2757
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Austria,433
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Belgium,1361
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Bulgaria,32
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Cyprus,7
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Czech Republic,284
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Germany,714
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Denmark,747
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Estonia,27
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Greece,0
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Spain,624
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Finland,654
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),France,1068
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Croatia,126
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Hungary,170
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Ireland,296
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Iceland,25
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Italy,347
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Lithuania,72
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Luxembourg,27
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Latvia,53
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Malta,20
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Netherlands,1030
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Norway,403
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Poland,195
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Portugal,776
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Romania,20
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Sweden,409
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Slovenia,323
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),Slovakia,27
+Streptococcus pneumoniae|Combined non-susceptibility (penicillins and macrolides),United Kingdom,1060
+Streptococcus pneumoniae|Macrolides,Austria,439
+Streptococcus pneumoniae|Macrolides,Belgium,1361
+Streptococcus pneumoniae|Macrolides,Bulgaria,33
+Streptococcus pneumoniae|Macrolides,Cyprus,7
+Streptococcus pneumoniae|Macrolides,Czech Republic,284
+Streptococcus pneumoniae|Macrolides,Germany,724
+Streptococcus pneumoniae|Macrolides,Denmark,747
+Streptococcus pneumoniae|Macrolides,Estonia,54
+Streptococcus pneumoniae|Macrolides,Greece,0
+Streptococcus pneumoniae|Macrolides,Spain,631
+Streptococcus pneumoniae|Macrolides,Finland,765
+Streptococcus pneumoniae|Macrolides,France,1068
+Streptococcus pneumoniae|Macrolides,Croatia,126
+Streptococcus pneumoniae|Macrolides,Hungary,170
+Streptococcus pneumoniae|Macrolides,Ireland,296
+Streptococcus pneumoniae|Macrolides,Iceland,25
+Streptococcus pneumoniae|Macrolides,Italy,428
+Streptococcus pneumoniae|Macrolides,Lithuania,72
+Streptococcus pneumoniae|Macrolides,Luxembourg,29
+Streptococcus pneumoniae|Macrolides,Latvia,58
+Streptococcus pneumoniae|Macrolides,Malta,20
+Streptococcus pneumoniae|Macrolides,Netherlands,1168
+Streptococcus pneumoniae|Macrolides,Norway,403
+Streptococcus pneumoniae|Macrolides,Poland,206
+Streptococcus pneumoniae|Macrolides,Portugal,822
+Streptococcus pneumoniae|Macrolides,Romania,20
+Streptococcus pneumoniae|Macrolides,Sweden,850
+Streptococcus pneumoniae|Macrolides,Slovenia,323
+Streptococcus pneumoniae|Macrolides,Slovakia,34
+Streptococcus pneumoniae|Macrolides,United Kingdom,1077
+Streptococcus pneumoniae|Penicillins,Austria,444
+Streptococcus pneumoniae|Penicillins,Belgium,1361
+Streptococcus pneumoniae|Penicillins,Bulgaria,35
+Streptococcus pneumoniae|Penicillins,Cyprus,7
+Streptococcus pneumoniae|Penicillins,Czech Republic,284
+Streptococcus pneumoniae|Penicillins,Germany,725
+Streptococcus pneumoniae|Penicillins,Denmark,747
+Streptococcus pneumoniae|Penicillins,Estonia,72
+Streptococcus pneumoniae|Penicillins,Greece,0
+Streptococcus pneumoniae|Penicillins,Spain,665
+Streptococcus pneumoniae|Penicillins,Finland,677
+Streptococcus pneumoniae|Penicillins,France,1068
+Streptococcus pneumoniae|Penicillins,Croatia,126
+Streptococcus pneumoniae|Penicillins,Hungary,181
+Streptococcus pneumoniae|Penicillins,Ireland,303
+Streptococcus pneumoniae|Penicillins,Iceland,25
+Streptococcus pneumoniae|Penicillins,Italy,389
+Streptococcus pneumoniae|Penicillins,Lithuania,87
+Streptococcus pneumoniae|Penicillins,Luxembourg,27
+Streptococcus pneumoniae|Penicillins,Latvia,59
+Streptococcus pneumoniae|Penicillins,Malta,20
+Streptococcus pneumoniae|Penicillins,Netherlands,1163
+Streptococcus pneumoniae|Penicillins,Norway,429
+Streptococcus pneumoniae|Penicillins,Poland,217
+Streptococcus pneumoniae|Penicillins,Portugal,797
+Streptococcus pneumoniae|Penicillins,Romania,41
+Streptococcus pneumoniae|Penicillins,Sweden,420
+Streptococcus pneumoniae|Penicillins,Slovenia,323
+Streptococcus pneumoniae|Penicillins,Slovakia,27
+Streptococcus pneumoniae|Penicillins,United Kingdom,1095

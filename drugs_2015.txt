@@ -1,0 +1,2543 @@
+country	year	ddd.per.thousand	sector	atc	notes
+Austria	2015	0.61	AC	D	NA
+Belgium	2015	1.83	AC	D	NA
+Bulgaria	2015	0.3	AC	D	NA
+Croatia	2015	0.13	AC	D	NA
+Cyprus	2015	1.25	AC	D	pc.hosp.total
+Czech Republic	2015	0.47	AC	D	NA
+Denmark	2015	1.49	AC	D	NA
+Estonia	2015	1.21	AC	D	NA
+Finland	2015	1.61	AC	D	NA
+France	2015	1.22	AC	D	NA
+Germany	2015	0.65	AC	D	NA
+Greece	2015	0.32	AC	D	NA
+Hungary	2015	0.72	AC	D	NA
+Iceland	2015	1.98	AC	D	NA
+Ireland	2015	NA	AC	D	missing.data
+Italy	2015	0.18	AC	D	NA
+Latvia	2015	0.38	AC	D	NA
+Liechtenstein	2015	NA	AC	D	missing.data
+Lithuania	2015	0.48	AC	D	NA
+Luxembourg	2015	0.31	AC	D	NA
+Malta	2015	0.28	AC	D	NA
+Netherlands	2015	1.01	AC	D	NA
+Norway	2015	1.12	AC	D	NA
+Poland	2015	0.24	AC	D	NA
+Portugal	2015	1.52	AC	D	NA
+Romania	2015	0.2	AC	D	pc.hosp.total
+Slovakia	2015	0.54	AC	D	NA
+Slovenia	2015	0.78	AC	D	NA
+Spain	2015	0.2	AC	D	NA
+Sweden	2015	0.56	AC	D	NA
+United Kingdom	2015	NA	AC	D	missing.data
+Austria	2015	0.61	AC	D01	NA
+Belgium	2015	1.83	AC	D01	NA
+Bulgaria	2015	0.3	AC	D01	NA
+Croatia	2015	0.13	AC	D01	NA
+Cyprus	2015	1.25	AC	D01	pc.hosp.total
+Czech Republic	2015	0.47	AC	D01	NA
+Denmark	2015	1.49	AC	D01	NA
+Estonia	2015	1.21	AC	D01	NA
+Finland	2015	1.61	AC	D01	NA
+France	2015	1.22	AC	D01	NA
+Germany	2015	0.65	AC	D01	NA
+Greece	2015	0.32	AC	D01	NA
+Hungary	2015	0.72	AC	D01	NA
+Iceland	2015	1.98	AC	D01	NA
+Ireland	2015	NA	AC	D01	missing.data
+Italy	2015	0.18	AC	D01	NA
+Latvia	2015	0.38	AC	D01	NA
+Liechtenstein	2015	NA	AC	D01	missing.data
+Lithuania	2015	0.48	AC	D01	NA
+Luxembourg	2015	0.31	AC	D01	NA
+Malta	2015	0.28	AC	D01	NA
+Netherlands	2015	1.01	AC	D01	NA
+Norway	2015	1.12	AC	D01	NA
+Poland	2015	0.24	AC	D01	NA
+Portugal	2015	1.52	AC	D01	NA
+Romania	2015	0.2	AC	D01	pc.hosp.total
+Slovakia	2015	0.54	AC	D01	NA
+Slovenia	2015	0.78	AC	D01	NA
+Spain	2015	0.2	AC	D01	NA
+Sweden	2015	0.56	AC	D01	NA
+United Kingdom	2015	NA	AC	D01	reported.zero
+Austria	2015	0.61	AC	D01B	NA
+Belgium	2015	1.83	AC	D01B	NA
+Bulgaria	2015	0.3	AC	D01B	NA
+Croatia	2015	0.13	AC	D01B	NA
+Cyprus	2015	1.25	AC	D01B	pc.hosp.total
+Czech Republic	2015	0.47	AC	D01B	NA
+Denmark	2015	1.49	AC	D01B	NA
+Estonia	2015	1.21	AC	D01B	NA
+Finland	2015	1.61	AC	D01B	NA
+France	2015	1.22	AC	D01B	NA
+Germany	2015	0.65	AC	D01B	NA
+Greece	2015	0.32	AC	D01B	NA
+Hungary	2015	0.72	AC	D01B	NA
+Iceland	2015	1.98	AC	D01B	NA
+Ireland	2015	NA	AC	D01B	missing.data
+Italy	2015	0.18	AC	D01B	NA
+Latvia	2015	0.38	AC	D01B	NA
+Liechtenstein	2015	NA	AC	D01B	missing.data
+Lithuania	2015	0.48	AC	D01B	NA
+Luxembourg	2015	0.31	AC	D01B	NA
+Malta	2015	0.28	AC	D01B	NA
+Netherlands	2015	1.01	AC	D01B	NA
+Norway	2015	1.12	AC	D01B	NA
+Poland	2015	0.24	AC	D01B	NA
+Portugal	2015	1.52	AC	D01B	NA
+Romania	2015	0.2	AC	D01B	pc.hosp.total
+Slovakia	2015	0.54	AC	D01B	NA
+Slovenia	2015	0.78	AC	D01B	NA
+Spain	2015	0.2	AC	D01B	NA
+Sweden	2015	0.56	AC	D01B	NA
+United Kingdom	2015	NA	AC	D01B	reported.zero
+Austria	2015	0.61	AC	D01BA	NA
+Belgium	2015	1.83	AC	D01BA	NA
+Bulgaria	2015	0.3	AC	D01BA	NA
+Croatia	2015	0.13	AC	D01BA	NA
+Cyprus	2015	1.25	AC	D01BA	pc.hosp.total
+Czech Republic	2015	0.47	AC	D01BA	NA
+Denmark	2015	1.49	AC	D01BA	NA
+Estonia	2015	1.21	AC	D01BA	NA
+Finland	2015	1.61	AC	D01BA	NA
+France	2015	1.22	AC	D01BA	NA
+Germany	2015	0.65	AC	D01BA	NA
+Greece	2015	0.32	AC	D01BA	NA
+Hungary	2015	0.72	AC	D01BA	NA
+Iceland	2015	1.98	AC	D01BA	NA
+Ireland	2015	NA	AC	D01BA	missing.data
+Italy	2015	0.18	AC	D01BA	NA
+Latvia	2015	0.38	AC	D01BA	NA
+Liechtenstein	2015	NA	AC	D01BA	missing.data
+Lithuania	2015	0.48	AC	D01BA	NA
+Luxembourg	2015	0.31	AC	D01BA	NA
+Malta	2015	0.28	AC	D01BA	NA
+Netherlands	2015	1.01	AC	D01BA	NA
+Norway	2015	1.12	AC	D01BA	NA
+Poland	2015	0.24	AC	D01BA	NA
+Portugal	2015	1.52	AC	D01BA	NA
+Romania	2015	0.2	AC	D01BA	pc.hosp.total
+Slovakia	2015	0.54	AC	D01BA	NA
+Slovenia	2015	0.78	AC	D01BA	NA
+Spain	2015	0.2	AC	D01BA	NA
+Sweden	2015	0.56	AC	D01BA	NA
+United Kingdom	2015	NA	AC	D01BA	reported.zero
+Austria	2015	0.067	AC	First-generation quinolones	NA
+Belgium	2015	0.122	AC	First-generation quinolones	NA
+Bulgaria	2015	0.204	AC	First-generation quinolones	NA
+Croatia	2015	0.792	AC	First-generation quinolones	NA
+Cyprus	2015	0.88	AC	First-generation quinolones	pc.hosp.total
+Czech Republic	2015	0.138	AC	First-generation quinolones	NA
+Denmark	2015	NA	AC	First-generation quinolones	missing.data
+Estonia	2015	0.225	AC	First-generation quinolones	NA
+Finland	2015	0.003	AC	First-generation quinolones	NA
+France	2015	0.305	AC	First-generation quinolones	NA
+Germany	2015	0.053	AC	First-generation quinolones	NA
+Greece	2015	0.148	AC	First-generation quinolones	NA
+Hungary	2015	0.319	AC	First-generation quinolones	NA
+Iceland	2015	NA	AC	First-generation quinolones	missing.data
+Ireland	2015	NA	AC	First-generation quinolones	missing.data
+Italy	2015	0.085	AC	First-generation quinolones	NA
+Latvia	2015	0.207	AC	First-generation quinolones	NA
+Liechtenstein	2015	NA	AC	First-generation quinolones	missing.data
+Lithuania	2015	0.186	AC	First-generation quinolones	NA
+Luxembourg	2015	0.109	AC	First-generation quinolones	NA
+Malta	2015	0.19	AC	First-generation quinolones	NA
+Netherlands	2015	0.074	AC	First-generation quinolones	NA
+Norway	2015	NA	AC	First-generation quinolones	missing.data
+Poland	2015	0.309	AC	First-generation quinolones	NA
+Portugal	2015	0.136	AC	First-generation quinolones	NA
+Romania	2015	0.84	AC	First-generation quinolones	pc.hosp.total
+Slovakia	2015	0.31	AC	First-generation quinolones	NA
+Slovenia	2015	0.211	AC	First-generation quinolones	NA
+Spain	2015	0.196	AC	First-generation quinolones	NA
+Sweden	2015	0.009	AC	First-generation quinolones	NA
+United Kingdom	2015	NA	AC	First-generation quinolones	missing.data
+Austria	2015	1.63	AC	Intermediate-acting macrolides	NA
+Belgium	2015	1.54	AC	Intermediate-acting macrolides	NA
+Bulgaria	2015	1.71	AC	Intermediate-acting macrolides	NA
+Croatia	2015	0.96	AC	Intermediate-acting macrolides	NA
+Cyprus	2015	2.1	AC	Intermediate-acting macrolides	pc.hosp.total
+Czech Republic	2015	2.71	AC	Intermediate-acting macrolides	NA
+Denmark	2015	1.08	AC	Intermediate-acting macrolides	NA
+Estonia	2015	1.7	AC	Intermediate-acting macrolides	NA
+Finland	2015	0.35	AC	Intermediate-acting macrolides	NA
+France	2015	1.36	AC	Intermediate-acting macrolides	NA
+Germany	2015	1.06	AC	Intermediate-acting macrolides	NA
+Greece	2015	6.06	AC	Intermediate-acting macrolides	NA
+Hungary	2015	1.18	AC	Intermediate-acting macrolides	NA
+Iceland	2015	0.26	AC	Intermediate-acting macrolides	NA
+Ireland	2015	3.02	AC	Intermediate-acting macrolides	NA
+Italy	2015	2.89	AC	Intermediate-acting macrolides	NA
+Latvia	2015	1.1	AC	Intermediate-acting macrolides	NA
+Liechtenstein	2015	NA	AC	Intermediate-acting macrolides	missing.data
+Lithuania	2015	1.37	AC	Intermediate-acting macrolides	NA
+Luxembourg	2015	1.96	AC	Intermediate-acting macrolides	NA
+Malta	2015	2.53	AC	Intermediate-acting macrolides	NA
+Netherlands	2015	0.35	AC	Intermediate-acting macrolides	NA
+Norway	2015	0.17	AC	Intermediate-acting macrolides	NA
+Poland	2015	1.8	AC	Intermediate-acting macrolides	NA
+Portugal	2015	1.41	AC	Intermediate-acting macrolides	NA
+Romania	2015	1.98	AC	Intermediate-acting macrolides	pc.hosp.total
+Slovakia	2015	2.99	AC	Intermediate-acting macrolides	NA
+Slovenia	2015	0.54	AC	Intermediate-acting macrolides	NA
+Spain	2015	0.63	AC	Intermediate-acting macrolides	NA
+Sweden	2015	0.05	AC	Intermediate-acting macrolides	NA
+United Kingdom	2015	NA	AC	Intermediate-acting macrolides	missing.data
+Austria	2015	15.7	AC	J	NA
+Belgium	2015	30.5	AC	J	NA
+Bulgaria	2015	22.9	AC	J	NA
+Croatia	2015	22.3	AC	J	NA
+Cyprus	2015	33.8	AC	J	pc.hosp.total
+Czech Republic	2015	20.6	AC	J	NA
+Denmark	2015	17.1	AC	J	NA
+Estonia	2015	12.7	AC	J	NA
+Finland	2015	18.1	AC	J	NA
+France	2015	33.4	AC	J	NA
+Germany	2015	16.5	AC	J	NA
+Greece	2015	38.9	AC	J	NA
+Hungary	2015	18	AC	J	NA
+Iceland	2015	21.8	AC	J	NA
+Ireland	2015	25.3	AC	J	NA
+Italy	2015	28.4	AC	J	NA
+Latvia	2015	15.6	AC	J	NA
+Liechtenstein	2015	NA	AC	J	missing.data
+Lithuania	2015	17.6	AC	J	NA
+Luxembourg	2015	28.5	AC	J	NA
+Malta	2015	23	AC	J	NA
+Netherlands	2015	13.5	AC	J	NA
+Norway	2015	17.5	AC	J	NA
+Poland	2015	29	AC	J	NA
+Portugal	2015	22.1	AC	J	NA
+Romania	2015	36	AC	J	pc.hosp.total
+Slovakia	2015	27.3	AC	J	NA
+Slovenia	2015	15.4	AC	J	NA
+Spain	2015	22.9	AC	J	NA
+Sweden	2015	14.4	AC	J	NA
+United Kingdom	2015	NA	AC	J	missing.data
+Austria	2015	13.9	AC	J01	NA
+Belgium	2015	27.7	AC	J01	NA
+Bulgaria	2015	21.4	AC	J01	NA
+Croatia	2015	21.8	AC	J01	NA
+Cyprus	2015	31.1	AC	J01	pc.hosp.total
+Czech Republic	2015	19.5	AC	J01	NA
+Denmark	2015	16.1	AC	J01	NA
+Estonia	2015	12	AC	J01	NA
+Finland	2015	17.2	AC	J01	NA
+France	2015	29.9	AC	J01	NA
+Germany	2015	14.4	AC	J01	NA
+Greece	2015	36.1	AC	J01	NA
+Hungary	2015	17	AC	J01	NA
+Iceland	2015	19.9	AC	J01	NA
+Ireland	2015	25.3	AC	J01	NA
+Italy	2015	27.5	AC	J01	NA
+Latvia	2015	13.3	AC	J01	NA
+Liechtenstein	2015	NA	AC	J01	missing.data
+Lithuania	2015	16.7	AC	J01	NA
+Luxembourg	2015	26.3	AC	J01	NA
+Malta	2015	21.6	AC	J01	NA
+Netherlands	2015	10.7	AC	J01	NA
+Norway	2015	15.8	AC	J01	NA
+Poland	2015	26.2	AC	J01	NA
+Portugal	2015	21.3	AC	J01	NA
+Romania	2015	33.3	AC	J01	pc.hosp.total
+Slovakia	2015	24.5	AC	J01	NA
+Slovenia	2015	14.5	AC	J01	NA
+Spain	2015	22.2	AC	J01	NA
+Sweden	2015	12.3	AC	J01	NA
+United Kingdom	2015	20.1	AC	J01	NA
+Austria	2015	0.99	AC	J01A	NA
+Belgium	2015	2.03	AC	J01A	NA
+Bulgaria	2015	1.7	AC	J01A	NA
+Croatia	2015	1.14	AC	J01A	NA
+Cyprus	2015	3.61	AC	J01A	pc.hosp.total
+Czech Republic	2015	1.98	AC	J01A	NA
+Denmark	2015	1.61	AC	J01A	NA
+Estonia	2015	1.44	AC	J01A	NA
+Finland	2015	3.94	AC	J01A	NA
+France	2015	3.26	AC	J01A	NA
+Germany	2015	1.97	AC	J01A	NA
+Greece	2015	2.58	AC	J01A	NA
+Hungary	2015	1.21	AC	J01A	NA
+Iceland	2015	4.6	AC	J01A	NA
+Ireland	2015	2.57	AC	J01A	NA
+Italy	2015	0.55	AC	J01A	NA
+Latvia	2015	2.18	AC	J01A	NA
+Liechtenstein	2015	NA	AC	J01A	missing.data
+Lithuania	2015	1.33	AC	J01A	NA
+Luxembourg	2015	1.69	AC	J01A	NA
+Malta	2015	0.75	AC	J01A	NA
+Netherlands	2015	2.25	AC	J01A	NA
+Norway	2015	3.08	AC	J01A	NA
+Poland	2015	2.39	AC	J01A	NA
+Portugal	2015	0.83	AC	J01A	NA
+Romania	2015	1.1	AC	J01A	pc.hosp.total
+Slovakia	2015	1.73	AC	J01A	NA
+Slovenia	2015	0.42	AC	J01A	NA
+Spain	2015	0.74	AC	J01A	NA
+Sweden	2015	2.54	AC	J01A	NA
+United Kingdom	2015	4.97	AC	J01A	NA
+Austria	2015	0.99	AC	J01AA	NA
+Belgium	2015	2.03	AC	J01AA	NA
+Bulgaria	2015	1.7	AC	J01AA	NA
+Croatia	2015	1.14	AC	J01AA	NA
+Cyprus	2015	3.61	AC	J01AA	pc.hosp.total
+Czech Republic	2015	1.98	AC	J01AA	NA
+Denmark	2015	1.61	AC	J01AA	NA
+Estonia	2015	1.44	AC	J01AA	NA
+Finland	2015	3.94	AC	J01AA	NA
+France	2015	3.26	AC	J01AA	NA
+Germany	2015	1.97	AC	J01AA	NA
+Greece	2015	2.58	AC	J01AA	NA
+Hungary	2015	1.21	AC	J01AA	NA
+Iceland	2015	4.6	AC	J01AA	NA
+Ireland	2015	2.57	AC	J01AA	NA
+Italy	2015	0.55	AC	J01AA	NA
+Latvia	2015	2.18	AC	J01AA	NA
+Liechtenstein	2015	NA	AC	J01AA	missing.data
+Lithuania	2015	1.33	AC	J01AA	NA
+Luxembourg	2015	1.69	AC	J01AA	NA
+Malta	2015	0.75	AC	J01AA	NA
+Netherlands	2015	2.25	AC	J01AA	NA
+Norway	2015	3.08	AC	J01AA	NA
+Poland	2015	2.39	AC	J01AA	NA
+Portugal	2015	0.83	AC	J01AA	NA
+Romania	2015	1.1	AC	J01AA	pc.hosp.total
+Slovakia	2015	1.73	AC	J01AA	NA
+Slovenia	2015	0.42	AC	J01AA	NA
+Spain	2015	0.74	AC	J01AA	NA
+Sweden	2015	2.54	AC	J01AA	NA
+United Kingdom	2015	4.97	AC	J01AA	NA
+Austria	2015	NA	AC	J01B	reported.zero
+Belgium	2015	0.0269	AC	J01B	NA
+Bulgaria	2015	0.0357	AC	J01B	NA
+Croatia	2015	NA	AC	J01B	reported.zero
+Cyprus	2015	NA	AC	J01B	pc.hosp.totalreported.zero
+Czech Republic	2015	1e-04	AC	J01B	NA
+Denmark	2015	NA	AC	J01B	reported.zero
+Estonia	2015	NA	AC	J01B	reported.zero
+Finland	2015	NA	AC	J01B	reported.zero
+France	2015	3e-04	AC	J01B	NA
+Germany	2015	NA	AC	J01B	reported.zero
+Greece	2015	1e-04	AC	J01B	NA
+Hungary	2015	NA	AC	J01B	reported.zero
+Iceland	2015	NA	AC	J01B	reported.zero
+Ireland	2015	NA	AC	J01B	reported.zero
+Italy	2015	0.0583	AC	J01B	NA
+Latvia	2015	NA	AC	J01B	reported.zero
+Liechtenstein	2015	NA	AC	J01B	missing.data
+Lithuania	2015	NA	AC	J01B	reported.zero
+Luxembourg	2015	0.0014	AC	J01B	NA
+Malta	2015	1e-04	AC	J01B	NA
+Netherlands	2015	NA	AC	J01B	reported.zero
+Norway	2015	NA	AC	J01B	reported.zero
+Poland	2015	NA	AC	J01B	reported.zero
+Portugal	2015	NA	AC	J01B	reported.zero
+Romania	2015	0.0092	AC	J01B	pc.hosp.total
+Slovakia	2015	NA	AC	J01B	reported.zero
+Slovenia	2015	NA	AC	J01B	reported.zero
+Spain	2015	NA	AC	J01B	reported.zero
+Sweden	2015	NA	AC	J01B	reported.zero
+United Kingdom	2015	8e-04	AC	J01B	NA
+Austria	2015	NA	AC	J01BA	reported.zero
+Belgium	2015	0.0269	AC	J01BA	NA
+Bulgaria	2015	0.0357	AC	J01BA	NA
+Croatia	2015	NA	AC	J01BA	reported.zero
+Cyprus	2015	NA	AC	J01BA	pc.hosp.totalreported.zero
+Czech Republic	2015	1e-04	AC	J01BA	NA
+Denmark	2015	NA	AC	J01BA	reported.zero
+Estonia	2015	NA	AC	J01BA	reported.zero
+Finland	2015	NA	AC	J01BA	reported.zero
+France	2015	3e-04	AC	J01BA	NA
+Germany	2015	NA	AC	J01BA	reported.zero
+Greece	2015	1e-04	AC	J01BA	NA
+Hungary	2015	NA	AC	J01BA	reported.zero
+Iceland	2015	NA	AC	J01BA	reported.zero
+Ireland	2015	NA	AC	J01BA	reported.zero
+Italy	2015	0.0583	AC	J01BA	NA
+Latvia	2015	NA	AC	J01BA	reported.zero
+Liechtenstein	2015	NA	AC	J01BA	missing.data
+Lithuania	2015	NA	AC	J01BA	reported.zero
+Luxembourg	2015	0.0014	AC	J01BA	NA
+Malta	2015	1e-04	AC	J01BA	NA
+Netherlands	2015	NA	AC	J01BA	reported.zero
+Norway	2015	NA	AC	J01BA	reported.zero
+Poland	2015	NA	AC	J01BA	reported.zero
+Portugal	2015	NA	AC	J01BA	reported.zero
+Romania	2015	0.0092	AC	J01BA	pc.hosp.total
+Slovakia	2015	NA	AC	J01BA	reported.zero
+Slovenia	2015	NA	AC	J01BA	reported.zero
+Spain	2015	NA	AC	J01BA	reported.zero
+Sweden	2015	NA	AC	J01BA	reported.zero
+United Kingdom	2015	8e-04	AC	J01BA	NA
+Austria	2015	6.6	AC	J01C	NA
+Belgium	2015	15	AC	J01C	NA
+Bulgaria	2015	8.2	AC	J01C	NA
+Croatia	2015	11.9	AC	J01C	NA
+Cyprus	2015	13.3	AC	J01C	pc.hosp.total
+Czech Republic	2015	8.3	AC	J01C	NA
+Denmark	2015	10.7	AC	J01C	NA
+Estonia	2015	4.8	AC	J01C	NA
+Finland	2015	6.3	AC	J01C	NA
+France	2015	18.8	AC	J01C	NA
+Germany	2015	4.5	AC	J01C	NA
+Greece	2015	14.6	AC	J01C	NA
+Hungary	2015	7.1	AC	J01C	NA
+Iceland	2015	10.7	AC	J01C	NA
+Ireland	2015	15.4	AC	J01C	NA
+Italy	2015	15.5	AC	J01C	NA
+Latvia	2015	6.5	AC	J01C	NA
+Liechtenstein	2015	NA	AC	J01C	missing.data
+Lithuania	2015	9.6	AC	J01C	NA
+Luxembourg	2015	13.4	AC	J01C	NA
+Malta	2015	8.6	AC	J01C	NA
+Netherlands	2015	4.4	AC	J01C	NA
+Norway	2015	6.4	AC	J01C	NA
+Poland	2015	10.4	AC	J01C	NA
+Portugal	2015	12.2	AC	J01C	NA
+Romania	2015	18.8	AC	J01C	pc.hosp.total
+Slovakia	2015	8.9	AC	J01C	NA
+Slovenia	2015	9.6	AC	J01C	NA
+Spain	2015	14.5	AC	J01C	NA
+Sweden	2015	6.3	AC	J01C	NA
+United Kingdom	2015	8.9	AC	J01C	NA
+Austria	2015	1	AC	J01CA	NA
+Belgium	2015	7.5	AC	J01CA	NA
+Bulgaria	2015	4.7	AC	J01CA	NA
+Croatia	2015	3.5	AC	J01CA	NA
+Cyprus	2015	3.5	AC	J01CA	pc.hosp.total
+Czech Republic	2015	1.8	AC	J01CA	NA
+Denmark	2015	3.6	AC	J01CA	NA
+Estonia	2015	2.6	AC	J01CA	NA
+Finland	2015	3.7	AC	J01CA	NA
+France	2015	11.3	AC	J01CA	NA
+Germany	2015	3.3	AC	J01CA	NA
+Greece	2015	6.9	AC	J01CA	NA
+Hungary	2015	1.2	AC	J01CA	NA
+Iceland	2015	3.5	AC	J01CA	NA
+Ireland	2015	5.3	AC	J01CA	NA
+Italy	2015	3.7	AC	J01CA	NA
+Latvia	2015	4.4	AC	J01CA	NA
+Liechtenstein	2015	NA	AC	J01CA	missing.data
+Lithuania	2015	7.4	AC	J01CA	NA
+Luxembourg	2015	4.9	AC	J01CA	NA
+Malta	2015	0.5	AC	J01CA	NA
+Netherlands	2015	2.1	AC	J01CA	NA
+Norway	2015	2.6	AC	J01CA	NA
+Poland	2015	5.6	AC	J01CA	NA
+Portugal	2015	2.5	AC	J01CA	NA
+Romania	2015	7.1	AC	J01CA	pc.hosp.total
+Slovakia	2015	1.6	AC	J01CA	NA
+Slovenia	2015	3.4	AC	J01CA	NA
+Spain	2015	5.4	AC	J01CA	NA
+Sweden	2015	1.3	AC	J01CA	NA
+United Kingdom	2015	5.3	AC	J01CA	NA
+Austria	2015	0.76	AC	J01CE	NA
+Belgium	2015	0.03	AC	J01CE	NA
+Bulgaria	2015	0.14	AC	J01CE	NA
+Croatia	2015	0.46	AC	J01CE	NA
+Cyprus	2015	0.08	AC	J01CE	pc.hosp.total
+Czech Republic	2015	1.89	AC	J01CE	NA
+Denmark	2015	4.26	AC	J01CE	NA
+Estonia	2015	0.14	AC	J01CE	NA
+Finland	2015	1.23	AC	J01CE	NA
+France	2015	0.16	AC	J01CE	NA
+Germany	2015	0.71	AC	J01CE	NA
+Greece	2015	0.04	AC	J01CE	NA
+Hungary	2015	0.12	AC	J01CE	NA
+Iceland	2015	1.9	AC	J01CE	NA
+Ireland	2015	1.05	AC	J01CE	NA
+Italy	2015	NA	AC	J01CE	reported.zero
+Latvia	2015	0.07	AC	J01CE	NA
+Liechtenstein	2015	NA	AC	J01CE	missing.data
+Lithuania	2015	0.13	AC	J01CE	NA
+Luxembourg	2015	0.01	AC	J01CE	NA
+Malta	2015	0.11	AC	J01CE	NA
+Netherlands	2015	0.23	AC	J01CE	NA
+Norway	2015	3.24	AC	J01CE	NA
+Poland	2015	0.34	AC	J01CE	NA
+Portugal	2015	0.01	AC	J01CE	NA
+Romania	2015	0.87	AC	J01CE	pc.hosp.total
+Slovakia	2015	1.26	AC	J01CE	NA
+Slovenia	2015	1.51	AC	J01CE	NA
+Spain	2015	0.07	AC	J01CE	NA
+Sweden	2015	3.19	AC	J01CE	NA
+United Kingdom	2015	0.84	AC	J01CE	NA
+Austria	2015	0.01	AC	J01CF	NA
+Belgium	2015	0.25	AC	J01CF	NA
+Bulgaria	2015	NA	AC	J01CF	reported.zero
+Croatia	2015	0.01	AC	J01CF	NA
+Cyprus	2015	0.02	AC	J01CF	pc.hosp.total
+Czech Republic	2015	0.05	AC	J01CF	NA
+Denmark	2015	1.38	AC	J01CF	NA
+Estonia	2015	NA	AC	J01CF	reported.zero
+Finland	2015	0.05	AC	J01CF	NA
+France	2015	0.21	AC	J01CF	NA
+Germany	2015	0.01	AC	J01CF	NA
+Greece	2015	NA	AC	J01CF	reported.zero
+Hungary	2015	NA	AC	J01CF	reported.zero
+Iceland	2015	0.86	AC	J01CF	NA
+Ireland	2015	2.25	AC	J01CF	NA
+Italy	2015	0.01	AC	J01CF	NA
+Latvia	2015	NA	AC	J01CF	reported.zero
+Liechtenstein	2015	NA	AC	J01CF	missing.data
+Lithuania	2015	NA	AC	J01CF	reported.zero
+Luxembourg	2015	0.14	AC	J01CF	NA
+Malta	2015	0.01	AC	J01CF	NA
+Netherlands	2015	0.43	AC	J01CF	NA
+Norway	2015	0.64	AC	J01CF	NA
+Poland	2015	0.01	AC	J01CF	NA
+Portugal	2015	0.44	AC	J01CF	NA
+Romania	2015	0.71	AC	J01CF	pc.hosp.total
+Slovakia	2015	NA	AC	J01CF	reported.zero
+Slovenia	2015	0.18	AC	J01CF	NA
+Spain	2015	0.19	AC	J01CF	NA
+Sweden	2015	1.54	AC	J01CF	NA
+United Kingdom	2015	1.51	AC	J01CF	NA
+Austria	2015	NA	AC	J01CG	reported.zero
+Belgium	2015	NA	AC	J01CG	reported.zero
+Bulgaria	2015	NA	AC	J01CG	reported.zero
+Croatia	2015	NA	AC	J01CG	reported.zero
+Cyprus	2015	NA	AC	J01CG	reported.zero
+Czech Republic	2015	NA	AC	J01CG	reported.zero
+Denmark	2015	NA	AC	J01CG	reported.zero
+Estonia	2015	NA	AC	J01CG	reported.zero
+Finland	2015	NA	AC	J01CG	reported.zero
+France	2015	NA	AC	J01CG	reported.zero
+Germany	2015	3e-05	AC	J01CG	NA
+Greece	2015	NA	AC	J01CG	reported.zero
+Hungary	2015	NA	AC	J01CG	reported.zero
+Iceland	2015	NA	AC	J01CG	reported.zero
+Ireland	2015	NA	AC	J01CG	reported.zero
+Italy	2015	NA	AC	J01CG	reported.zero
+Latvia	2015	NA	AC	J01CG	reported.zero
+Liechtenstein	2015	NA	AC	J01CG	missing.data
+Lithuania	2015	NA	AC	J01CG	reported.zero
+Luxembourg	2015	NA	AC	J01CG	reported.zero
+Malta	2015	NA	AC	J01CG	reported.zero
+Netherlands	2015	NA	AC	J01CG	reported.zero
+Norway	2015	NA	AC	J01CG	reported.zero
+Poland	2015	NA	AC	J01CG	reported.zero
+Portugal	2015	NA	AC	J01CG	reported.zero
+Romania	2015	NA	AC	J01CG	reported.zero
+Slovakia	2015	NA	AC	J01CG	reported.zero
+Slovenia	2015	NA	AC	J01CG	reported.zero
+Spain	2015	NA	AC	J01CG	reported.zero
+Sweden	2015	NA	AC	J01CG	reported.zero
+United Kingdom	2015	NA	AC	J01CG	reported.zero
+Austria	2015	4.8	AC	J01CR	NA
+Belgium	2015	7.2	AC	J01CR	NA
+Bulgaria	2015	3.3	AC	J01CR	NA
+Croatia	2015	8	AC	J01CR	NA
+Cyprus	2015	9.7	AC	J01CR	pc.hosp.total
+Czech Republic	2015	4.6	AC	J01CR	NA
+Denmark	2015	1.4	AC	J01CR	NA
+Estonia	2015	2.1	AC	J01CR	NA
+Finland	2015	1.3	AC	J01CR	NA
+France	2015	7.2	AC	J01CR	NA
+Germany	2015	0.5	AC	J01CR	NA
+Greece	2015	7.7	AC	J01CR	NA
+Hungary	2015	5.7	AC	J01CR	NA
+Iceland	2015	4.4	AC	J01CR	NA
+Ireland	2015	6.7	AC	J01CR	NA
+Italy	2015	11.8	AC	J01CR	NA
+Latvia	2015	2	AC	J01CR	NA
+Liechtenstein	2015	NA	AC	J01CR	missing.data
+Lithuania	2015	2	AC	J01CR	NA
+Luxembourg	2015	8.4	AC	J01CR	NA
+Malta	2015	8	AC	J01CR	NA
+Netherlands	2015	1.6	AC	J01CR	NA
+Norway	2015	NA	AC	J01CR	reported.zero
+Poland	2015	4.5	AC	J01CR	NA
+Portugal	2015	9.3	AC	J01CR	NA
+Romania	2015	10.1	AC	J01CR	pc.hosp.total
+Slovakia	2015	6.1	AC	J01CR	NA
+Slovenia	2015	4.5	AC	J01CR	NA
+Spain	2015	8.9	AC	J01CR	NA
+Sweden	2015	0.3	AC	J01CR	NA
+United Kingdom	2015	1.2	AC	J01CR	NA
+Austria	2015	1.44	AC	J01D	NA
+Belgium	2015	1.44	AC	J01D	NA
+Bulgaria	2015	3.9	AC	J01D	NA
+Croatia	2015	2.74	AC	J01D	NA
+Cyprus	2015	5.27	AC	J01D	pc.hosp.total
+Czech Republic	2015	2.23	AC	J01D	NA
+Denmark	2015	0.03	AC	J01D	NA
+Estonia	2015	1.22	AC	J01D	NA
+Finland	2015	2.1	AC	J01D	NA
+France	2015	2.12	AC	J01D	NA
+Germany	2015	3.11	AC	J01D	NA
+Greece	2015	7.55	AC	J01D	NA
+Hungary	2015	1.98	AC	J01D	NA
+Iceland	2015	0.46	AC	J01D	NA
+Ireland	2015	1.16	AC	J01D	NA
+Italy	2015	2.33	AC	J01D	NA
+Latvia	2015	0.52	AC	J01D	NA
+Liechtenstein	2015	NA	AC	J01D	missing.data
+Lithuania	2015	1.16	AC	J01D	NA
+Luxembourg	2015	3.46	AC	J01D	NA
+Malta	2015	4.11	AC	J01D	NA
+Netherlands	2015	0.04	AC	J01D	NA
+Norway	2015	0.08	AC	J01D	NA
+Poland	2015	2.87	AC	J01D	NA
+Portugal	2015	1.56	AC	J01D	NA
+Romania	2015	5.28	AC	J01D	pc.hosp.total
+Slovakia	2015	4.71	AC	J01D	NA
+Slovenia	2015	0.31	AC	J01D	NA
+Spain	2015	1.64	AC	J01D	NA
+Sweden	2015	0.14	AC	J01D	NA
+United Kingdom	2015	0.29	AC	J01D	NA
+Austria	2015	0.31	AC	J01DB	NA
+Belgium	2015	0.1	AC	J01DB	NA
+Bulgaria	2015	0.14	AC	J01DB	NA
+Croatia	2015	0.66	AC	J01DB	NA
+Cyprus	2015	0.28	AC	J01DB	pc.hosp.total
+Czech Republic	2015	0.09	AC	J01DB	NA
+Denmark	2015	NA	AC	J01DB	reported.zero
+Estonia	2015	0.21	AC	J01DB	NA
+Finland	2015	2.05	AC	J01DB	NA
+France	2015	0.03	AC	J01DB	NA
+Germany	2015	0.05	AC	J01DB	NA
+Greece	2015	NA	AC	J01DB	reported.zero
+Hungary	2015	0.01	AC	J01DB	NA
+Iceland	2015	0.45	AC	J01DB	NA
+Ireland	2015	0.28	AC	J01DB	NA
+Italy	2015	0.07	AC	J01DB	NA
+Latvia	2015	0.18	AC	J01DB	NA
+Liechtenstein	2015	NA	AC	J01DB	missing.data
+Lithuania	2015	0.26	AC	J01DB	NA
+Luxembourg	2015	0.12	AC	J01DB	NA
+Malta	2015	0.04	AC	J01DB	NA
+Netherlands	2015	NA	AC	J01DB	reported.zero
+Norway	2015	0.07	AC	J01DB	NA
+Poland	2015	0.13	AC	J01DB	NA
+Portugal	2015	0.28	AC	J01DB	NA
+Romania	2015	0.35	AC	J01DB	pc.hosp.total
+Slovakia	2015	0.24	AC	J01DB	NA
+Slovenia	2015	0.01	AC	J01DB	NA
+Spain	2015	0.01	AC	J01DB	NA
+Sweden	2015	0.11	AC	J01DB	NA
+United Kingdom	2015	0.25	AC	J01DB	NA
+Austria	2015	0.9	AC	J01DC	NA
+Belgium	2015	1.34	AC	J01DC	NA
+Bulgaria	2015	3.01	AC	J01DC	NA
+Croatia	2015	1.85	AC	J01DC	NA
+Cyprus	2015	4.03	AC	J01DC	pc.hosp.total
+Czech Republic	2015	1.99	AC	J01DC	NA
+Denmark	2015	0.02	AC	J01DC	NA
+Estonia	2015	0.99	AC	J01DC	NA
+Finland	2015	0.05	AC	J01DC	NA
+France	2015	0.48	AC	J01DC	NA
+Germany	2015	2.72	AC	J01DC	NA
+Greece	2015	7.35	AC	J01DC	NA
+Hungary	2015	1.76	AC	J01DC	NA
+Iceland	2015	0.01	AC	J01DC	NA
+Ireland	2015	0.84	AC	J01DC	NA
+Italy	2015	0.28	AC	J01DC	NA
+Latvia	2015	0.3	AC	J01DC	NA
+Liechtenstein	2015	NA	AC	J01DC	missing.data
+Lithuania	2015	0.89	AC	J01DC	NA
+Luxembourg	2015	3.33	AC	J01DC	NA
+Malta	2015	3.33	AC	J01DC	NA
+Netherlands	2015	0.02	AC	J01DC	NA
+Norway	2015	NA	AC	J01DC	reported.zero
+Poland	2015	2.72	AC	J01DC	NA
+Portugal	2015	1.09	AC	J01DC	NA
+Romania	2015	3.61	AC	J01DC	pc.hosp.total
+Slovakia	2015	3.71	AC	J01DC	NA
+Slovenia	2015	0.24	AC	J01DC	NA
+Spain	2015	1.24	AC	J01DC	NA
+Sweden	2015	NA	AC	J01DC	reported.zero
+United Kingdom	2015	0.02	AC	J01DC	NA
+Austria	2015	0.23	AC	J01DD	NA
+Belgium	2015	NA	AC	J01DD	reported.zero
+Bulgaria	2015	0.74	AC	J01DD	NA
+Croatia	2015	0.23	AC	J01DD	NA
+Cyprus	2015	0.83	AC	J01DD	pc.hosp.total
+Czech Republic	2015	0.08	AC	J01DD	NA
+Denmark	2015	NA	AC	J01DD	reported.zero
+Estonia	2015	0.01	AC	J01DD	NA
+Finland	2015	NA	AC	J01DD	reported.zero
+France	2015	1.6	AC	J01DD	NA
+Germany	2015	0.33	AC	J01DD	NA
+Greece	2015	0.11	AC	J01DD	NA
+Hungary	2015	0.21	AC	J01DD	NA
+Iceland	2015	NA	AC	J01DD	reported.zero
+Ireland	2015	0.04	AC	J01DD	NA
+Italy	2015	1.97	AC	J01DD	NA
+Latvia	2015	0.04	AC	J01DD	NA
+Liechtenstein	2015	NA	AC	J01DD	missing.data
+Lithuania	2015	0.01	AC	J01DD	NA
+Luxembourg	2015	0.02	AC	J01DD	NA
+Malta	2015	0.74	AC	J01DD	NA
+Netherlands	2015	0.01	AC	J01DD	NA
+Norway	2015	0.01	AC	J01DD	NA
+Poland	2015	0.02	AC	J01DD	NA
+Portugal	2015	0.19	AC	J01DD	NA
+Romania	2015	1.27	AC	J01DD	pc.hosp.total
+Slovakia	2015	0.76	AC	J01DD	NA
+Slovenia	2015	0.06	AC	J01DD	NA
+Spain	2015	0.39	AC	J01DD	NA
+Sweden	2015	0.03	AC	J01DD	NA
+United Kingdom	2015	0.01	AC	J01DD	NA
+Austria	2015	1e-04	AC	J01DE	NA
+Belgium	2015	NA	AC	J01DE	reported.zero
+Bulgaria	2015	2e-04	AC	J01DE	NA
+Croatia	2015	NA	AC	J01DE	reported.zero
+Cyprus	2015	9e-04	AC	J01DE	pc.hosp.total
+Czech Republic	2015	0.0045	AC	J01DE	NA
+Denmark	2015	NA	AC	J01DE	reported.zero
+Estonia	2015	NA	AC	J01DE	reported.zero
+Finland	2015	NA	AC	J01DE	reported.zero
+France	2015	0.0014	AC	J01DE	NA
+Germany	2015	NA	AC	J01DE	reported.zero
+Greece	2015	0.0078	AC	J01DE	NA
+Hungary	2015	NA	AC	J01DE	reported.zero
+Iceland	2015	NA	AC	J01DE	reported.zero
+Ireland	2015	NA	AC	J01DE	reported.zero
+Italy	2015	0.0077	AC	J01DE	NA
+Latvia	2015	NA	AC	J01DE	reported.zero
+Liechtenstein	2015	NA	AC	J01DE	missing.data
+Lithuania	2015	NA	AC	J01DE	reported.zero
+Luxembourg	2015	NA	AC	J01DE	reported.zero
+Malta	2015	NA	AC	J01DE	reported.zero
+Netherlands	2015	NA	AC	J01DE	reported.zero
+Norway	2015	NA	AC	J01DE	reported.zero
+Poland	2015	NA	AC	J01DE	reported.zero
+Portugal	2015	NA	AC	J01DE	reported.zero
+Romania	2015	5e-04	AC	J01DE	pc.hosp.total
+Slovakia	2015	NA	AC	J01DE	reported.zero
+Slovenia	2015	NA	AC	J01DE	reported.zero
+Spain	2015	NA	AC	J01DE	reported.zero
+Sweden	2015	NA	AC	J01DE	reported.zero
+United Kingdom	2015	NA	AC	J01DE	reported.zero
+Austria	2015	NA	AC	J01DF	reported.zero
+Belgium	2015	NA	AC	J01DF	reported.zero
+Bulgaria	2015	NA	AC	J01DF	reported.zero
+Croatia	2015	NA	AC	J01DF	reported.zero
+Cyprus	2015	NA	AC	J01DF	reported.zero
+Czech Republic	2015	NA	AC	J01DF	reported.zero
+Denmark	2015	0.0027	AC	J01DF	NA
+Estonia	2015	NA	AC	J01DF	reported.zero
+Finland	2015	NA	AC	J01DF	reported.zero
+France	2015	0.0014	AC	J01DF	NA
+Germany	2015	0.0035	AC	J01DF	NA
+Greece	2015	1e-04	AC	J01DF	NA
+Hungary	2015	NA	AC	J01DF	reported.zero
+Iceland	2015	NA	AC	J01DF	reported.zero
+Ireland	2015	2e-04	AC	J01DF	NA
+Italy	2015	NA	AC	J01DF	reported.zero
+Latvia	2015	NA	AC	J01DF	reported.zero
+Liechtenstein	2015	NA	AC	J01DF	missing.data
+Lithuania	2015	NA	AC	J01DF	reported.zero
+Luxembourg	2015	NA	AC	J01DF	reported.zero
+Malta	2015	NA	AC	J01DF	reported.zero
+Netherlands	2015	0.0022	AC	J01DF	NA
+Norway	2015	4e-04	AC	J01DF	NA
+Poland	2015	NA	AC	J01DF	reported.zero
+Portugal	2015	3e-04	AC	J01DF	NA
+Romania	2015	NA	AC	J01DF	reported.zero
+Slovakia	2015	NA	AC	J01DF	reported.zero
+Slovenia	2015	NA	AC	J01DF	reported.zero
+Spain	2015	NA	AC	J01DF	reported.zero
+Sweden	2015	4e-04	AC	J01DF	NA
+United Kingdom	2015	0.0023	AC	J01DF	NA
+Austria	2015	0.001	AC	J01DH	NA
+Belgium	2015	NA	AC	J01DH	reported.zero
+Bulgaria	2015	0.001	AC	J01DH	NA
+Croatia	2015	NA	AC	J01DH	reported.zero
+Cyprus	2015	0.132	AC	J01DH	pc.hosp.total
+Czech Republic	2015	0.06	AC	J01DH	NA
+Denmark	2015	0.001	AC	J01DH	NA
+Estonia	2015	NA	AC	J01DH	reported.zero
+Finland	2015	NA	AC	J01DH	reported.zero
+France	2015	0.005	AC	J01DH	NA
+Germany	2015	0.001	AC	J01DH	NA
+Greece	2015	0.076	AC	J01DH	NA
+Hungary	2015	NA	AC	J01DH	reported.zero
+Iceland	2015	0.001	AC	J01DH	NA
+Ireland	2015	0.002	AC	J01DH	NA
+Italy	2015	NA	AC	J01DH	reported.zero
+Latvia	2015	NA	AC	J01DH	reported.zero
+Liechtenstein	2015	NA	AC	J01DH	missing.data
+Lithuania	2015	NA	AC	J01DH	reported.zero
+Luxembourg	2015	NA	AC	J01DH	reported.zero
+Malta	2015	NA	AC	J01DH	reported.zero
+Netherlands	2015	0.001	AC	J01DH	NA
+Norway	2015	0.002	AC	J01DH	NA
+Poland	2015	NA	AC	J01DH	reported.zero
+Portugal	2015	NA	AC	J01DH	reported.zero
+Romania	2015	0.049	AC	J01DH	pc.hosp.total
+Slovakia	2015	0.003	AC	J01DH	NA
+Slovenia	2015	NA	AC	J01DH	reported.zero
+Spain	2015	NA	AC	J01DH	reported.zero
+Sweden	2015	NA	AC	J01DH	reported.zero
+United Kingdom	2015	0.01	AC	J01DH	NA
+Austria	2015	1e-05	AC	J01DI	NA
+Belgium	2015	NA	AC	J01DI	reported.zero
+Bulgaria	2015	1e-05	AC	J01DI	NA
+Croatia	2015	NA	AC	J01DI	reported.zero
+Cyprus	2015	NA	AC	J01DI	reported.zero
+Czech Republic	2015	0.00032	AC	J01DI	NA
+Denmark	2015	NA	AC	J01DI	reported.zero
+Estonia	2015	NA	AC	J01DI	reported.zero
+Finland	2015	NA	AC	J01DI	reported.zero
+France	2015	NA	AC	J01DI	reported.zero
+Germany	2015	NA	AC	J01DI	reported.zero
+Greece	2015	NA	AC	J01DI	reported.zero
+Hungary	2015	NA	AC	J01DI	reported.zero
+Iceland	2015	NA	AC	J01DI	reported.zero
+Ireland	2015	NA	AC	J01DI	reported.zero
+Italy	2015	NA	AC	J01DI	reported.zero
+Latvia	2015	NA	AC	J01DI	reported.zero
+Liechtenstein	2015	NA	AC	J01DI	missing.data
+Lithuania	2015	NA	AC	J01DI	reported.zero
+Luxembourg	2015	NA	AC	J01DI	reported.zero
+Malta	2015	NA	AC	J01DI	reported.zero
+Netherlands	2015	NA	AC	J01DI	reported.zero
+Norway	2015	NA	AC	J01DI	reported.zero
+Poland	2015	NA	AC	J01DI	reported.zero
+Portugal	2015	NA	AC	J01DI	reported.zero
+Romania	2015	0.00037	AC	J01DI	pc.hosp.total
+Slovakia	2015	NA	AC	J01DI	reported.zero
+Slovenia	2015	NA	AC	J01DI	reported.zero
+Spain	2015	NA	AC	J01DI	reported.zero
+Sweden	2015	NA	AC	J01DI	reported.zero
+United Kingdom	2015	NA	AC	J01DI	reported.zero
+Austria	2015	NA	AC	J01DZ	reported.zero
+Belgium	2015	NA	AC	J01DZ	reported.zero
+Bulgaria	2015	NA	AC	J01DZ	reported.zero
+Croatia	2015	NA	AC	J01DZ	reported.zero
+Cyprus	2015	NA	AC	J01DZ	reported.zero
+Czech Republic	2015	NA	AC	J01DZ	reported.zero
+Denmark	2015	NA	AC	J01DZ	reported.zero
+Estonia	2015	NA	AC	J01DZ	reported.zero
+Finland	2015	NA	AC	J01DZ	reported.zero
+France	2015	NA	AC	J01DZ	reported.zero
+Germany	2015	NA	AC	J01DZ	reported.zero
+Greece	2015	NA	AC	J01DZ	reported.zero
+Hungary	2015	NA	AC	J01DZ	reported.zero
+Iceland	2015	NA	AC	J01DZ	reported.zero
+Ireland	2015	NA	AC	J01DZ	reported.zero
+Italy	2015	NA	AC	J01DZ	reported.zero
+Latvia	2015	NA	AC	J01DZ	reported.zero
+Liechtenstein	2015	NA	AC	J01DZ	missing.data
+Lithuania	2015	NA	AC	J01DZ	reported.zero
+Luxembourg	2015	NA	AC	J01DZ	reported.zero
+Malta	2015	NA	AC	J01DZ	reported.zero
+Netherlands	2015	NA	AC	J01DZ	reported.zero
+Norway	2015	NA	AC	J01DZ	reported.zero
+Poland	2015	NA	AC	J01DZ	reported.zero
+Portugal	2015	NA	AC	J01DZ	reported.zero
+Romania	2015	NA	AC	J01DZ	reported.zero
+Slovakia	2015	NA	AC	J01DZ	reported.zero
+Slovenia	2015	NA	AC	J01DZ	reported.zero
+Spain	2015	NA	AC	J01DZ	reported.zero
+Sweden	2015	NA	AC	J01DZ	reported.zero
+United Kingdom	2015	NA	AC	J01DZ	reported.zero
+Austria	2015	0.19	AC	J01E	NA
+Belgium	2015	0.21	AC	J01E	NA
+Bulgaria	2015	0.79	AC	J01E	NA
+Croatia	2015	0.63	AC	J01E	NA
+Cyprus	2015	0.22	AC	J01E	pc.hosp.total
+Czech Republic	2015	0.88	AC	J01E	NA
+Denmark	2015	0.73	AC	J01E	NA
+Estonia	2015	0.43	AC	J01E	NA
+Finland	2015	1.25	AC	J01E	NA
+France	2015	0.41	AC	J01E	NA
+Germany	2015	0.47	AC	J01E	NA
+Greece	2015	0.41	AC	J01E	NA
+Hungary	2015	0.51	AC	J01E	NA
+Iceland	2015	0.58	AC	J01E	NA
+Ireland	2015	1.04	AC	J01E	NA
+Italy	2015	0.34	AC	J01E	NA
+Latvia	2015	0.84	AC	J01E	NA
+Liechtenstein	2015	NA	AC	J01E	missing.data
+Lithuania	2015	0.36	AC	J01E	NA
+Luxembourg	2015	0.28	AC	J01E	NA
+Malta	2015	0.24	AC	J01E	NA
+Netherlands	2015	0.43	AC	J01E	NA
+Norway	2015	0.67	AC	J01E	NA
+Poland	2015	0.58	AC	J01E	NA
+Portugal	2015	0.43	AC	J01E	NA
+Romania	2015	0.89	AC	J01E	pc.hosp.total
+Slovakia	2015	0.45	AC	J01E	NA
+Slovenia	2015	0.79	AC	J01E	NA
+Spain	2015	0.27	AC	J01E	NA
+Sweden	2015	0.4	AC	J01E	NA
+United Kingdom	2015	1.32	AC	J01E	NA
+Austria	2015	0.12	AC	J01EA	NA
+Belgium	2015	NA	AC	J01EA	reported.zero
+Bulgaria	2015	NA	AC	J01EA	reported.zero
+Croatia	2015	NA	AC	J01EA	reported.zero
+Cyprus	2015	NA	AC	J01EA	pc.hosp.totalreported.zero
+Czech Republic	2015	0.13	AC	J01EA	NA
+Denmark	2015	0.56	AC	J01EA	NA
+Estonia	2015	0.03	AC	J01EA	NA
+Finland	2015	0.85	AC	J01EA	NA
+France	2015	NA	AC	J01EA	reported.zero
+Germany	2015	0.05	AC	J01EA	NA
+Greece	2015	NA	AC	J01EA	reported.zero
+Hungary	2015	NA	AC	J01EA	reported.zero
+Iceland	2015	0.27	AC	J01EA	NA
+Ireland	2015	0.88	AC	J01EA	NA
+Italy	2015	NA	AC	J01EA	reported.zero
+Latvia	2015	0.01	AC	J01EA	NA
+Liechtenstein	2015	NA	AC	J01EA	missing.data
+Lithuania	2015	0.01	AC	J01EA	NA
+Luxembourg	2015	NA	AC	J01EA	reported.zero
+Malta	2015	NA	AC	J01EA	reported.zero
+Netherlands	2015	0.14	AC	J01EA	NA
+Norway	2015	0.34	AC	J01EA	NA
+Poland	2015	0.07	AC	J01EA	NA
+Portugal	2015	NA	AC	J01EA	reported.zero
+Romania	2015	NA	AC	J01EA	reported.zero
+Slovakia	2015	0.02	AC	J01EA	NA
+Slovenia	2015	NA	AC	J01EA	reported.zero
+Spain	2015	NA	AC	J01EA	reported.zero
+Sweden	2015	0.14	AC	J01EA	NA
+United Kingdom	2015	1.19	AC	J01EA	NA
+Austria	2015	NA	AC	J01EB	reported.zero
+Belgium	2015	NA	AC	J01EB	reported.zero
+Bulgaria	2015	NA	AC	J01EB	reported.zero
+Croatia	2015	NA	AC	J01EB	reported.zero
+Cyprus	2015	NA	AC	J01EB	reported.zero
+Czech Republic	2015	NA	AC	J01EB	reported.zero
+Denmark	2015	0.176	AC	J01EB	NA
+Estonia	2015	NA	AC	J01EB	reported.zero
+Finland	2015	NA	AC	J01EB	reported.zero
+France	2015	0.002	AC	J01EB	NA
+Germany	2015	NA	AC	J01EB	reported.zero
+Greece	2015	NA	AC	J01EB	reported.zero
+Hungary	2015	NA	AC	J01EB	reported.zero
+Iceland	2015	NA	AC	J01EB	reported.zero
+Ireland	2015	NA	AC	J01EB	reported.zero
+Italy	2015	NA	AC	J01EB	reported.zero
+Latvia	2015	NA	AC	J01EB	reported.zero
+Liechtenstein	2015	NA	AC	J01EB	missing.data
+Lithuania	2015	NA	AC	J01EB	reported.zero
+Luxembourg	2015	NA	AC	J01EB	reported.zero
+Malta	2015	NA	AC	J01EB	reported.zero
+Netherlands	2015	NA	AC	J01EB	reported.zero
+Norway	2015	NA	AC	J01EB	reported.zero
+Poland	2015	NA	AC	J01EB	reported.zero
+Portugal	2015	NA	AC	J01EB	reported.zero
+Romania	2015	0.006	AC	J01EB	pc.hosp.total
+Slovakia	2015	NA	AC	J01EB	reported.zero
+Slovenia	2015	NA	AC	J01EB	reported.zero
+Spain	2015	NA	AC	J01EB	reported.zero
+Sweden	2015	NA	AC	J01EB	reported.zero
+United Kingdom	2015	NA	AC	J01EB	reported.zero
+Austria	2015	NA	AC	J01EC	reported.zero
+Belgium	2015	NA	AC	J01EC	reported.zero
+Bulgaria	2015	NA	AC	J01EC	reported.zero
+Croatia	2015	NA	AC	J01EC	reported.zero
+Cyprus	2015	0.0027	AC	J01EC	pc.hosp.total
+Czech Republic	2015	NA	AC	J01EC	reported.zero
+Denmark	2015	NA	AC	J01EC	reported.zero
+Estonia	2015	NA	AC	J01EC	reported.zero
+Finland	2015	NA	AC	J01EC	reported.zero
+France	2015	0.0252	AC	J01EC	NA
+Germany	2015	0.0094	AC	J01EC	NA
+Greece	2015	0.0029	AC	J01EC	NA
+Hungary	2015	NA	AC	J01EC	reported.zero
+Iceland	2015	NA	AC	J01EC	reported.zero
+Ireland	2015	NA	AC	J01EC	reported.zero
+Italy	2015	NA	AC	J01EC	reported.zero
+Latvia	2015	4e-04	AC	J01EC	NA
+Liechtenstein	2015	NA	AC	J01EC	missing.data
+Lithuania	2015	NA	AC	J01EC	reported.zero
+Luxembourg	2015	NA	AC	J01EC	reported.zero
+Malta	2015	NA	AC	J01EC	reported.zero
+Netherlands	2015	0.0015	AC	J01EC	NA
+Norway	2015	NA	AC	J01EC	reported.zero
+Poland	2015	0.0057	AC	J01EC	NA
+Portugal	2015	0.0018	AC	J01EC	NA
+Romania	2015	NA	AC	J01EC	reported.zero
+Slovakia	2015	NA	AC	J01EC	reported.zero
+Slovenia	2015	NA	AC	J01EC	reported.zero
+Spain	2015	0.0065	AC	J01EC	NA
+Sweden	2015	NA	AC	J01EC	reported.zero
+United Kingdom	2015	0.0077	AC	J01EC	NA
+Austria	2015	NA	AC	J01ED	reported.zero
+Belgium	2015	NA	AC	J01ED	reported.zero
+Bulgaria	2015	NA	AC	J01ED	reported.zero
+Croatia	2015	NA	AC	J01ED	reported.zero
+Cyprus	2015	NA	AC	J01ED	reported.zero
+Czech Republic	2015	NA	AC	J01ED	reported.zero
+Denmark	2015	NA	AC	J01ED	reported.zero
+Estonia	2015	NA	AC	J01ED	reported.zero
+Finland	2015	NA	AC	J01ED	reported.zero
+France	2015	NA	AC	J01ED	reported.zero
+Germany	2015	NA	AC	J01ED	reported.zero
+Greece	2015	NA	AC	J01ED	reported.zero
+Hungary	2015	NA	AC	J01ED	reported.zero
+Iceland	2015	NA	AC	J01ED	reported.zero
+Ireland	2015	NA	AC	J01ED	reported.zero
+Italy	2015	NA	AC	J01ED	reported.zero
+Latvia	2015	NA	AC	J01ED	reported.zero
+Liechtenstein	2015	NA	AC	J01ED	missing.data
+Lithuania	2015	NA	AC	J01ED	reported.zero
+Luxembourg	2015	NA	AC	J01ED	reported.zero
+Malta	2015	NA	AC	J01ED	reported.zero
+Netherlands	2015	NA	AC	J01ED	reported.zero
+Norway	2015	NA	AC	J01ED	reported.zero
+Poland	2015	NA	AC	J01ED	reported.zero
+Portugal	2015	NA	AC	J01ED	reported.zero
+Romania	2015	NA	AC	J01ED	reported.zero
+Slovakia	2015	NA	AC	J01ED	reported.zero
+Slovenia	2015	NA	AC	J01ED	reported.zero
+Spain	2015	NA	AC	J01ED	reported.zero
+Sweden	2015	NA	AC	J01ED	reported.zero
+United Kingdom	2015	1e-05	AC	J01ED	NA
+Austria	2015	0.077	AC	J01EE	NA
+Belgium	2015	0.209	AC	J01EE	NA
+Bulgaria	2015	0.794	AC	J01EE	NA
+Croatia	2015	0.627	AC	J01EE	NA
+Cyprus	2015	0.212	AC	J01EE	pc.hosp.total
+Czech Republic	2015	0.757	AC	J01EE	NA
+Denmark	2015	NA	AC	J01EE	reported.zero
+Estonia	2015	0.4	AC	J01EE	NA
+Finland	2015	0.404	AC	J01EE	NA
+France	2015	0.381	AC	J01EE	NA
+Germany	2015	0.412	AC	J01EE	NA
+Greece	2015	0.403	AC	J01EE	NA
+Hungary	2015	0.511	AC	J01EE	NA
+Iceland	2015	0.307	AC	J01EE	NA
+Ireland	2015	0.158	AC	J01EE	NA
+Italy	2015	0.338	AC	J01EE	NA
+Latvia	2015	0.836	AC	J01EE	NA
+Liechtenstein	2015	NA	AC	J01EE	missing.data
+Lithuania	2015	0.353	AC	J01EE	NA
+Luxembourg	2015	0.276	AC	J01EE	NA
+Malta	2015	0.24	AC	J01EE	NA
+Netherlands	2015	0.281	AC	J01EE	NA
+Norway	2015	0.33	AC	J01EE	NA
+Poland	2015	0.51	AC	J01EE	NA
+Portugal	2015	0.424	AC	J01EE	NA
+Romania	2015	0.884	AC	J01EE	pc.hosp.total
+Slovakia	2015	0.427	AC	J01EE	NA
+Slovenia	2015	0.788	AC	J01EE	NA
+Spain	2015	0.26	AC	J01EE	NA
+Sweden	2015	0.257	AC	J01EE	NA
+United Kingdom	2015	0.124	AC	J01EE	NA
+Austria	2015	3.06	AC	J01F	NA
+Belgium	2015	3.63	AC	J01F	NA
+Bulgaria	2015	3.81	AC	J01F	NA
+Croatia	2015	3.1	AC	J01F	NA
+Cyprus	2015	3.27	AC	J01F	pc.hosp.total
+Czech Republic	2015	3.98	AC	J01F	NA
+Denmark	2015	1.84	AC	J01F	NA
+Estonia	2015	2.45	AC	J01F	NA
+Finland	2015	1.03	AC	J01F	NA
+France	2015	3.23	AC	J01F	NA
+Germany	2015	2.4	AC	J01F	NA
+Greece	2015	7.5	AC	J01F	NA
+Hungary	2015	3.3	AC	J01F	NA
+Iceland	2015	1.71	AC	J01F	NA
+Ireland	2015	4.2	AC	J01F	NA
+Italy	2015	4.61	AC	J01F	NA
+Latvia	2015	1.83	AC	J01F	NA
+Liechtenstein	2015	NA	AC	J01F	missing.data
+Lithuania	2015	1.92	AC	J01F	NA
+Luxembourg	2015	3.64	AC	J01F	NA
+Malta	2015	4	AC	J01F	NA
+Netherlands	2015	1.39	AC	J01F	NA
+Norway	2015	1.31	AC	J01F	NA
+Poland	2015	4.6	AC	J01F	NA
+Portugal	2015	3.06	AC	J01F	NA
+Romania	2015	3.18	AC	J01F	pc.hosp.total
+Slovakia	2015	6.2	AC	J01F	NA
+Slovenia	2015	1.86	AC	J01F	NA
+Spain	2015	2.25	AC	J01F	NA
+Sweden	2015	0.6	AC	J01F	NA
+United Kingdom	2015	3.1	AC	J01F	NA
+Austria	2015	2.37	AC	J01FA	NA
+Belgium	2015	3.27	AC	J01FA	NA
+Bulgaria	2015	3.1	AC	J01FA	NA
+Croatia	2015	2.77	AC	J01FA	NA
+Cyprus	2015	3.18	AC	J01FA	pc.hosp.total
+Czech Republic	2015	3.67	AC	J01FA	NA
+Denmark	2015	1.78	AC	J01FA	NA
+Estonia	2015	2.27	AC	J01FA	NA
+Finland	2015	0.8	AC	J01FA	NA
+France	2015	2.21	AC	J01FA	NA
+Germany	2015	1.75	AC	J01FA	NA
+Greece	2015	7.16	AC	J01FA	NA
+Hungary	2015	2.7	AC	J01FA	NA
+Iceland	2015	1.57	AC	J01FA	NA
+Ireland	2015	4.13	AC	J01FA	NA
+Italy	2015	4.57	AC	J01FA	NA
+Latvia	2015	1.7	AC	J01FA	NA
+Liechtenstein	2015	NA	AC	J01FA	missing.data
+Lithuania	2015	1.89	AC	J01FA	NA
+Luxembourg	2015	3.18	AC	J01FA	NA
+Malta	2015	3.81	AC	J01FA	NA
+Netherlands	2015	1.2	AC	J01FA	NA
+Norway	2015	1.07	AC	J01FA	NA
+Poland	2015	3.77	AC	J01FA	NA
+Portugal	2015	3.02	AC	J01FA	NA
+Romania	2015	3.03	AC	J01FA	pc.hosp.total
+Slovakia	2015	5.74	AC	J01FA	NA
+Slovenia	2015	1.64	AC	J01FA	NA
+Spain	2015	2.15	AC	J01FA	NA
+Sweden	2015	0.28	AC	J01FA	NA
+United Kingdom	2015	3.03	AC	J01FA	NA
+Austria	2015	0.689	AC	J01FF	NA
+Belgium	2015	0.367	AC	J01FF	NA
+Bulgaria	2015	0.714	AC	J01FF	NA
+Croatia	2015	0.329	AC	J01FF	NA
+Cyprus	2015	0.087	AC	J01FF	pc.hosp.total
+Czech Republic	2015	0.313	AC	J01FF	NA
+Denmark	2015	0.054	AC	J01FF	NA
+Estonia	2015	0.177	AC	J01FF	NA
+Finland	2015	0.228	AC	J01FF	NA
+France	2015	0.083	AC	J01FF	NA
+Germany	2015	0.643	AC	J01FF	NA
+Greece	2015	0.348	AC	J01FF	NA
+Hungary	2015	0.597	AC	J01FF	NA
+Iceland	2015	0.14	AC	J01FF	NA
+Ireland	2015	0.067	AC	J01FF	NA
+Italy	2015	0.04	AC	J01FF	NA
+Latvia	2015	0.125	AC	J01FF	NA
+Liechtenstein	2015	NA	AC	J01FF	missing.data
+Lithuania	2015	0.029	AC	J01FF	NA
+Luxembourg	2015	0.458	AC	J01FF	NA
+Malta	2015	0.19	AC	J01FF	NA
+Netherlands	2015	0.19	AC	J01FF	NA
+Norway	2015	0.24	AC	J01FF	NA
+Poland	2015	0.829	AC	J01FF	NA
+Portugal	2015	0.04	AC	J01FF	NA
+Romania	2015	0.15	AC	J01FF	pc.hosp.total
+Slovakia	2015	0.468	AC	J01FF	NA
+Slovenia	2015	0.219	AC	J01FF	NA
+Spain	2015	0.104	AC	J01FF	NA
+Sweden	2015	0.316	AC	J01FF	NA
+United Kingdom	2015	0.062	AC	J01FF	NA
+Austria	2015	NA	AC	J01FG	reported.zero
+Belgium	2015	NA	AC	J01FG	reported.zero
+Bulgaria	2015	NA	AC	J01FG	reported.zero
+Croatia	2015	NA	AC	J01FG	reported.zero
+Cyprus	2015	NA	AC	J01FG	reported.zero
+Czech Republic	2015	NA	AC	J01FG	reported.zero
+Denmark	2015	NA	AC	J01FG	reported.zero
+Estonia	2015	NA	AC	J01FG	reported.zero
+Finland	2015	NA	AC	J01FG	reported.zero
+France	2015	0.939	AC	J01FG	NA
+Germany	2015	NA	AC	J01FG	reported.zero
+Greece	2015	NA	AC	J01FG	reported.zero
+Hungary	2015	NA	AC	J01FG	reported.zero
+Iceland	2015	NA	AC	J01FG	reported.zero
+Ireland	2015	NA	AC	J01FG	reported.zero
+Italy	2015	NA	AC	J01FG	reported.zero
+Latvia	2015	NA	AC	J01FG	reported.zero
+Liechtenstein	2015	NA	AC	J01FG	missing.data
+Lithuania	2015	NA	AC	J01FG	reported.zero
+Luxembourg	2015	NA	AC	J01FG	reported.zero
+Malta	2015	NA	AC	J01FG	reported.zero
+Netherlands	2015	NA	AC	J01FG	reported.zero
+Norway	2015	NA	AC	J01FG	reported.zero
+Poland	2015	NA	AC	J01FG	reported.zero
+Portugal	2015	NA	AC	J01FG	reported.zero
+Romania	2015	NA	AC	J01FG	reported.zero
+Slovakia	2015	NA	AC	J01FG	reported.zero
+Slovenia	2015	NA	AC	J01FG	reported.zero
+Spain	2015	NA	AC	J01FG	reported.zero
+Sweden	2015	NA	AC	J01FG	reported.zero
+United Kingdom	2015	NA	AC	J01FG	reported.zero
+Austria	2015	0.016	AC	J01G	NA
+Belgium	2015	0.013	AC	J01G	NA
+Bulgaria	2015	0.169	AC	J01G	NA
+Croatia	2015	0.005	AC	J01G	NA
+Cyprus	2015	0.063	AC	J01G	pc.hosp.total
+Czech Republic	2015	0.069	AC	J01G	NA
+Denmark	2015	0.008	AC	J01G	NA
+Estonia	2015	0.006	AC	J01G	NA
+Finland	2015	0.008	AC	J01G	NA
+France	2015	0.035	AC	J01G	NA
+Germany	2015	0.014	AC	J01G	NA
+Greece	2015	0.053	AC	J01G	NA
+Hungary	2015	0.011	AC	J01G	NA
+Iceland	2015	0.001	AC	J01G	NA
+Ireland	2015	0.025	AC	J01G	NA
+Italy	2015	0.031	AC	J01G	NA
+Latvia	2015	0.024	AC	J01G	NA
+Liechtenstein	2015	NA	AC	J01G	missing.data
+Lithuania	2015	0.02	AC	J01G	NA
+Luxembourg	2015	0.017	AC	J01G	NA
+Malta	2015	0.013	AC	J01G	NA
+Netherlands	2015	0.027	AC	J01G	NA
+Norway	2015	0.013	AC	J01G	NA
+Poland	2015	0.032	AC	J01G	NA
+Portugal	2015	0.002	AC	J01G	NA
+Romania	2015	0.363	AC	J01G	pc.hosp.total
+Slovakia	2015	0.009	AC	J01G	NA
+Slovenia	2015	0.007	AC	J01G	NA
+Spain	2015	0.007	AC	J01G	NA
+Sweden	2015	0.006	AC	J01G	NA
+United Kingdom	2015	0.034	AC	J01G	NA
+Austria	2015	NA	AC	J01GA	reported.zero
+Belgium	2015	NA	AC	J01GA	reported.zero
+Bulgaria	2015	NA	AC	J01GA	reported.zero
+Croatia	2015	NA	AC	J01GA	reported.zero
+Cyprus	2015	0.0012	AC	J01GA	pc.hosp.total
+Czech Republic	2015	NA	AC	J01GA	reported.zero
+Denmark	2015	NA	AC	J01GA	reported.zero
+Estonia	2015	NA	AC	J01GA	reported.zero
+Finland	2015	NA	AC	J01GA	reported.zero
+France	2015	NA	AC	J01GA	reported.zero
+Germany	2015	NA	AC	J01GA	reported.zero
+Greece	2015	NA	AC	J01GA	reported.zero
+Hungary	2015	NA	AC	J01GA	reported.zero
+Iceland	2015	NA	AC	J01GA	reported.zero
+Ireland	2015	NA	AC	J01GA	reported.zero
+Italy	2015	NA	AC	J01GA	reported.zero
+Latvia	2015	NA	AC	J01GA	reported.zero
+Liechtenstein	2015	NA	AC	J01GA	missing.data
+Lithuania	2015	NA	AC	J01GA	reported.zero
+Luxembourg	2015	NA	AC	J01GA	reported.zero
+Malta	2015	NA	AC	J01GA	reported.zero
+Netherlands	2015	NA	AC	J01GA	reported.zero
+Norway	2015	NA	AC	J01GA	reported.zero
+Poland	2015	7e-04	AC	J01GA	NA
+Portugal	2015	NA	AC	J01GA	reported.zero
+Romania	2015	0.0401	AC	J01GA	pc.hosp.total
+Slovakia	2015	NA	AC	J01GA	reported.zero
+Slovenia	2015	NA	AC	J01GA	reported.zero
+Spain	2015	1e-04	AC	J01GA	NA
+Sweden	2015	NA	AC	J01GA	reported.zero
+United Kingdom	2015	NA	AC	J01GA	reported.zero
+Austria	2015	0.016	AC	J01GB	NA
+Belgium	2015	0.013	AC	J01GB	NA
+Bulgaria	2015	0.169	AC	J01GB	NA
+Croatia	2015	0.005	AC	J01GB	NA
+Cyprus	2015	0.062	AC	J01GB	pc.hosp.total
+Czech Republic	2015	0.069	AC	J01GB	NA
+Denmark	2015	0.008	AC	J01GB	NA
+Estonia	2015	0.006	AC	J01GB	NA
+Finland	2015	0.008	AC	J01GB	NA
+France	2015	0.035	AC	J01GB	NA
+Germany	2015	0.014	AC	J01GB	NA
+Greece	2015	0.053	AC	J01GB	NA
+Hungary	2015	0.011	AC	J01GB	NA
+Iceland	2015	0.001	AC	J01GB	NA
+Ireland	2015	0.025	AC	J01GB	NA
+Italy	2015	0.031	AC	J01GB	NA
+Latvia	2015	0.024	AC	J01GB	NA
+Liechtenstein	2015	NA	AC	J01GB	missing.data
+Lithuania	2015	0.02	AC	J01GB	NA
+Luxembourg	2015	0.017	AC	J01GB	NA
+Malta	2015	0.013	AC	J01GB	NA
+Netherlands	2015	0.027	AC	J01GB	NA
+Norway	2015	0.013	AC	J01GB	NA
+Poland	2015	0.031	AC	J01GB	NA
+Portugal	2015	0.002	AC	J01GB	NA
+Romania	2015	0.323	AC	J01GB	pc.hosp.total
+Slovakia	2015	0.009	AC	J01GB	NA
+Slovenia	2015	0.007	AC	J01GB	NA
+Spain	2015	0.007	AC	J01GB	NA
+Sweden	2015	0.006	AC	J01GB	NA
+United Kingdom	2015	0.034	AC	J01GB	NA
+Austria	2015	1.31	AC	J01M	NA
+Belgium	2015	2.57	AC	J01M	NA
+Bulgaria	2015	2.83	AC	J01M	NA
+Croatia	2015	1.5	AC	J01M	NA
+Cyprus	2015	4.6	AC	J01M	pc.hosp.total
+Czech Republic	2015	0.91	AC	J01M	NA
+Denmark	2015	0.49	AC	J01M	NA
+Estonia	2015	0.92	AC	J01M	NA
+Finland	2015	0.73	AC	J01M	NA
+France	2015	1.6	AC	J01M	NA
+Germany	2015	1.33	AC	J01M	NA
+Greece	2015	2.66	AC	J01M	NA
+Hungary	2015	2.71	AC	J01M	NA
+Iceland	2015	0.93	AC	J01M	NA
+Ireland	2015	0.92	AC	J01M	NA
+Italy	2015	3.37	AC	J01M	NA
+Latvia	2015	1.06	AC	J01M	NA
+Liechtenstein	2015	NA	AC	J01M	missing.data
+Lithuania	2015	0.91	AC	J01M	NA
+Luxembourg	2015	2.49	AC	J01M	NA
+Malta	2015	2.65	AC	J01M	NA
+Netherlands	2015	0.77	AC	J01M	NA
+Norway	2015	0.46	AC	J01M	NA
+Poland	2015	1.4	AC	J01M	NA
+Portugal	2015	2.05	AC	J01M	NA
+Romania	2015	3.52	AC	J01M	pc.hosp.total
+Slovakia	2015	2.4	AC	J01M	NA
+Slovenia	2015	1.16	AC	J01M	NA
+Spain	2015	2.35	AC	J01M	NA
+Sweden	2015	0.68	AC	J01M	NA
+United Kingdom	2015	0.46	AC	J01M	NA
+Austria	2015	1.31	AC	J01MA	NA
+Belgium	2015	2.57	AC	J01MA	NA
+Bulgaria	2015	2.83	AC	J01MA	NA
+Croatia	2015	1.5	AC	J01MA	NA
+Cyprus	2015	4.6	AC	J01MA	pc.hosp.total
+Czech Republic	2015	0.91	AC	J01MA	NA
+Denmark	2015	0.49	AC	J01MA	NA
+Estonia	2015	0.92	AC	J01MA	NA
+Finland	2015	0.73	AC	J01MA	NA
+France	2015	1.6	AC	J01MA	NA
+Germany	2015	1.33	AC	J01MA	NA
+Greece	2015	2.66	AC	J01MA	NA
+Hungary	2015	2.69	AC	J01MA	NA
+Iceland	2015	0.93	AC	J01MA	NA
+Ireland	2015	0.92	AC	J01MA	NA
+Italy	2015	3.37	AC	J01MA	NA
+Latvia	2015	1.02	AC	J01MA	NA
+Liechtenstein	2015	NA	AC	J01MA	missing.data
+Lithuania	2015	0.87	AC	J01MA	NA
+Luxembourg	2015	2.49	AC	J01MA	NA
+Malta	2015	2.65	AC	J01MA	NA
+Netherlands	2015	0.77	AC	J01MA	NA
+Norway	2015	0.46	AC	J01MA	NA
+Poland	2015	1.4	AC	J01MA	NA
+Portugal	2015	2.05	AC	J01MA	NA
+Romania	2015	3.51	AC	J01MA	pc.hosp.total
+Slovakia	2015	2.4	AC	J01MA	NA
+Slovenia	2015	1.16	AC	J01MA	NA
+Spain	2015	2.33	AC	J01MA	NA
+Sweden	2015	0.68	AC	J01MA	NA
+United Kingdom	2015	0.46	AC	J01MA	NA
+Austria	2015	NA	AC	J01MB	reported.zero
+Belgium	2015	NA	AC	J01MB	reported.zero
+Bulgaria	2015	NA	AC	J01MB	reported.zero
+Croatia	2015	NA	AC	J01MB	reported.zero
+Cyprus	2015	NA	AC	J01MB	pc.hosp.totalreported.zero
+Czech Republic	2015	NA	AC	J01MB	reported.zero
+Denmark	2015	NA	AC	J01MB	reported.zero
+Estonia	2015	NA	AC	J01MB	reported.zero
+Finland	2015	NA	AC	J01MB	reported.zero
+France	2015	0.0051	AC	J01MB	NA
+Germany	2015	NA	AC	J01MB	reported.zero
+Greece	2015	NA	AC	J01MB	reported.zero
+Hungary	2015	0.0155	AC	J01MB	NA
+Iceland	2015	NA	AC	J01MB	reported.zero
+Ireland	2015	NA	AC	J01MB	reported.zero
+Italy	2015	0.0027	AC	J01MB	NA
+Latvia	2015	0.0311	AC	J01MB	NA
+Liechtenstein	2015	NA	AC	J01MB	missing.data
+Lithuania	2015	0.0379	AC	J01MB	NA
+Luxembourg	2015	NA	AC	J01MB	reported.zero
+Malta	2015	NA	AC	J01MB	reported.zero
+Netherlands	2015	0.0037	AC	J01MB	NA
+Norway	2015	NA	AC	J01MB	reported.zero
+Poland	2015	NA	AC	J01MB	reported.zero
+Portugal	2015	NA	AC	J01MB	reported.zero
+Romania	2015	0.009	AC	J01MB	pc.hosp.total
+Slovakia	2015	NA	AC	J01MB	reported.zero
+Slovenia	2015	NA	AC	J01MB	reported.zero
+Spain	2015	0.0177	AC	J01MB	NA
+Sweden	2015	NA	AC	J01MB	reported.zero
+United Kingdom	2015	NA	AC	J01MB	reported.zero
+Austria	2015	NA	AC	J01R	reported.zero
+Belgium	2015	NA	AC	J01R	reported.zero
+Bulgaria	2015	NA	AC	J01R	reported.zero
+Croatia	2015	NA	AC	J01R	reported.zero
+Cyprus	2015	NA	AC	J01R	reported.zero
+Czech Republic	2015	NA	AC	J01R	reported.zero
+Denmark	2015	NA	AC	J01R	reported.zero
+Estonia	2015	NA	AC	J01R	reported.zero
+Finland	2015	NA	AC	J01R	reported.zero
+France	2015	NA	AC	J01R	reported.zero
+Germany	2015	NA	AC	J01R	reported.zero
+Greece	2015	NA	AC	J01R	reported.zero
+Hungary	2015	NA	AC	J01R	reported.zero
+Iceland	2015	NA	AC	J01R	reported.zero
+Ireland	2015	NA	AC	J01R	reported.zero
+Italy	2015	NA	AC	J01R	reported.zero
+Latvia	2015	NA	AC	J01R	reported.zero
+Liechtenstein	2015	NA	AC	J01R	missing.data
+Lithuania	2015	NA	AC	J01R	reported.zero
+Luxembourg	2015	NA	AC	J01R	reported.zero
+Malta	2015	0.249	AC	J01R	NA
+Netherlands	2015	NA	AC	J01R	reported.zero
+Norway	2015	NA	AC	J01R	reported.zero
+Poland	2015	NA	AC	J01R	reported.zero
+Portugal	2015	NA	AC	J01R	reported.zero
+Romania	2015	NA	AC	J01R	reported.zero
+Slovakia	2015	NA	AC	J01R	reported.zero
+Slovenia	2015	NA	AC	J01R	reported.zero
+Spain	2015	NA	AC	J01R	reported.zero
+Sweden	2015	NA	AC	J01R	reported.zero
+United Kingdom	2015	NA	AC	J01R	reported.zero
+Austria	2015	NA	AC	J01RA	reported.zero
+Belgium	2015	NA	AC	J01RA	reported.zero
+Bulgaria	2015	NA	AC	J01RA	reported.zero
+Croatia	2015	NA	AC	J01RA	reported.zero
+Cyprus	2015	NA	AC	J01RA	reported.zero
+Czech Republic	2015	NA	AC	J01RA	reported.zero
+Denmark	2015	NA	AC	J01RA	reported.zero
+Estonia	2015	NA	AC	J01RA	reported.zero
+Finland	2015	NA	AC	J01RA	reported.zero
+France	2015	NA	AC	J01RA	reported.zero
+Germany	2015	NA	AC	J01RA	reported.zero
+Greece	2015	NA	AC	J01RA	reported.zero
+Hungary	2015	NA	AC	J01RA	reported.zero
+Iceland	2015	NA	AC	J01RA	reported.zero
+Ireland	2015	NA	AC	J01RA	reported.zero
+Italy	2015	NA	AC	J01RA	reported.zero
+Latvia	2015	NA	AC	J01RA	reported.zero
+Liechtenstein	2015	NA	AC	J01RA	missing.data
+Lithuania	2015	NA	AC	J01RA	reported.zero
+Luxembourg	2015	NA	AC	J01RA	reported.zero
+Malta	2015	0.249	AC	J01RA	NA
+Netherlands	2015	NA	AC	J01RA	reported.zero
+Norway	2015	NA	AC	J01RA	reported.zero
+Poland	2015	NA	AC	J01RA	reported.zero
+Portugal	2015	NA	AC	J01RA	reported.zero
+Romania	2015	NA	AC	J01RA	reported.zero
+Slovakia	2015	NA	AC	J01RA	reported.zero
+Slovenia	2015	NA	AC	J01RA	reported.zero
+Spain	2015	NA	AC	J01RA	reported.zero
+Sweden	2015	NA	AC	J01RA	reported.zero
+United Kingdom	2015	NA	AC	J01RA	reported.zero
+Austria	2015	0.33	AC	J01X	NA
+Belgium	2015	2.74	AC	J01X	NA
+Bulgaria	2015	NA	AC	J01X	reported.zero
+Croatia	2015	0.83	AC	J01X	NA
+Cyprus	2015	0.7	AC	J01X	pc.hosp.total
+Czech Republic	2015	1.13	AC	J01X	NA
+Denmark	2015	0.73	AC	J01X	NA
+Estonia	2015	0.77	AC	J01X	NA
+Finland	2015	1.84	AC	J01X	NA
+France	2015	0.46	AC	J01X	NA
+Germany	2015	0.52	AC	J01X	NA
+Greece	2015	0.78	AC	J01X	NA
+Hungary	2015	0.21	AC	J01X	NA
+Iceland	2015	0.98	AC	J01X	NA
+Ireland	2015	0.07	AC	J01X	NA
+Italy	2015	0.71	AC	J01X	NA
+Latvia	2015	0.33	AC	J01X	NA
+Liechtenstein	2015	NA	AC	J01X	missing.data
+Lithuania	2015	1.42	AC	J01X	NA
+Luxembourg	2015	1.27	AC	J01X	NA
+Malta	2015	1.04	AC	J01X	NA
+Netherlands	2015	1.47	AC	J01X	NA
+Norway	2015	3.74	AC	J01X	NA
+Poland	2015	3.88	AC	J01X	NA
+Portugal	2015	1.13	AC	J01X	NA
+Romania	2015	0.21	AC	J01X	pc.hosp.total
+Slovakia	2015	0.07	AC	J01X	NA
+Slovenia	2015	0.37	AC	J01X	NA
+Spain	2015	0.47	AC	J01X	NA
+Sweden	2015	1.59	AC	J01X	NA
+United Kingdom	2015	1.05	AC	J01X	NA
+Austria	2015	9e-04	AC	J01XA	NA
+Belgium	2015	2e-04	AC	J01XA	NA
+Bulgaria	2015	7e-04	AC	J01XA	NA
+Croatia	2015	NA	AC	J01XA	reported.zero
+Cyprus	2015	0.0584	AC	J01XA	pc.hosp.total
+Czech Republic	2015	0.0167	AC	J01XA	NA
+Denmark	2015	2e-04	AC	J01XA	NA
+Estonia	2015	NA	AC	J01XA	reported.zero
+Finland	2015	2e-04	AC	J01XA	NA
+France	2015	NA	AC	J01XA	reported.zero
+Germany	2015	0.0024	AC	J01XA	NA
+Greece	2015	0.0283	AC	J01XA	NA
+Hungary	2015	2e-04	AC	J01XA	NA
+Iceland	2015	3e-04	AC	J01XA	NA
+Ireland	2015	0.0011	AC	J01XA	NA
+Italy	2015	0.0036	AC	J01XA	NA
+Latvia	2015	3e-04	AC	J01XA	NA
+Liechtenstein	2015	NA	AC	J01XA	missing.data
+Lithuania	2015	1e-04	AC	J01XA	NA
+Luxembourg	2015	8e-04	AC	J01XA	NA
+Malta	2015	1e-04	AC	J01XA	NA
+Netherlands	2015	9e-04	AC	J01XA	NA
+Norway	2015	5e-04	AC	J01XA	NA
+Poland	2015	5e-04	AC	J01XA	NA
+Portugal	2015	NA	AC	J01XA	reported.zero
+Romania	2015	0.0268	AC	J01XA	pc.hosp.total
+Slovakia	2015	0.0012	AC	J01XA	NA
+Slovenia	2015	NA	AC	J01XA	reported.zero
+Spain	2015	2e-04	AC	J01XA	NA
+Sweden	2015	0.0014	AC	J01XA	NA
+United Kingdom	2015	0.0121	AC	J01XA	NA
+Austria	2015	0.0091	AC	J01XB	NA
+Belgium	2015	0.0179	AC	J01XB	NA
+Bulgaria	2015	2e-04	AC	J01XB	NA
+Croatia	2015	NA	AC	J01XB	reported.zero
+Cyprus	2015	0.0232	AC	J01XB	pc.hosp.total
+Czech Republic	2015	0.0151	AC	J01XB	NA
+Denmark	2015	0.021	AC	J01XB	NA
+Estonia	2015	0.0017	AC	J01XB	NA
+Finland	2015	NA	AC	J01XB	reported.zero
+France	2015	0.0154	AC	J01XB	NA
+Germany	2015	0.0118	AC	J01XB	NA
+Greece	2015	0.0298	AC	J01XB	NA
+Hungary	2015	0.0052	AC	J01XB	NA
+Iceland	2015	NA	AC	J01XB	reported.zero
+Ireland	2015	0.0543	AC	J01XB	NA
+Italy	2015	9e-04	AC	J01XB	NA
+Latvia	2015	0.0069	AC	J01XB	NA
+Liechtenstein	2015	NA	AC	J01XB	missing.data
+Lithuania	2015	NA	AC	J01XB	reported.zero
+Luxembourg	2015	2e-04	AC	J01XB	NA
+Malta	2015	0.0691	AC	J01XB	NA
+Netherlands	2015	0.0063	AC	J01XB	NA
+Norway	2015	0.0043	AC	J01XB	NA
+Poland	2015	0.0052	AC	J01XB	NA
+Portugal	2015	NA	AC	J01XB	reported.zero
+Romania	2015	0.0343	AC	J01XB	pc.hosp.total
+Slovakia	2015	0.0137	AC	J01XB	NA
+Slovenia	2015	0.0016	AC	J01XB	NA
+Spain	2015	NA	AC	J01XB	reported.zero
+Sweden	2015	0.0041	AC	J01XB	NA
+United Kingdom	2015	0.0699	AC	J01XB	NA
+Austria	2015	0.0272	AC	J01XC	NA
+Belgium	2015	NA	AC	J01XC	reported.zero
+Bulgaria	2015	NA	AC	J01XC	reported.zero
+Croatia	2015	NA	AC	J01XC	reported.zero
+Cyprus	2015	NA	AC	J01XC	pc.hosp.totalreported.zero
+Czech Republic	2015	NA	AC	J01XC	reported.zero
+Denmark	2015	0.0068	AC	J01XC	NA
+Estonia	2015	NA	AC	J01XC	reported.zero
+Finland	2015	0.0021	AC	J01XC	NA
+France	2015	0.0666	AC	J01XC	NA
+Germany	2015	NA	AC	J01XC	reported.zero
+Greece	2015	0.0197	AC	J01XC	NA
+Hungary	2015	NA	AC	J01XC	reported.zero
+Iceland	2015	NA	AC	J01XC	reported.zero
+Ireland	2015	0.0063	AC	J01XC	NA
+Italy	2015	NA	AC	J01XC	reported.zero
+Latvia	2015	NA	AC	J01XC	reported.zero
+Liechtenstein	2015	NA	AC	J01XC	missing.data
+Lithuania	2015	NA	AC	J01XC	reported.zero
+Luxembourg	2015	NA	AC	J01XC	reported.zero
+Malta	2015	0.0017	AC	J01XC	NA
+Netherlands	2015	8e-04	AC	J01XC	NA
+Norway	2015	0.0027	AC	J01XC	NA
+Poland	2015	NA	AC	J01XC	reported.zero
+Portugal	2015	0.0246	AC	J01XC	NA
+Romania	2015	NA	AC	J01XC	reported.zero
+Slovakia	2015	NA	AC	J01XC	reported.zero
+Slovenia	2015	NA	AC	J01XC	reported.zero
+Spain	2015	0.0037	AC	J01XC	NA
+Sweden	2015	0.0101	AC	J01XC	NA
+United Kingdom	2015	0.007	AC	J01XC	NA
+Austria	2015	NA	AC	J01XD	reported.zero
+Belgium	2015	NA	AC	J01XD	reported.zero
+Bulgaria	2015	0.003	AC	J01XD	NA
+Croatia	2015	NA	AC	J01XD	reported.zero
+Cyprus	2015	0.189	AC	J01XD	pc.hosp.total
+Czech Republic	2015	0.05	AC	J01XD	NA
+Denmark	2015	NA	AC	J01XD	reported.zero
+Estonia	2015	0.224	AC	J01XD	NA
+Finland	2015	NA	AC	J01XD	reported.zero
+France	2015	NA	AC	J01XD	reported.zero
+Germany	2015	NA	AC	J01XD	reported.zero
+Greece	2015	0.049	AC	J01XD	NA
+Hungary	2015	NA	AC	J01XD	reported.zero
+Iceland	2015	NA	AC	J01XD	reported.zero
+Ireland	2015	NA	AC	J01XD	reported.zero
+Italy	2015	0.001	AC	J01XD	NA
+Latvia	2015	0.013	AC	J01XD	NA
+Liechtenstein	2015	NA	AC	J01XD	missing.data
+Lithuania	2015	0.003	AC	J01XD	NA
+Luxembourg	2015	NA	AC	J01XD	reported.zero
+Malta	2015	0.002	AC	J01XD	NA
+Netherlands	2015	0.001	AC	J01XD	NA
+Norway	2015	NA	AC	J01XD	reported.zero
+Poland	2015	0.001	AC	J01XD	NA
+Portugal	2015	NA	AC	J01XD	reported.zero
+Romania	2015	0.034	AC	J01XD	pc.hosp.total
+Slovakia	2015	0.017	AC	J01XD	NA
+Slovenia	2015	NA	AC	J01XD	reported.zero
+Spain	2015	NA	AC	J01XD	reported.zero
+Sweden	2015	NA	AC	J01XD	reported.zero
+United Kingdom	2015	0.001	AC	J01XD	NA
+Austria	2015	0.26	AC	J01XE	NA
+Belgium	2015	2.57	AC	J01XE	NA
+Bulgaria	2015	NA	AC	J01XE	reported.zero
+Croatia	2015	0.83	AC	J01XE	NA
+Cyprus	2015	0.41	AC	J01XE	pc.hosp.total
+Czech Republic	2015	1.04	AC	J01XE	NA
+Denmark	2015	0.45	AC	J01XE	NA
+Estonia	2015	0.54	AC	J01XE	NA
+Finland	2015	0.48	AC	J01XE	NA
+France	2015	0.2	AC	J01XE	NA
+Germany	2015	0.42	AC	J01XE	NA
+Greece	2015	0.6	AC	J01XE	NA
+Hungary	2015	0.13	AC	J01XE	NA
+Iceland	2015	0.65	AC	J01XE	NA
+Ireland	2015	NA	AC	J01XE	reported.zero
+Italy	2015	0.22	AC	J01XE	NA
+Latvia	2015	0.28	AC	J01XE	NA
+Liechtenstein	2015	NA	AC	J01XE	missing.data
+Lithuania	2015	1.4	AC	J01XE	NA
+Luxembourg	2015	1.16	AC	J01XE	NA
+Malta	2015	0.96	AC	J01XE	NA
+Netherlands	2015	1.4	AC	J01XE	NA
+Norway	2015	0.29	AC	J01XE	NA
+Poland	2015	3.85	AC	J01XE	NA
+Portugal	2015	0.93	AC	J01XE	NA
+Romania	2015	0.09	AC	J01XE	pc.hosp.total
+Slovakia	2015	NA	AC	J01XE	reported.zero
+Slovenia	2015	0.36	AC	J01XE	NA
+Spain	2015	0.14	AC	J01XE	NA
+Sweden	2015	0.38	AC	J01XE	NA
+United Kingdom	2015	0.9	AC	J01XE	NA
+Austria	2015	0.04	AC	J01XX	NA
+Belgium	2015	0.16	AC	J01XX	NA
+Bulgaria	2015	NA	AC	J01XX	reported.zero
+Croatia	2015	NA	AC	J01XX	reported.zero
+Cyprus	2015	0.02	AC	J01XX	pc.hosp.total
+Czech Republic	2015	NA	AC	J01XX	reported.zero
+Denmark	2015	0.25	AC	J01XX	NA
+Estonia	2015	NA	AC	J01XX	reported.zero
+Finland	2015	1.36	AC	J01XX	NA
+France	2015	0.18	AC	J01XX	NA
+Germany	2015	0.09	AC	J01XX	NA
+Greece	2015	0.05	AC	J01XX	NA
+Hungary	2015	0.08	AC	J01XX	NA
+Iceland	2015	0.33	AC	J01XX	NA
+Ireland	2015	0.01	AC	J01XX	NA
+Italy	2015	0.49	AC	J01XX	NA
+Latvia	2015	0.03	AC	J01XX	NA
+Liechtenstein	2015	NA	AC	J01XX	missing.data
+Lithuania	2015	0.02	AC	J01XX	NA
+Luxembourg	2015	0.1	AC	J01XX	NA
+Malta	2015	NA	AC	J01XX	reported.zero
+Netherlands	2015	0.06	AC	J01XX	NA
+Norway	2015	3.44	AC	J01XX	NA
+Poland	2015	0.02	AC	J01XX	NA
+Portugal	2015	0.18	AC	J01XX	NA
+Romania	2015	0.03	AC	J01XX	pc.hosp.total
+Slovakia	2015	0.04	AC	J01XX	NA
+Slovenia	2015	NA	AC	J01XX	reported.zero
+Spain	2015	0.33	AC	J01XX	NA
+Sweden	2015	1.19	AC	J01XX	NA
+United Kingdom	2015	0.05	AC	J01XX	NA
+Austria	2015	0.26	AC	J02	NA
+Belgium	2015	1.3	AC	J02	NA
+Bulgaria	2015	0.42	AC	J02	NA
+Croatia	2015	0.21	AC	J02	NA
+Cyprus	2015	1.35	AC	J02	pc.hosp.total
+Czech Republic	2015	0.24	AC	J02	NA
+Denmark	2015	0.49	AC	J02	NA
+Estonia	2015	0.29	AC	J02	NA
+Finland	2015	0.38	AC	J02	NA
+France	2015	0.23	AC	J02	NA
+Germany	2015	0.2	AC	J02	NA
+Greece	2015	1.14	AC	J02	NA
+Hungary	2015	0.32	AC	J02	NA
+Iceland	2015	0.45	AC	J02	NA
+Ireland	2015	NA	AC	J02	missing.data
+Italy	2015	0.84	AC	J02	NA
+Latvia	2015	0.27	AC	J02	NA
+Liechtenstein	2015	NA	AC	J02	missing.data
+Lithuania	2015	0.18	AC	J02	NA
+Luxembourg	2015	1.2	AC	J02	NA
+Malta	2015	1.06	AC	J02	NA
+Netherlands	2015	0.4	AC	J02	NA
+Norway	2015	0.17	AC	J02	NA
+Poland	2015	0.94	AC	J02	NA
+Portugal	2015	0.62	AC	J02	NA
+Romania	2015	0.48	AC	J02	pc.hosp.total
+Slovakia	2015	0.67	AC	J02	NA
+Slovenia	2015	0.26	AC	J02	NA
+Spain	2015	0.24	AC	J02	NA
+Sweden	2015	0.22	AC	J02	NA
+United Kingdom	2015	NA	AC	J02	reported.zero
+Austria	2015	0.26	AC	J02A	NA
+Belgium	2015	1.3	AC	J02A	NA
+Bulgaria	2015	0.42	AC	J02A	NA
+Croatia	2015	0.21	AC	J02A	NA
+Cyprus	2015	1.35	AC	J02A	pc.hosp.total
+Czech Republic	2015	0.24	AC	J02A	NA
+Denmark	2015	0.49	AC	J02A	NA
+Estonia	2015	0.29	AC	J02A	NA
+Finland	2015	0.38	AC	J02A	NA
+France	2015	0.23	AC	J02A	NA
+Germany	2015	0.2	AC	J02A	NA
+Greece	2015	1.14	AC	J02A	NA
+Hungary	2015	0.32	AC	J02A	NA
+Iceland	2015	0.45	AC	J02A	NA
+Ireland	2015	NA	AC	J02A	missing.data
+Italy	2015	0.84	AC	J02A	NA
+Latvia	2015	0.27	AC	J02A	NA
+Liechtenstein	2015	NA	AC	J02A	missing.data
+Lithuania	2015	0.18	AC	J02A	NA
+Luxembourg	2015	1.2	AC	J02A	NA
+Malta	2015	1.06	AC	J02A	NA
+Netherlands	2015	0.4	AC	J02A	NA
+Norway	2015	0.17	AC	J02A	NA
+Poland	2015	0.94	AC	J02A	NA
+Portugal	2015	0.62	AC	J02A	NA
+Romania	2015	0.48	AC	J02A	pc.hosp.total
+Slovakia	2015	0.67	AC	J02A	NA
+Slovenia	2015	0.26	AC	J02A	NA
+Spain	2015	0.24	AC	J02A	NA
+Sweden	2015	0.22	AC	J02A	NA
+United Kingdom	2015	NA	AC	J02A	reported.zero
+Austria	2015	8e-04	AC	J02AA	NA
+Belgium	2015	NA	AC	J02AA	reported.zero
+Bulgaria	2015	NA	AC	J02AA	reported.zero
+Croatia	2015	NA	AC	J02AA	reported.zero
+Cyprus	2015	0.0193	AC	J02AA	pc.hosp.total
+Czech Republic	2015	0.0061	AC	J02AA	NA
+Denmark	2015	8e-04	AC	J02AA	NA
+Estonia	2015	NA	AC	J02AA	reported.zero
+Finland	2015	NA	AC	J02AA	reported.zero
+France	2015	NA	AC	J02AA	reported.zero
+Germany	2015	4e-04	AC	J02AA	NA
+Greece	2015	0.0016	AC	J02AA	NA
+Hungary	2015	NA	AC	J02AA	reported.zero
+Iceland	2015	NA	AC	J02AA	reported.zero
+Ireland	2015	NA	AC	J02AA	missing.data
+Italy	2015	NA	AC	J02AA	reported.zero
+Latvia	2015	0.0095	AC	J02AA	NA
+Liechtenstein	2015	NA	AC	J02AA	missing.data
+Lithuania	2015	NA	AC	J02AA	reported.zero
+Luxembourg	2015	NA	AC	J02AA	reported.zero
+Malta	2015	NA	AC	J02AA	reported.zero
+Netherlands	2015	7e-04	AC	J02AA	NA
+Norway	2015	4e-04	AC	J02AA	NA
+Poland	2015	NA	AC	J02AA	reported.zero
+Portugal	2015	NA	AC	J02AA	reported.zero
+Romania	2015	NA	AC	J02AA	reported.zero
+Slovakia	2015	NA	AC	J02AA	reported.zero
+Slovenia	2015	NA	AC	J02AA	reported.zero
+Spain	2015	NA	AC	J02AA	reported.zero
+Sweden	2015	3e-04	AC	J02AA	NA
+United Kingdom	2015	NA	AC	J02AA	reported.zero
+Austria	2015	NA	AC	J02AB	reported.zero
+Belgium	2015	NA	AC	J02AB	reported.zero
+Bulgaria	2015	5e-04	AC	J02AB	NA
+Croatia	2015	NA	AC	J02AB	reported.zero
+Cyprus	2015	0.0072	AC	J02AB	pc.hosp.total
+Czech Republic	2015	NA	AC	J02AB	reported.zero
+Denmark	2015	NA	AC	J02AB	reported.zero
+Estonia	2015	NA	AC	J02AB	reported.zero
+Finland	2015	NA	AC	J02AB	reported.zero
+France	2015	NA	AC	J02AB	reported.zero
+Germany	2015	NA	AC	J02AB	reported.zero
+Greece	2015	0.017	AC	J02AB	NA
+Hungary	2015	NA	AC	J02AB	reported.zero
+Iceland	2015	0.0265	AC	J02AB	NA
+Ireland	2015	NA	AC	J02AB	missing.data
+Italy	2015	1e-04	AC	J02AB	NA
+Latvia	2015	NA	AC	J02AB	reported.zero
+Liechtenstein	2015	NA	AC	J02AB	missing.data
+Lithuania	2015	NA	AC	J02AB	reported.zero
+Luxembourg	2015	NA	AC	J02AB	reported.zero
+Malta	2015	NA	AC	J02AB	reported.zero
+Netherlands	2015	NA	AC	J02AB	reported.zero
+Norway	2015	0.0014	AC	J02AB	NA
+Poland	2015	0.0096	AC	J02AB	NA
+Portugal	2015	NA	AC	J02AB	reported.zero
+Romania	2015	NA	AC	J02AB	pc.hosp.totalreported.zero
+Slovakia	2015	NA	AC	J02AB	reported.zero
+Slovenia	2015	NA	AC	J02AB	reported.zero
+Spain	2015	NA	AC	J02AB	reported.zero
+Sweden	2015	2e-04	AC	J02AB	NA
+United Kingdom	2015	NA	AC	J02AB	reported.zero
+Austria	2015	0.26	AC	J02AC	NA
+Belgium	2015	1.3	AC	J02AC	NA
+Bulgaria	2015	0.42	AC	J02AC	NA
+Croatia	2015	0.21	AC	J02AC	NA
+Cyprus	2015	1.31	AC	J02AC	pc.hosp.total
+Czech Republic	2015	0.23	AC	J02AC	NA
+Denmark	2015	0.48	AC	J02AC	NA
+Estonia	2015	0.29	AC	J02AC	NA
+Finland	2015	0.38	AC	J02AC	NA
+France	2015	0.23	AC	J02AC	NA
+Germany	2015	0.2	AC	J02AC	NA
+Greece	2015	1.12	AC	J02AC	NA
+Hungary	2015	0.32	AC	J02AC	NA
+Iceland	2015	0.42	AC	J02AC	NA
+Ireland	2015	NA	AC	J02AC	missing.data
+Italy	2015	0.84	AC	J02AC	NA
+Latvia	2015	0.26	AC	J02AC	NA
+Liechtenstein	2015	NA	AC	J02AC	missing.data
+Lithuania	2015	0.18	AC	J02AC	NA
+Luxembourg	2015	1.2	AC	J02AC	NA
+Malta	2015	1.06	AC	J02AC	NA
+Netherlands	2015	0.4	AC	J02AC	NA
+Norway	2015	0.17	AC	J02AC	NA
+Poland	2015	0.93	AC	J02AC	NA
+Portugal	2015	0.62	AC	J02AC	NA
+Romania	2015	0.47	AC	J02AC	pc.hosp.total
+Slovakia	2015	0.67	AC	J02AC	NA
+Slovenia	2015	0.26	AC	J02AC	NA
+Spain	2015	0.24	AC	J02AC	NA
+Sweden	2015	0.22	AC	J02AC	NA
+United Kingdom	2015	NA	AC	J02AC	reported.zero
+Austria	2015	NA	AC	J02AX	reported.zero
+Belgium	2015	NA	AC	J02AX	reported.zero
+Bulgaria	2015	NA	AC	J02AX	reported.zero
+Croatia	2015	NA	AC	J02AX	reported.zero
+Cyprus	2015	0.0095	AC	J02AX	pc.hosp.total
+Czech Republic	2015	0.0019	AC	J02AX	NA
+Denmark	2015	NA	AC	J02AX	reported.zero
+Estonia	2015	NA	AC	J02AX	reported.zero
+Finland	2015	NA	AC	J02AX	reported.zero
+France	2015	6e-04	AC	J02AX	NA
+Germany	2015	1e-04	AC	J02AX	NA
+Greece	2015	0.0015	AC	J02AX	NA
+Hungary	2015	NA	AC	J02AX	reported.zero
+Iceland	2015	NA	AC	J02AX	reported.zero
+Ireland	2015	NA	AC	J02AX	missing.data
+Italy	2015	NA	AC	J02AX	reported.zero
+Latvia	2015	NA	AC	J02AX	reported.zero
+Liechtenstein	2015	NA	AC	J02AX	missing.data
+Lithuania	2015	NA	AC	J02AX	reported.zero
+Luxembourg	2015	NA	AC	J02AX	reported.zero
+Malta	2015	3e-04	AC	J02AX	NA
+Netherlands	2015	NA	AC	J02AX	reported.zero
+Norway	2015	4e-04	AC	J02AX	NA
+Poland	2015	NA	AC	J02AX	reported.zero
+Portugal	2015	NA	AC	J02AX	reported.zero
+Romania	2015	0.0036	AC	J02AX	pc.hosp.total
+Slovakia	2015	1e-04	AC	J02AX	NA
+Slovenia	2015	NA	AC	J02AX	reported.zero
+Spain	2015	NA	AC	J02AX	reported.zero
+Sweden	2015	1e-04	AC	J02AX	NA
+United Kingdom	2015	NA	AC	J02AX	reported.zero
+Austria	2015	1.35	AC	J05	NA
+Belgium	2015	1.44	AC	J05	NA
+Bulgaria	2015	0.93	AC	J05	NA
+Croatia	2015	0.12	AC	J05	NA
+Cyprus	2015	1.33	AC	J05	pc.hosp.total
+Czech Republic	2015	0.77	AC	J05	NA
+Denmark	2015	0.5	AC	J05	NA
+Estonia	2015	0.37	AC	J05	NA
+Finland	2015	0.51	AC	J05	NA
+France	2015	3	AC	J05	NA
+Germany	2015	1.79	AC	J05	NA
+Greece	2015	1.51	AC	J05	NA
+Hungary	2015	0.61	AC	J05	NA
+Iceland	2015	1.28	AC	J05	NA
+Ireland	2015	NA	AC	J05	missing.data
+Italy	2015	0.02	AC	J05	NA
+Latvia	2015	1.95	AC	J05	NA
+Liechtenstein	2015	NA	AC	J05	missing.data
+Lithuania	2015	0.55	AC	J05	NA
+Luxembourg	2015	0.77	AC	J05	NA
+Malta	2015	0.25	AC	J05	NA
+Netherlands	2015	2.26	AC	J05	NA
+Norway	2015	1.44	AC	J05	NA
+Poland	2015	1.83	AC	J05	NA
+Portugal	2015	0.21	AC	J05	NA
+Romania	2015	2.22	AC	J05	pc.hosp.total
+Slovakia	2015	1.95	AC	J05	NA
+Slovenia	2015	0.65	AC	J05	NA
+Spain	2015	0.19	AC	J05	NA
+Sweden	2015	1.7	AC	J05	NA
+United Kingdom	2015	NA	AC	J05	reported.zero
+Austria	2015	1.35	AC	J05A	NA
+Belgium	2015	1.44	AC	J05A	NA
+Bulgaria	2015	0.93	AC	J05A	NA
+Croatia	2015	0.12	AC	J05A	NA
+Cyprus	2015	1.33	AC	J05A	pc.hosp.total
+Czech Republic	2015	0.77	AC	J05A	NA
+Denmark	2015	0.5	AC	J05A	NA
+Estonia	2015	0.37	AC	J05A	NA
+Finland	2015	0.51	AC	J05A	NA
+France	2015	3	AC	J05A	NA
+Germany	2015	1.79	AC	J05A	NA
+Greece	2015	1.51	AC	J05A	NA
+Hungary	2015	0.61	AC	J05A	NA
+Iceland	2015	1.28	AC	J05A	NA
+Ireland	2015	NA	AC	J05A	missing.data
+Italy	2015	0.02	AC	J05A	NA
+Latvia	2015	1.95	AC	J05A	NA
+Liechtenstein	2015	NA	AC	J05A	missing.data
+Lithuania	2015	0.55	AC	J05A	NA
+Luxembourg	2015	0.77	AC	J05A	NA
+Malta	2015	0.25	AC	J05A	NA
+Netherlands	2015	2.26	AC	J05A	NA
+Norway	2015	1.44	AC	J05A	NA
+Poland	2015	1.83	AC	J05A	NA
+Portugal	2015	0.21	AC	J05A	NA
+Romania	2015	2.22	AC	J05A	pc.hosp.total
+Slovakia	2015	1.95	AC	J05A	NA
+Slovenia	2015	0.65	AC	J05A	NA
+Spain	2015	0.19	AC	J05A	NA
+Sweden	2015	1.7	AC	J05A	NA
+United Kingdom	2015	NA	AC	J05A	reported.zero
+Austria	2015	NA	AC	J05AA	reported.zero
+Belgium	2015	NA	AC	J05AA	reported.zero
+Bulgaria	2015	NA	AC	J05AA	reported.zero
+Croatia	2015	NA	AC	J05AA	reported.zero
+Cyprus	2015	NA	AC	J05AA	reported.zero
+Czech Republic	2015	NA	AC	J05AA	reported.zero
+Denmark	2015	NA	AC	J05AA	reported.zero
+Estonia	2015	NA	AC	J05AA	reported.zero
+Finland	2015	NA	AC	J05AA	reported.zero
+France	2015	NA	AC	J05AA	reported.zero
+Germany	2015	NA	AC	J05AA	reported.zero
+Greece	2015	NA	AC	J05AA	reported.zero
+Hungary	2015	NA	AC	J05AA	reported.zero
+Iceland	2015	NA	AC	J05AA	reported.zero
+Ireland	2015	NA	AC	J05AA	missing.data
+Italy	2015	NA	AC	J05AA	reported.zero
+Latvia	2015	NA	AC	J05AA	reported.zero
+Liechtenstein	2015	NA	AC	J05AA	missing.data
+Lithuania	2015	NA	AC	J05AA	reported.zero
+Luxembourg	2015	NA	AC	J05AA	reported.zero
+Malta	2015	NA	AC	J05AA	reported.zero
+Netherlands	2015	NA	AC	J05AA	reported.zero
+Norway	2015	NA	AC	J05AA	reported.zero
+Poland	2015	NA	AC	J05AA	reported.zero
+Portugal	2015	NA	AC	J05AA	reported.zero
+Romania	2015	NA	AC	J05AA	reported.zero
+Slovakia	2015	NA	AC	J05AA	reported.zero
+Slovenia	2015	NA	AC	J05AA	reported.zero
+Spain	2015	NA	AC	J05AA	reported.zero
+Sweden	2015	NA	AC	J05AA	reported.zero
+United Kingdom	2015	NA	AC	J05AA	reported.zero
+Austria	2015	0.368	AC	J05AB	NA
+Belgium	2015	0.02	AC	J05AB	NA
+Bulgaria	2015	0.06	AC	J05AB	NA
+Croatia	2015	0.116	AC	J05AB	NA
+Cyprus	2015	0.19	AC	J05AB	pc.hosp.total
+Czech Republic	2015	0.219	AC	J05AB	NA
+Denmark	2015	0.496	AC	J05AB	NA
+Estonia	2015	0.175	AC	J05AB	NA
+Finland	2015	0.473	AC	J05AB	NA
+France	2015	0.607	AC	J05AB	NA
+Germany	2015	0.26	AC	J05AB	NA
+Greece	2015	0.169	AC	J05AB	NA
+Hungary	2015	0.124	AC	J05AB	NA
+Iceland	2015	0.518	AC	J05AB	NA
+Ireland	2015	NA	AC	J05AB	missing.data
+Italy	2015	NA	AC	J05AB	reported.zero
+Latvia	2015	0.07	AC	J05AB	NA
+Liechtenstein	2015	NA	AC	J05AB	missing.data
+Lithuania	2015	0.094	AC	J05AB	NA
+Luxembourg	2015	0.349	AC	J05AB	NA
+Malta	2015	0.147	AC	J05AB	NA
+Netherlands	2015	0.249	AC	J05AB	NA
+Norway	2015	0.244	AC	J05AB	NA
+Poland	2015	0.307	AC	J05AB	NA
+Portugal	2015	0.204	AC	J05AB	NA
+Romania	2015	0.105	AC	J05AB	pc.hosp.total
+Slovakia	2015	0.194	AC	J05AB	NA
+Slovenia	2015	0.197	AC	J05AB	NA
+Spain	2015	0.189	AC	J05AB	NA
+Sweden	2015	0.43	AC	J05AB	NA
+United Kingdom	2015	NA	AC	J05AB	reported.zero
+Austria	2015	NA	AC	J05AC	reported.zero
+Belgium	2015	NA	AC	J05AC	reported.zero
+Bulgaria	2015	NA	AC	J05AC	reported.zero
+Croatia	2015	NA	AC	J05AC	reported.zero
+Cyprus	2015	NA	AC	J05AC	reported.zero
+Czech Republic	2015	NA	AC	J05AC	reported.zero
+Denmark	2015	NA	AC	J05AC	reported.zero
+Estonia	2015	NA	AC	J05AC	reported.zero
+Finland	2015	NA	AC	J05AC	reported.zero
+France	2015	NA	AC	J05AC	reported.zero
+Germany	2015	NA	AC	J05AC	reported.zero
+Greece	2015	NA	AC	J05AC	reported.zero
+Hungary	2015	NA	AC	J05AC	reported.zero
+Iceland	2015	NA	AC	J05AC	reported.zero
+Ireland	2015	NA	AC	J05AC	missing.data
+Italy	2015	NA	AC	J05AC	reported.zero
+Latvia	2015	0.241	AC	J05AC	NA
+Liechtenstein	2015	NA	AC	J05AC	missing.data
+Lithuania	2015	NA	AC	J05AC	reported.zero
+Luxembourg	2015	NA	AC	J05AC	reported.zero
+Malta	2015	NA	AC	J05AC	reported.zero
+Netherlands	2015	NA	AC	J05AC	reported.zero
+Norway	2015	NA	AC	J05AC	reported.zero
+Poland	2015	NA	AC	J05AC	reported.zero
+Portugal	2015	NA	AC	J05AC	reported.zero
+Romania	2015	NA	AC	J05AC	reported.zero
+Slovakia	2015	NA	AC	J05AC	reported.zero
+Slovenia	2015	NA	AC	J05AC	reported.zero
+Spain	2015	NA	AC	J05AC	reported.zero
+Sweden	2015	NA	AC	J05AC	reported.zero
+United Kingdom	2015	NA	AC	J05AC	reported.zero
+Austria	2015	NA	AC	J05AD	reported.zero
+Belgium	2015	NA	AC	J05AD	reported.zero
+Bulgaria	2015	NA	AC	J05AD	reported.zero
+Croatia	2015	NA	AC	J05AD	reported.zero
+Cyprus	2015	NA	AC	J05AD	reported.zero
+Czech Republic	2015	NA	AC	J05AD	reported.zero
+Denmark	2015	NA	AC	J05AD	reported.zero
+Estonia	2015	NA	AC	J05AD	reported.zero
+Finland	2015	NA	AC	J05AD	reported.zero
+France	2015	6e-04	AC	J05AD	NA
+Germany	2015	NA	AC	J05AD	reported.zero
+Greece	2015	NA	AC	J05AD	reported.zero
+Hungary	2015	NA	AC	J05AD	reported.zero
+Iceland	2015	NA	AC	J05AD	reported.zero
+Ireland	2015	NA	AC	J05AD	missing.data
+Italy	2015	NA	AC	J05AD	reported.zero
+Latvia	2015	NA	AC	J05AD	reported.zero
+Liechtenstein	2015	NA	AC	J05AD	missing.data
+Lithuania	2015	NA	AC	J05AD	reported.zero
+Luxembourg	2015	NA	AC	J05AD	reported.zero
+Malta	2015	NA	AC	J05AD	reported.zero
+Netherlands	2015	1e-05	AC	J05AD	NA
+Norway	2015	3e-05	AC	J05AD	NA
+Poland	2015	NA	AC	J05AD	reported.zero
+Portugal	2015	NA	AC	J05AD	reported.zero
+Romania	2015	NA	AC	J05AD	reported.zero
+Slovakia	2015	NA	AC	J05AD	reported.zero
+Slovenia	2015	NA	AC	J05AD	reported.zero
+Spain	2015	NA	AC	J05AD	reported.zero
+Sweden	2015	NA	AC	J05AD	reported.zero
+United Kingdom	2015	NA	AC	J05AD	reported.zero
+Austria	2015	0.125	AC	J05AE	NA
+Belgium	2015	0.258	AC	J05AE	NA
+Bulgaria	2015	NA	AC	J05AE	reported.zero
+Croatia	2015	NA	AC	J05AE	reported.zero
+Cyprus	2015	0.159	AC	J05AE	pc.hosp.total
+Czech Republic	2015	0.024	AC	J05AE	NA
+Denmark	2015	NA	AC	J05AE	reported.zero
+Estonia	2015	NA	AC	J05AE	reported.zero
+Finland	2015	NA	AC	J05AE	reported.zero
+France	2015	0.373	AC	J05AE	NA
+Germany	2015	0.157	AC	J05AE	NA
+Greece	2015	NA	AC	J05AE	reported.zero
+Hungary	2015	0.028	AC	J05AE	NA
+Iceland	2015	0.083	AC	J05AE	NA
+Ireland	2015	NA	AC	J05AE	missing.data
+Italy	2015	NA	AC	J05AE	reported.zero
+Latvia	2015	0.199	AC	J05AE	NA
+Liechtenstein	2015	NA	AC	J05AE	missing.data
+Lithuania	2015	0.001	AC	J05AE	NA
+Luxembourg	2015	0.02	AC	J05AE	NA
+Malta	2015	NA	AC	J05AE	reported.zero
+Netherlands	2015	0.23	AC	J05AE	NA
+Norway	2015	0.183	AC	J05AE	NA
+Poland	2015	NA	AC	J05AE	reported.zero
+Portugal	2015	NA	AC	J05AE	reported.zero
+Romania	2015	0.3	AC	J05AE	pc.hosp.total
+Slovakia	2015	0.016	AC	J05AE	NA
+Slovenia	2015	0.056	AC	J05AE	NA
+Spain	2015	NA	AC	J05AE	reported.zero
+Sweden	2015	0.172	AC	J05AE	NA
+United Kingdom	2015	NA	AC	J05AE	reported.zero
+Austria	2015	0.222	AC	J05AF	NA
+Belgium	2015	0.098	AC	J05AF	NA
+Bulgaria	2015	0.191	AC	J05AF	NA
+Croatia	2015	NA	AC	J05AF	reported.zero
+Cyprus	2015	0.41	AC	J05AF	pc.hosp.total
+Czech Republic	2015	0.152	AC	J05AF	NA
+Denmark	2015	NA	AC	J05AF	reported.zero
+Estonia	2015	0.001	AC	J05AF	NA
+Finland	2015	NA	AC	J05AF	reported.zero
+France	2015	0.421	AC	J05AF	NA
+Germany	2015	0.296	AC	J05AF	NA
+Greece	2015	0.362	AC	J05AF	NA
+Hungary	2015	0.092	AC	J05AF	NA
+Iceland	2015	0.058	AC	J05AF	NA
+Ireland	2015	NA	AC	J05AF	missing.data
+Italy	2015	0.01	AC	J05AF	NA
+Latvia	2015	0.192	AC	J05AF	NA
+Liechtenstein	2015	NA	AC	J05AF	missing.data
+Lithuania	2015	0.02	AC	J05AF	NA
+Luxembourg	2015	0.223	AC	J05AF	NA
+Malta	2015	0.068	AC	J05AF	NA
+Netherlands	2015	0.277	AC	J05AF	NA
+Norway	2015	0.132	AC	J05AF	NA
+Poland	2015	0.006	AC	J05AF	NA
+Portugal	2015	0.002	AC	J05AF	NA
+Romania	2015	0.753	AC	J05AF	pc.hosp.total
+Slovakia	2015	0.238	AC	J05AF	NA
+Slovenia	2015	0.173	AC	J05AF	NA
+Spain	2015	NA	AC	J05AF	reported.zero
+Sweden	2015	0.167	AC	J05AF	NA
+United Kingdom	2015	NA	AC	J05AF	reported.zero
+Austria	2015	0.099	AC	J05AG	NA
+Belgium	2015	0.176	AC	J05AG	NA
+Bulgaria	2015	0.005	AC	J05AG	NA
+Croatia	2015	NA	AC	J05AG	reported.zero
+Cyprus	2015	0.102	AC	J05AG	pc.hosp.total
+Czech Republic	2015	0.024	AC	J05AG	NA
+Denmark	2015	NA	AC	J05AG	reported.zero
+Estonia	2015	NA	AC	J05AG	reported.zero
+Finland	2015	NA	AC	J05AG	reported.zero
+France	2015	0.184	AC	J05AG	NA
+Germany	2015	0.13	AC	J05AG	NA
+Greece	2015	0.005	AC	J05AG	NA
+Hungary	2015	0.054	AC	J05AG	NA
+Iceland	2015	0.021	AC	J05AG	NA
+Ireland	2015	NA	AC	J05AG	missing.data
+Italy	2015	0.005	AC	J05AG	NA
+Latvia	2015	0.324	AC	J05AG	NA
+Liechtenstein	2015	NA	AC	J05AG	missing.data
+Lithuania	2015	0.052	AC	J05AG	NA
+Luxembourg	2015	0.011	AC	J05AG	NA
+Malta	2015	NA	AC	J05AG	reported.zero
+Netherlands	2015	0.271	AC	J05AG	NA
+Norway	2015	0.05	AC	J05AG	NA
+Poland	2015	NA	AC	J05AG	reported.zero
+Portugal	2015	NA	AC	J05AG	reported.zero
+Romania	2015	0.136	AC	J05AG	pc.hosp.total
+Slovakia	2015	0.006	AC	J05AG	NA
+Slovenia	2015	0.066	AC	J05AG	NA
+Spain	2015	NA	AC	J05AG	reported.zero
+Sweden	2015	0.12	AC	J05AG	NA
+United Kingdom	2015	NA	AC	J05AG	reported.zero
+Austria	2015	0.0364	AC	J05AH	NA
+Belgium	2015	NA	AC	J05AH	reported.zero
+Bulgaria	2015	0.0451	AC	J05AH	NA
+Croatia	2015	NA	AC	J05AH	reported.zero
+Cyprus	2015	0.0069	AC	J05AH	pc.hosp.total
+Czech Republic	2015	0.0014	AC	J05AH	NA
+Denmark	2015	0.0023	AC	J05AH	NA
+Estonia	2015	0.0352	AC	J05AH	NA
+Finland	2015	0.0323	AC	J05AH	NA
+France	2015	0.0517	AC	J05AH	NA
+Germany	2015	0.0084	AC	J05AH	NA
+Greece	2015	0.0825	AC	J05AH	NA
+Hungary	2015	0.0029	AC	J05AH	NA
+Iceland	2015	0.0207	AC	J05AH	NA
+Ireland	2015	NA	AC	J05AH	missing.data
+Italy	2015	0.0012	AC	J05AH	NA
+Latvia	2015	0.0297	AC	J05AH	NA
+Liechtenstein	2015	NA	AC	J05AH	missing.data
+Lithuania	2015	0.0604	AC	J05AH	NA
+Luxembourg	2015	1e-04	AC	J05AH	NA
+Malta	2015	0.0014	AC	J05AH	NA
+Netherlands	2015	NA	AC	J05AH	reported.zero
+Norway	2015	0.0044	AC	J05AH	NA
+Poland	2015	0.0039	AC	J05AH	NA
+Portugal	2015	NA	AC	J05AH	reported.zero
+Romania	2015	0.0065	AC	J05AH	pc.hosp.total
+Slovakia	2015	0.001	AC	J05AH	NA
+Slovenia	2015	0.0083	AC	J05AH	NA
+Spain	2015	NA	AC	J05AH	reported.zero
+Sweden	2015	0.0056	AC	J05AH	NA
+United Kingdom	2015	NA	AC	J05AH	reported.zero
+Austria	2015	0.067	AC	J05AP	NA
+Belgium	2015	0.005	AC	J05AP	NA
+Bulgaria	2015	0.036	AC	J05AP	NA
+Croatia	2015	NA	AC	J05AP	reported.zero
+Cyprus	2015	0.028	AC	J05AP	pc.hosp.total
+Czech Republic	2015	0.082	AC	J05AP	NA
+Denmark	2015	NA	AC	J05AP	reported.zero
+Estonia	2015	0.155	AC	J05AP	NA
+Finland	2015	NA	AC	J05AP	reported.zero
+France	2015	0.025	AC	J05AP	NA
+Germany	2015	0.107	AC	J05AP	NA
+Greece	2015	0.006	AC	J05AP	NA
+Hungary	2015	0.001	AC	J05AP	NA
+Iceland	2015	0.023	AC	J05AP	NA
+Ireland	2015	NA	AC	J05AP	missing.data
+Italy	2015	NA	AC	J05AP	reported.zero
+Latvia	2015	0.172	AC	J05AP	NA
+Liechtenstein	2015	NA	AC	J05AP	missing.data
+Lithuania	2015	0.086	AC	J05AP	NA
+Luxembourg	2015	0.034	AC	J05AP	NA
+Malta	2015	0.011	AC	J05AP	NA
+Netherlands	2015	0.061	AC	J05AP	NA
+Norway	2015	0.086	AC	J05AP	NA
+Poland	2015	NA	AC	J05AP	reported.zero
+Portugal	2015	NA	AC	J05AP	reported.zero
+Romania	2015	0.117	AC	J05AP	pc.hosp.total
+Slovakia	2015	0.061	AC	J05AP	NA
+Slovenia	2015	0.037	AC	J05AP	NA
+Spain	2015	NA	AC	J05AP	reported.zero
+Sweden	2015	0.104	AC	J05AP	NA
+United Kingdom	2015	NA	AC	J05AP	reported.zero
+Austria	2015	0.26	AC	J05AR	NA
+Belgium	2015	0.76	AC	J05AR	NA
+Bulgaria	2015	NA	AC	J05AR	reported.zero
+Croatia	2015	NA	AC	J05AR	reported.zero
+Cyprus	2015	0.37	AC	J05AR	pc.hosp.total
+Czech Republic	2015	0.14	AC	J05AR	NA
+Denmark	2015	NA	AC	J05AR	reported.zero
+Estonia	2015	NA	AC	J05AR	reported.zero
+Finland	2015	NA	AC	J05AR	reported.zero
+France	2015	1.05	AC	J05AR	NA
+Germany	2015	0.67	AC	J05AR	NA
+Greece	2015	0.88	AC	J05AR	NA
+Hungary	2015	0.04	AC	J05AR	NA
+Iceland	2015	0.49	AC	J05AR	NA
+Ireland	2015	NA	AC	J05AR	missing.data
+Italy	2015	NA	AC	J05AR	reported.zero
+Latvia	2015	0.65	AC	J05AR	NA
+Liechtenstein	2015	NA	AC	J05AR	missing.data
+Lithuania	2015	0.23	AC	J05AR	NA
+Luxembourg	2015	0.11	AC	J05AR	NA
+Malta	2015	NA	AC	J05AR	reported.zero
+Netherlands	2015	1.05	AC	J05AR	NA
+Norway	2015	0.66	AC	J05AR	NA
+Poland	2015	NA	AC	J05AR	reported.zero
+Portugal	2015	NA	AC	J05AR	reported.zero
+Romania	2015	0.54	AC	J05AR	pc.hosp.total
+Slovakia	2015	0.07	AC	J05AR	NA
+Slovenia	2015	0.08	AC	J05AR	NA
+Spain	2015	NA	AC	J05AR	reported.zero
+Sweden	2015	0.61	AC	J05AR	NA
+United Kingdom	2015	NA	AC	J05AR	reported.zero
+Austria	2015	0.17	AC	J05AX	NA
+Belgium	2015	0.13	AC	J05AX	NA
+Bulgaria	2015	0.59	AC	J05AX	NA
+Croatia	2015	NA	AC	J05AX	reported.zero
+Cyprus	2015	0.06	AC	J05AX	pc.hosp.total
+Czech Republic	2015	0.12	AC	J05AX	NA
+Denmark	2015	NA	AC	J05AX	reported.zero
+Estonia	2015	NA	AC	J05AX	reported.zero
+Finland	2015	NA	AC	J05AX	reported.zero
+France	2015	0.29	AC	J05AX	NA
+Germany	2015	0.16	AC	J05AX	NA
+Greece	2015	NA	AC	J05AX	reported.zero
+Hungary	2015	0.27	AC	J05AX	NA
+Iceland	2015	0.06	AC	J05AX	NA
+Ireland	2015	NA	AC	J05AX	missing.data
+Italy	2015	NA	AC	J05AX	reported.zero
+Latvia	2015	0.08	AC	J05AX	NA
+Liechtenstein	2015	NA	AC	J05AX	missing.data
+Lithuania	2015	0.01	AC	J05AX	NA
+Luxembourg	2015	0.02	AC	J05AX	NA
+Malta	2015	0.02	AC	J05AX	NA
+Netherlands	2015	0.13	AC	J05AX	NA
+Norway	2015	0.08	AC	J05AX	NA
+Poland	2015	1.51	AC	J05AX	NA
+Portugal	2015	NA	AC	J05AX	reported.zero
+Romania	2015	0.26	AC	J05AX	pc.hosp.total
+Slovakia	2015	1.37	AC	J05AX	NA
+Slovenia	2015	0.03	AC	J05AX	NA
+Spain	2015	NA	AC	J05AX	reported.zero
+Sweden	2015	0.09	AC	J05AX	NA
+United Kingdom	2015	NA	AC	J05AX	reported.zero
+Austria	2015	0.74	AC	Long-acting macrolides	NA
+Belgium	2015	1.68	AC	Long-acting macrolides	NA
+Bulgaria	2015	1.39	AC	Long-acting macrolides	NA
+Croatia	2015	1.79	AC	Long-acting macrolides	NA
+Cyprus	2015	0.98	AC	Long-acting macrolides	pc.hosp.total
+Czech Republic	2015	0.9	AC	Long-acting macrolides	NA
+Denmark	2015	0.48	AC	Long-acting macrolides	NA
+Estonia	2015	0.56	AC	Long-acting macrolides	NA
+Finland	2015	0.4	AC	Long-acting macrolides	NA
+France	2015	0.67	AC	Long-acting macrolides	NA
+Germany	2015	0.56	AC	Long-acting macrolides	NA
+Greece	2015	1.09	AC	Long-acting macrolides	NA
+Hungary	2015	1.5	AC	Long-acting macrolides	NA
+Iceland	2015	1.12	AC	Long-acting macrolides	NA
+Ireland	2015	0.78	AC	Long-acting macrolides	NA
+Italy	2015	1.57	AC	Long-acting macrolides	NA
+Latvia	2015	0.53	AC	Long-acting macrolides	NA
+Liechtenstein	2015	NA	AC	Long-acting macrolides	missing.data
+Lithuania	2015	0.5	AC	Long-acting macrolides	NA
+Luxembourg	2015	1.04	AC	Long-acting macrolides	NA
+Malta	2015	1.14	AC	Long-acting macrolides	NA
+Netherlands	2015	0.8	AC	Long-acting macrolides	NA
+Norway	2015	0.29	AC	Long-acting macrolides	NA
+Poland	2015	1.67	AC	Long-acting macrolides	NA
+Portugal	2015	1.56	AC	Long-acting macrolides	NA
+Romania	2015	0.81	AC	Long-acting macrolides	pc.hosp.total
+Slovakia	2015	2.56	AC	Long-acting macrolides	NA
+Slovenia	2015	0.99	AC	Long-acting macrolides	NA
+Spain	2015	1.42	AC	Long-acting macrolides	NA
+Sweden	2015	0.09	AC	Long-acting macrolides	NA
+United Kingdom	2015	NA	AC	Long-acting macrolides	missing.data
+Austria	2015	NA	AC	Other antivirals	reported.zero
+Belgium	2015	NA	AC	Other antivirals	reported.zero
+Bulgaria	2015	0.59	AC	Other antivirals	NA
+Croatia	2015	NA	AC	Other antivirals	reported.zero
+Cyprus	2015	NA	AC	Other antivirals	reported.zero
+Czech Republic	2015	0.09	AC	Other antivirals	NA
+Denmark	2015	NA	AC	Other antivirals	reported.zero
+Estonia	2015	NA	AC	Other antivirals	reported.zero
+Finland	2015	NA	AC	Other antivirals	reported.zero
+France	2015	NA	AC	Other antivirals	reported.zero
+Germany	2015	NA	AC	Other antivirals	reported.zero
+Greece	2015	NA	AC	Other antivirals	reported.zero
+Hungary	2015	0.25	AC	Other antivirals	NA
+Iceland	2015	NA	AC	Other antivirals	reported.zero
+Ireland	2015	NA	AC	Other antivirals	missing.data
+Italy	2015	NA	AC	Other antivirals	reported.zero
+Latvia	2015	0.03	AC	Other antivirals	NA
+Liechtenstein	2015	NA	AC	Other antivirals	missing.data
+Lithuania	2015	0.01	AC	Other antivirals	NA
+Luxembourg	2015	0.01	AC	Other antivirals	NA
+Malta	2015	NA	AC	Other antivirals	reported.zero
+Netherlands	2015	NA	AC	Other antivirals	reported.zero
+Norway	2015	NA	AC	Other antivirals	reported.zero
+Poland	2015	1.51	AC	Other antivirals	NA
+Portugal	2015	NA	AC	Other antivirals	reported.zero
+Romania	2015	0.19	AC	Other antivirals	pc.hosp.total
+Slovakia	2015	1.33	AC	Other antivirals	NA
+Slovenia	2015	NA	AC	Other antivirals	reported.zero
+Spain	2015	NA	AC	Other antivirals	reported.zero
+Sweden	2015	NA	AC	Other antivirals	reported.zero
+United Kingdom	2015	NA	AC	Other antivirals	reported.zero
+Austria	2015	0.88	AC	Second-generation quinolones	NA
+Belgium	2015	1.49	AC	Second-generation quinolones	NA
+Bulgaria	2015	2.48	AC	Second-generation quinolones	NA
+Croatia	2015	0.65	AC	Second-generation quinolones	NA
+Cyprus	2015	3.53	AC	Second-generation quinolones	pc.hosp.total
+Czech Republic	2015	0.76	AC	Second-generation quinolones	NA
+Denmark	2015	0.46	AC	Second-generation quinolones	NA
+Estonia	2015	0.69	AC	Second-generation quinolones	NA
+Finland	2015	0.67	AC	Second-generation quinolones	NA
+France	2015	1.25	AC	Second-generation quinolones	NA
+Germany	2015	1.14	AC	Second-generation quinolones	NA
+Greece	2015	1.93	AC	Second-generation quinolones	NA
+Hungary	2015	2.25	AC	Second-generation quinolones	NA
+Iceland	2015	0.93	AC	Second-generation quinolones	NA
+Ireland	2015	0.87	AC	Second-generation quinolones	NA
+Italy	2015	3.03	AC	Second-generation quinolones	NA
+Latvia	2015	0.85	AC	Second-generation quinolones	NA
+Liechtenstein	2015	NA	AC	Second-generation quinolones	missing.data
+Lithuania	2015	0.72	AC	Second-generation quinolones	NA
+Luxembourg	2015	1.94	AC	Second-generation quinolones	NA
+Malta	2015	2.44	AC	Second-generation quinolones	NA
+Netherlands	2015	0.67	AC	Second-generation quinolones	NA
+Norway	2015	0.45	AC	Second-generation quinolones	NA
+Poland	2015	1.02	AC	Second-generation quinolones	NA
+Portugal	2015	1.63	AC	Second-generation quinolones	NA
+Romania	2015	2.62	AC	Second-generation quinolones	pc.hosp.total
+Slovakia	2015	2.08	AC	Second-generation quinolones	NA
+Slovenia	2015	0.82	AC	Second-generation quinolones	NA
+Spain	2015	1.93	AC	Second-generation quinolones	NA
+Sweden	2015	0.66	AC	Second-generation quinolones	NA
+United Kingdom	2015	NA	AC	Second-generation quinolones	missing.data
+Austria	2015	0.006	AC	Short-acting macrolides	NA
+Belgium	2015	0.048	AC	Short-acting macrolides	NA
+Bulgaria	2015	NA	AC	Short-acting macrolides	reported.zero
+Croatia	2015	0.021	AC	Short-acting macrolides	NA
+Cyprus	2015	0.104	AC	Short-acting macrolides	pc.hosp.total
+Czech Republic	2015	0.063	AC	Short-acting macrolides	NA
+Denmark	2015	0.218	AC	Short-acting macrolides	NA
+Estonia	2015	0.006	AC	Short-acting macrolides	NA
+Finland	2015	0.053	AC	Short-acting macrolides	NA
+France	2015	0.181	AC	Short-acting macrolides	NA
+Germany	2015	0.132	AC	Short-acting macrolides	NA
+Greece	2015	0.002	AC	Short-acting macrolides	NA
+Hungary	2015	0.022	AC	Short-acting macrolides	NA
+Iceland	2015	0.189	AC	Short-acting macrolides	NA
+Ireland	2015	0.326	AC	Short-acting macrolides	NA
+Italy	2015	0.112	AC	Short-acting macrolides	NA
+Latvia	2015	0.075	AC	Short-acting macrolides	NA
+Liechtenstein	2015	NA	AC	Short-acting macrolides	missing.data
+Lithuania	2015	0.021	AC	Short-acting macrolides	NA
+Luxembourg	2015	0.185	AC	Short-acting macrolides	NA
+Malta	2015	0.147	AC	Short-acting macrolides	NA
+Netherlands	2015	0.049	AC	Short-acting macrolides	NA
+Norway	2015	0.601	AC	Short-acting macrolides	NA
+Poland	2015	0.305	AC	Short-acting macrolides	NA
+Portugal	2015	0.05	AC	Short-acting macrolides	NA
+Romania	2015	0.246	AC	Short-acting macrolides	pc.hosp.total
+Slovakia	2015	0.187	AC	Short-acting macrolides	NA
+Slovenia	2015	0.11	AC	Short-acting macrolides	NA
+Spain	2015	0.092	AC	Short-acting macrolides	NA
+Sweden	2015	0.144	AC	Short-acting macrolides	NA
+United Kingdom	2015	NA	AC	Short-acting macrolides	missing.data
+Austria	2015	0.169	AC	Substances used for both HIV and hepatitis B treatment	NA
+Belgium	2015	0.031	AC	Substances used for both HIV and hepatitis B treatment	NA
+Bulgaria	2015	0.138	AC	Substances used for both HIV and hepatitis B treatment	NA
+Croatia	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	reported.zero
+Cyprus	2015	0.335	AC	Substances used for both HIV and hepatitis B treatment	pc.hosp.total
+Czech Republic	2015	0.093	AC	Substances used for both HIV and hepatitis B treatment	NA
+Denmark	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	reported.zero
+Estonia	2015	0.001	AC	Substances used for both HIV and hepatitis B treatment	NA
+Finland	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	reported.zero
+France	2015	0.224	AC	Substances used for both HIV and hepatitis B treatment	NA
+Germany	2015	0.176	AC	Substances used for both HIV and hepatitis B treatment	NA
+Greece	2015	0.308	AC	Substances used for both HIV and hepatitis B treatment	NA
+Hungary	2015	0.049	AC	Substances used for both HIV and hepatitis B treatment	NA
+Iceland	2015	0.043	AC	Substances used for both HIV and hepatitis B treatment	NA
+Ireland	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	missing.data
+Italy	2015	0.009	AC	Substances used for both HIV and hepatitis B treatment	NA
+Latvia	2015	0.109	AC	Substances used for both HIV and hepatitis B treatment	NA
+Liechtenstein	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	missing.data
+Lithuania	2015	0.018	AC	Substances used for both HIV and hepatitis B treatment	NA
+Luxembourg	2015	0.112	AC	Substances used for both HIV and hepatitis B treatment	NA
+Malta	2015	0.068	AC	Substances used for both HIV and hepatitis B treatment	NA
+Netherlands	2015	0.162	AC	Substances used for both HIV and hepatitis B treatment	NA
+Norway	2015	0.075	AC	Substances used for both HIV and hepatitis B treatment	NA
+Poland	2015	0.001	AC	Substances used for both HIV and hepatitis B treatment	NA
+Portugal	2015	0.002	AC	Substances used for both HIV and hepatitis B treatment	NA
+Romania	2015	0.237	AC	Substances used for both HIV and hepatitis B treatment	pc.hosp.total
+Slovakia	2015	0.13	AC	Substances used for both HIV and hepatitis B treatment	NA
+Slovenia	2015	0.037	AC	Substances used for both HIV and hepatitis B treatment	NA
+Spain	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	reported.zero
+Sweden	2015	0.099	AC	Substances used for both HIV and hepatitis B treatment	NA
+United Kingdom	2015	NA	AC	Substances used for both HIV and hepatitis B treatment	reported.zero
+Austria	2015	0.048	AC	Substances used for the treatment of hepatitis B	NA
+Belgium	2015	0.056	AC	Substances used for the treatment of hepatitis B	NA
+Bulgaria	2015	0.054	AC	Substances used for the treatment of hepatitis B	NA
+Croatia	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Cyprus	2015	0.048	AC	Substances used for the treatment of hepatitis B	pc.hosp.total
+Czech Republic	2015	0.057	AC	Substances used for the treatment of hepatitis B	NA
+Denmark	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Estonia	2015	0.001	AC	Substances used for the treatment of hepatitis B	NA
+Finland	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+France	2015	0.158	AC	Substances used for the treatment of hepatitis B	NA
+Germany	2015	0.107	AC	Substances used for the treatment of hepatitis B	NA
+Greece	2015	0.054	AC	Substances used for the treatment of hepatitis B	NA
+Hungary	2015	0.042	AC	Substances used for the treatment of hepatitis B	NA
+Iceland	2015	0.015	AC	Substances used for the treatment of hepatitis B	NA
+Ireland	2015	NA	AC	Substances used for the treatment of hepatitis B	missing.data
+Italy	2015	0.001	AC	Substances used for the treatment of hepatitis B	NA
+Latvia	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Liechtenstein	2015	NA	AC	Substances used for the treatment of hepatitis B	missing.data
+Lithuania	2015	0.001	AC	Substances used for the treatment of hepatitis B	NA
+Luxembourg	2015	0.11	AC	Substances used for the treatment of hepatitis B	NA
+Malta	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Netherlands	2015	0.099	AC	Substances used for the treatment of hepatitis B	NA
+Norway	2015	0.046	AC	Substances used for the treatment of hepatitis B	NA
+Poland	2015	0.005	AC	Substances used for the treatment of hepatitis B	NA
+Portugal	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Romania	2015	0.464	AC	Substances used for the treatment of hepatitis B	pc.hosp.total
+Slovakia	2015	0.104	AC	Substances used for the treatment of hepatitis B	NA
+Slovenia	2015	0.134	AC	Substances used for the treatment of hepatitis B	NA
+Spain	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Sweden	2015	0.059	AC	Substances used for the treatment of hepatitis B	NA
+United Kingdom	2015	NA	AC	Substances used for the treatment of hepatitis B	reported.zero
+Austria	2015	0.067	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Belgium	2015	0.005	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Bulgaria	2015	0.036	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Croatia	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Cyprus	2015	0.028	AC	Substances used for the treatment of hepatitis C antivirals	pc.hosp.total
+Czech Republic	2015	0.082	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Denmark	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Estonia	2015	0.155	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Finland	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+France	2015	0.025	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Germany	2015	0.107	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Greece	2015	0.006	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Hungary	2015	0.001	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Iceland	2015	0.023	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Ireland	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	missing.data
+Italy	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Latvia	2015	0.172	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Liechtenstein	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	missing.data
+Lithuania	2015	0.086	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Luxembourg	2015	0.034	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Malta	2015	0.011	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Netherlands	2015	0.061	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Norway	2015	0.086	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Poland	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Portugal	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Romania	2015	0.117	AC	Substances used for the treatment of hepatitis C antivirals	pc.hosp.total
+Slovakia	2015	0.061	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Slovenia	2015	0.037	AC	Substances used for the treatment of hepatitis C antivirals	NA
+Spain	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Sweden	2015	0.104	AC	Substances used for the treatment of hepatitis C antivirals	NA
+United Kingdom	2015	NA	AC	Substances used for the treatment of hepatitis C antivirals	reported.zero
+Austria	2015	0.368	AC	Substances used for the treatment of herpetic infections	NA
+Belgium	2015	0.02	AC	Substances used for the treatment of herpetic infections	NA
+Bulgaria	2015	0.06	AC	Substances used for the treatment of herpetic infections	NA
+Croatia	2015	0.116	AC	Substances used for the treatment of herpetic infections	NA
+Cyprus	2015	0.19	AC	Substances used for the treatment of herpetic infections	pc.hosp.total
+Czech Republic	2015	0.219	AC	Substances used for the treatment of herpetic infections	NA
+Denmark	2015	0.496	AC	Substances used for the treatment of herpetic infections	NA
+Estonia	2015	0.175	AC	Substances used for the treatment of herpetic infections	NA
+Finland	2015	0.473	AC	Substances used for the treatment of herpetic infections	NA
+France	2015	0.608	AC	Substances used for the treatment of herpetic infections	NA
+Germany	2015	0.26	AC	Substances used for the treatment of herpetic infections	NA
+Greece	2015	0.169	AC	Substances used for the treatment of herpetic infections	NA
+Hungary	2015	0.124	AC	Substances used for the treatment of herpetic infections	NA
+Iceland	2015	0.518	AC	Substances used for the treatment of herpetic infections	NA
+Ireland	2015	NA	AC	Substances used for the treatment of herpetic infections	missing.data
+Italy	2015	NA	AC	Substances used for the treatment of herpetic infections	reported.zero
+Latvia	2015	0.07	AC	Substances used for the treatment of herpetic infections	NA
+Liechtenstein	2015	NA	AC	Substances used for the treatment of herpetic infections	missing.data
+Lithuania	2015	0.094	AC	Substances used for the treatment of herpetic infections	NA
+Luxembourg	2015	0.349	AC	Substances used for the treatment of herpetic infections	NA
+Malta	2015	0.147	AC	Substances used for the treatment of herpetic infections	NA
+Netherlands	2015	0.249	AC	Substances used for the treatment of herpetic infections	NA
+Norway	2015	0.244	AC	Substances used for the treatment of herpetic infections	NA
+Poland	2015	0.307	AC	Substances used for the treatment of herpetic infections	NA
+Portugal	2015	0.204	AC	Substances used for the treatment of herpetic infections	NA
+Romania	2015	0.105	AC	Substances used for the treatment of herpetic infections	pc.hosp.total
+Slovakia	2015	0.194	AC	Substances used for the treatment of herpetic infections	NA
+Slovenia	2015	0.197	AC	Substances used for the treatment of herpetic infections	NA
+Spain	2015	0.189	AC	Substances used for the treatment of herpetic infections	NA
+Sweden	2015	0.43	AC	Substances used for the treatment of herpetic infections	NA
+United Kingdom	2015	NA	AC	Substances used for the treatment of herpetic infections	reported.zero
+Austria	2015	0.66	AC	Substances used for the treatment of HIV/AIDS	NA
+Belgium	2015	1.33	AC	Substances used for the treatment of HIV/AIDS	NA
+Bulgaria	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Croatia	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Cyprus	2015	0.72	AC	Substances used for the treatment of HIV/AIDS	pc.hosp.total
+Czech Republic	2015	0.22	AC	Substances used for the treatment of HIV/AIDS	NA
+Denmark	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Estonia	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Finland	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+France	2015	1.93	AC	Substances used for the treatment of HIV/AIDS	NA
+Germany	2015	1.13	AC	Substances used for the treatment of HIV/AIDS	NA
+Greece	2015	0.89	AC	Substances used for the treatment of HIV/AIDS	NA
+Hungary	2015	0.14	AC	Substances used for the treatment of HIV/AIDS	NA
+Iceland	2015	0.66	AC	Substances used for the treatment of HIV/AIDS	NA
+Ireland	2015	NA	AC	Substances used for the treatment of HIV/AIDS	missing.data
+Italy	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Latvia	2015	1.3	AC	Substances used for the treatment of HIV/AIDS	NA
+Liechtenstein	2015	NA	AC	Substances used for the treatment of HIV/AIDS	missing.data
+Lithuania	2015	0.28	AC	Substances used for the treatment of HIV/AIDS	NA
+Luxembourg	2015	0.15	AC	Substances used for the treatment of HIV/AIDS	NA
+Malta	2015	0.02	AC	Substances used for the treatment of HIV/AIDS	NA
+Netherlands	2015	1.69	AC	Substances used for the treatment of HIV/AIDS	NA
+Norway	2015	0.99	AC	Substances used for the treatment of HIV/AIDS	NA
+Poland	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Portugal	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Romania	2015	1.1	AC	Substances used for the treatment of HIV/AIDS	pc.hosp.total
+Slovakia	2015	0.14	AC	Substances used for the treatment of HIV/AIDS	NA
+Slovenia	2015	0.23	AC	Substances used for the treatment of HIV/AIDS	NA
+Spain	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Sweden	2015	1	AC	Substances used for the treatment of HIV/AIDS	NA
+United Kingdom	2015	NA	AC	Substances used for the treatment of HIV/AIDS	reported.zero
+Austria	2015	0.036	AC	Substances used for the treatment of influenza	NA
+Belgium	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Bulgaria	2015	0.045	AC	Substances used for the treatment of influenza	NA
+Croatia	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Cyprus	2015	0.007	AC	Substances used for the treatment of influenza	pc.hosp.total
+Czech Republic	2015	0.001	AC	Substances used for the treatment of influenza	NA
+Denmark	2015	0.002	AC	Substances used for the treatment of influenza	NA
+Estonia	2015	0.035	AC	Substances used for the treatment of influenza	NA
+Finland	2015	0.032	AC	Substances used for the treatment of influenza	NA
+France	2015	0.052	AC	Substances used for the treatment of influenza	NA
+Germany	2015	0.008	AC	Substances used for the treatment of influenza	NA
+Greece	2015	0.083	AC	Substances used for the treatment of influenza	NA
+Hungary	2015	0.003	AC	Substances used for the treatment of influenza	NA
+Iceland	2015	0.021	AC	Substances used for the treatment of influenza	NA
+Ireland	2015	NA	AC	Substances used for the treatment of influenza	missing.data
+Italy	2015	0.001	AC	Substances used for the treatment of influenza	NA
+Latvia	2015	0.271	AC	Substances used for the treatment of influenza	NA
+Liechtenstein	2015	NA	AC	Substances used for the treatment of influenza	missing.data
+Lithuania	2015	0.06	AC	Substances used for the treatment of influenza	NA
+Luxembourg	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Malta	2015	0.001	AC	Substances used for the treatment of influenza	NA
+Netherlands	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Norway	2015	0.004	AC	Substances used for the treatment of influenza	NA
+Poland	2015	0.004	AC	Substances used for the treatment of influenza	NA
+Portugal	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Romania	2015	0.006	AC	Substances used for the treatment of influenza	pc.hosp.total
+Slovakia	2015	0.001	AC	Substances used for the treatment of influenza	NA
+Slovenia	2015	0.008	AC	Substances used for the treatment of influenza	NA
+Spain	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Sweden	2015	0.006	AC	Substances used for the treatment of influenza	NA
+United Kingdom	2015	NA	AC	Substances used for the treatment of influenza	reported.zero
+Austria	2015	0.366	AC	Third-generation quinolones	NA
+Belgium	2015	0.959	AC	Third-generation quinolones	NA
+Bulgaria	2015	0.142	AC	Third-generation quinolones	NA
+Croatia	2015	0.055	AC	Third-generation quinolones	NA
+Cyprus	2015	0.188	AC	Third-generation quinolones	pc.hosp.total
+Czech Republic	2015	0.005	AC	Third-generation quinolones	NA
+Denmark	2015	0.032	AC	Third-generation quinolones	NA
+Estonia	2015	0.005	AC	Third-generation quinolones	NA
+Finland	2015	0.06	AC	Third-generation quinolones	NA
+France	2015	0.045	AC	Third-generation quinolones	NA
+Germany	2015	0.132	AC	Third-generation quinolones	NA
+Greece	2015	0.581	AC	Third-generation quinolones	NA
+Hungary	2015	0.137	AC	Third-generation quinolones	NA
+Iceland	2015	NA	AC	Third-generation quinolones	reported.zero
+Ireland	2015	0.045	AC	Third-generation quinolones	NA
+Italy	2015	0.259	AC	Third-generation quinolones	NA
+Latvia	2015	0.002	AC	Third-generation quinolones	NA
+Liechtenstein	2015	NA	AC	Third-generation quinolones	missing.data
+Lithuania	2015	0.003	AC	Third-generation quinolones	NA
+Luxembourg	2015	0.442	AC	Third-generation quinolones	NA
+Malta	2015	0.015	AC	Third-generation quinolones	NA
+Netherlands	2015	0.026	AC	Third-generation quinolones	NA
+Norway	2015	0.007	AC	Third-generation quinolones	NA
+Poland	2015	0.068	AC	Third-generation quinolones	NA
+Portugal	2015	0.284	AC	Third-generation quinolones	NA
+Romania	2015	0.057	AC	Third-generation quinolones	pc.hosp.total
+Slovakia	2015	0.013	AC	Third-generation quinolones	NA
+Slovenia	2015	0.127	AC	Third-generation quinolones	NA
+Spain	2015	0.219	AC	Third-generation quinolones	NA
+Sweden	2015	0.012	AC	Third-generation quinolones	NA
+United Kingdom	2015	NA	AC	Third-generation quinolones	missing.data

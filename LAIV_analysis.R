@@ -3,15 +3,17 @@ library(ggplot2)
 library(cowplot)
 library(HDInterval)
 
-# Directory where this script and analysis data files are kept
-root = "~/Dropbox/LAIV/Analysis/";
+# Directory where source data files are kept
+root = "~/Dropbox/LAIV/laiv_amr_ew/";
+
+# Directory where figures are saved
+figout = "~/Dropbox/LAIV/Figures/";
 
 # Plot setup
 theme_set(theme_cowplot(font_size = 7, font_family = "Helvetica", line_size = 0.25))
 
 # Age distributions for England and Wales are derived from ONS survey data.
-age.dist = fread(paste0(root, "ONS_UKpop.csv"));
-age.dist = age.dist[country == "E" | country == "W", lapply(.SD, sum), by = "Age", .SDcols = 6:21];
+age.dist = fread(paste0(root, "ONS_EW_agedist.csv"));
 
 # Convert Fleming age-stratified measures to Cromer age-stratified measures
 # (0-4, 5-17, 18-49, 50-64, 65+) to (<6m, 6m-4, 5-14, 15-44, 45-64, 65+)
@@ -56,6 +58,9 @@ rprop = function(n, successes, trials)
 {
     return (rbeta(n, successes + 1, trials - successes + 1));
 }
+
+
+
 
 
 ######################################################################
@@ -232,6 +237,7 @@ LAIV.Impact = function(n.samples, gp.scenario, uptake.scenario, abx.scenario)
         # fluctuations). So we assume the same variability as for consultations.
         analysis$abx.gp.rate = (rxr / gpr) * rep(rnorm(n.samples, 1, fleming.rel.sd), each = n.age.groups);
     } else if (abx.scenario == 3) {
+        # For testing only -- not a plausible estimate!
         # Assume prescription rate follows that of acute rhinosinusitis in England, 0.90 (Pouwels et al 2018)
         abx_skew = rnorm(n.samples, 0.2, 0.05);
         abx_factor = cbind(1 - abx_skew, 1 - abx_skew, 1 - abx_skew, 1, 1 + abx_skew, 1 + abx_skew);
@@ -303,30 +309,43 @@ PrintAgeStratified = function(agestrat)
 
 # Run analysis: n.samples, gp.scenario, uptake.scenario, abx.scenario
 n.samples = 1000000;
-analysis = LAIV.Impact(n.samples, 2, 0.5, 3);
+analysis = LAIV.Impact(n.samples, 2, 0.5, 2);
 
 # Get results
 agestrat = AgeStratified(analysis, group.sizes);
 PrintAgeStratified(agestrat)
 
-# normal:         5.320942
-# GP scenario 1:  4.3081028
-# GP scenario 3:  7.712143
-# uptake 0.3:     3.515785
-# uptake 0.7:     6.666193
-# abx scenario 1: 2.254137
-# abx scenario 3: 6.997558
-# all low:        1.2355660
-# all high:       12.992868
+# Overall antibiotic prescription rate reductions:
+# normal:         5.32
+# GP scenario 1:  4.30
+# GP scenario 3:  7.71
+# uptake 0.3:     3.52
+# uptake 0.7:     6.67
+# abx scenario 1: 2.25
 
 # Direct protection "RCT" results
+p2_4 = sum(pop[3:5]);
+p5_14 = sum(pop[6:15]);
+p15_15 = pop[16];
+
+# Unmatched year
 analysis[, abx.rate := gp.visit.rate * abx.gp.rate];
-analysis[, vacc.efficacy := rep(c(0, 0.56, 0.56, 0.56, 0, 0), n.samples)];
+analysis[, vacc.efficacy := rep(c(0, 0.42, 0.42, 0.42, 0, 0), n.samples)];
 analysis[, direct.reduction := abx.rate * vacc.efficacy];
-analysis[, mean(direct.reduction), by = "age.group"];
 setcolorder(analysis, c(1,2,3,4,5,7,8,9,6));
 agestrat = AgeStratified(analysis, c(0, p2_4, p5_14, p15_15, 0, 0))
 PrintAgeStratified(agestrat);
+
+# Matched year
+analysis[, abx.rate := gp.visit.rate * abx.gp.rate];
+analysis[, vacc.efficacy := rep(c(0, 0.70, 0.70, 0.70, 0, 0), n.samples)];
+analysis[, direct.reduction := abx.rate * vacc.efficacy];
+setcolorder(analysis, c(1,2,3,4,5,7,8,9,6));
+agestrat = AgeStratified(analysis, c(0, p2_4, p5_14, p15_15, 0, 0))
+PrintAgeStratified(agestrat);
+
+
+
 
 
 ######################################################################
@@ -339,7 +358,7 @@ PrintAgeStratified(agestrat);
 # load.drugs: loads drug consumption for a subset of years, sectors (AC, HC, or ACHC), and ATC codes.
 load.drugs = function(years, sectors, atcs)
 {
-    drugs = fread(paste0(root, "drugs.txt"));
+    drugs = fread(paste0(root, "drugs_2015.txt"));
     drugs = drugs[year %in% years & sector %in% sectors & atc %in% atcs];
     return (dcast(drugs, country ~ atc + sector + year, value.var = "ddd.per.thousand"))
 }
@@ -357,15 +376,14 @@ load.burden = function(norm, BSI.agg = max)
         burden$norm = 1;
     } else if (norm == "pop") { 
         # normalize disease burden relative to population in thousands
-        pop.cov = fread(paste0(root, "population.and.coverage.txt"));
+        pop.cov = fread(paste0(root, "population_and_coverage.txt"));
         burden$norm = pop.cov$pop.2015.eurostat[match(burden$country, pop.cov$country)] / 1000;
     } else if (norm == "BSI") {
         # normalise disease burden relative to total number of bloodstream infections
         # caused by the species in question (whether resistant or sensitive)
-        pop.cov = fread(paste0(root, "population.and.coverage.txt"));
-        isolates = fread(paste0(root, "resistance_2015.csv"), na.strings = "-");
-        isolates = isolates[Indicator == "Total tested isolates", c("Population", "RegionName", "NumValue")];
-        
+        pop.cov = fread(paste0(root, "population_and_coverage.txt"));
+        isolates = fread(paste0(root, "isolates_2015.csv"));
+
         # Collate total tested isolates and coverage for all strains
         spp = c("Acinetobacter/ColRACI/CRACI/MDRACI",
                 "Enterococcus faecalis/VRE",
@@ -495,16 +513,17 @@ predict0 = function(data, countries, strains, outcomes, predictors, projections,
 
 # overall reduction for main analysis: 5.322 (3.731-6.985)
 delta = -7 * 5.322 / 365;
-delta = -7 * 3.731 / 365;
-delta = -7 * 6.985 / 365;
+# delta = -7 * 3.731 / 365;
+# delta = -7 * 6.985 / 365;
 
+# Primary statistical analysis: total consumption
 reg = load.data(2015, "AC", "J01", "BSI", max);
 
 impacts = predict(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
                   "J01_AC_2015", delta, sum(pop) / 65128861)
-impacts
 impacts[, .(change = sum(change)), by = outcome]
 
+# PLOT: impact stratified by species
 imp = impacts[outcome == "DALY.mid"]
 imp[strain %like% "EC$", species := "E. coli"]
 imp[strain %like% "SA$", species := "S. aureus"]
@@ -520,58 +539,51 @@ imp2[, label := paste0(ifelse(label > 0, "+", "-"), abs(label))]
 
 imp2$species = factor(imp2$species, levels = imp2$species[order(imp2$DALYs.orig)])
 ggplot(imp2) + 
-    geom_col(aes(x = species, y = DALYs.orig), fill = "#ff9999") + 
-    geom_col(aes(x = species, y = DALYs.final), fill = "#9999ff") + 
+    geom_col(aes(x = species, y = DALYs.orig), fill = "#000000", width = 0.895) + 
+    geom_col(aes(x = species, y = DALYs.final), fill = "#b3b3b3", width = 0.9) + 
     geom_text(aes(x = species, y = DALYs.orig + 300, label = label), hjust = 0, size = 2) +
     ylim(0, 35000) +
     labs(x = NULL, y = "Resistance-attributable DALYs") +
     coord_flip()
-ggsave("~/Dropbox/LAIV/Analysis/byspecies.pdf", width = 8.7, height = 6, units = "cm")
+ggsave(paste0(figout, "byspecies.pdf"), width = 8.5, height = 6, units = "cm")
 
+# PLOT: impact stratified by strain
 imp[, label := round(change, 0)]
 imp[, label := paste0(ifelse(label > 0, "+", "-"), abs(label))]
 imp$strain = factor(imp$strain, levels = imp$strain[order(imp$orig)])
 ggplot(imp) + 
-    geom_col(aes(x = strain, y = orig/1000), fill = "#ff9999") + 
-    geom_col(aes(x = strain, y = final/1000), fill = "#9999ff") + 
-    geom_text(aes(x = strain, y = orig/1000 + 0.2, label = label), hjust = 0, size = 3) +
-    ylim(0, 30) +
+    geom_col(aes(x = strain, y = orig/1000), fill = "#000000", width = 0.895) + 
+    geom_col(aes(x = strain, y = final/1000), fill = "#b3b3b3", width = 0.9) + 
+    geom_text(aes(x = strain, y = orig/1000 + 0.2, label = label), hjust = 0, size = 2) +
+    ylim(0, 25) +
     labs(x = NULL, y = "Disability-adjusted life years (thousands)") +
     coord_flip()
-ggsave("~/Dropbox/LAIV/Analysis/bystrain.pdf", width = 8, height = 8, units = "cm")
+ggsave(paste0(figout, "bystrain.pdf"), width = 8.5, height = 6, units = "cm")
 
+# Secondary statistical analysis: [Tetracyclines] + [Beta-lactam antibacterials, penicillins] + [Macrolides, lincosamides and streptogramins], no elimination of negative coefficients
 reg = load.data(2015, "AC", c("J01A", "J01C", "J01F"), "BSI", max)
 impacts = predict(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
                   c("J01A_AC_2015", "J01C_AC_2015", "J01F_AC_2015"), delta * c(0.0620, 0.7545, 0.1835), sum(pop) / 65128861)
-impacts
 impacts[, .(change = sum(change)), by = outcome]
 
+# Secondary statistical analysis: [Tetracyclines] + [Penicillins with extended spectrum] + [Beta-lactamase sensitive penicillins] + [Macrolides], no elimination of negative coefficients
 reg = load.data(2015, "AC", c("J01AA", "J01CA", "J01CE", "J01FA"), "BSI", max)
 impacts = predict(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
                   c("J01AA_AC_2015", "J01CA_AC_2015", "J01CE_AC_2015", "J01FA_AC_2015"), delta * c(0.0620, 0.4752, 0.2793, 0.1835), sum(pop) / 65128861)
-impacts
 impacts[, .(change = sum(change)), by = outcome]
 
-
-
-
-reg = load.data(2015, "AC", "J01", "BSI", max)
-impacts = predict0(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
-                  "J01_AC_2015", delta, sum(pop) / 65128861)
-impacts
-impacts[, .(change = sum(change)), by = outcome]
-
+# Secondary statistical analysis: [Tetracyclines] + [Beta-lactam antibacterials, penicillins] + [Macrolides, lincosamides and streptogramins], WITH elimination of negative coefficients
 reg = load.data(2015, "AC", c("J01A", "J01C", "J01F"), "BSI", max)
 impacts = predict0(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
                   c("J01A_AC_2015", "J01C_AC_2015", "J01F_AC_2015"), delta * c(0.0620, 0.7545, 0.1835), sum(pop) / 65128861)
-impacts
 impacts[, .(change = sum(change)), by = outcome]
 
+# Secondary statistical analysis: [Tetracyclines] + [Penicillins with extended spectrum] + [Beta-lactamase sensitive penicillins] + [Macrolides], WITH elimination of negative coefficients
 reg = load.data(2015, "AC", c("J01AA", "J01CA", "J01CE", "J01FA"), "BSI", max)
 impacts = predict0(reg, "United Kingdom", unique(reg$strain), c("DALY.mid", "cases.mid", "deaths.mid"),
                   c("J01AA_AC_2015", "J01CA_AC_2015", "J01CE_AC_2015", "J01FA_AC_2015"), delta * c(0.0620, 0.4752, 0.2793, 0.1835), sum(pop) / 65128861)
-impacts
 impacts[, .(change = sum(change)), by = outcome]
+
 
 
 
@@ -596,10 +608,10 @@ ggplot(dbc, aes(x = J01_AC_2015)) +
   facet_wrap(~variable, ncol = 1, scales = "free") +
   labs(x = "Primary care antibiotic consumption (DDD per thousand person-days)", y = "Incidence (per 1000 person-years)") +
   theme(strip.background = element_blank(), legend.position = "none")
-ggsave("~/Dropbox/LAIV/Analysis/regression.pdf", width = 8.7, height = 8, units = "cm");
+ggsave(paste0(figout, "regression.pdf"), width = 8.5, height = 8, units = "cm");
 
 # Economic calculations
-# 1415 in USD 2016 / 101.38% (Bureau of Labour Statistics CPI) -> USD 2014
+# 1415 in USD 2016 (Shrestha et al.) / 101.38% (Bureau of Labour Statistics CPI) -> USD 2014
 1415 / 1.0138
 # = 1395.739 USD 2014 x 79 (GBR) / 130 (USD) health care PPP 2014 (https://www.oecd.org/health/health-systems/
 # International-Comparisons-of-Health-Prices-and-Volumes-New-Findings.pdf) x 1.647701 GBP
@@ -611,8 +623,8 @@ ggsave("~/Dropbox/LAIV/Analysis/regression.pdf", width = 8.7, height = 8, units 
 # Total price of 432 resistant infections in 2015 pounds
 519.8618 * 431.62048
 
-# LAIV program cost 2008 GBP to 2015 GBP, millions
-205*1.2035
+# LAIV program cost 2008 GBP to 2015 GBP, millions (205M in 2008 GBP; source: Baguelin et al 2015)
+205 * 1.2035
 
 # PLOT: Uncertainty analysis
 tornado = fread("Factor,Lo,Mid,Hi,Range
@@ -624,18 +636,18 @@ torfactors = c("Consultation\nrate", "Vaccine\nuptake", "Prescription\nrate", "S
 tornado$Factor = factor(torfactors, levels = rev(torfactors));
 
 ggplot(tornado) + 
-    geom_col(aes(x = Factor, y = Lo - Mid), fill = "#ff9999") + 
-    geom_col(aes(x = Factor, y = Hi - Mid), fill = "#9999ff") +
-    geom_hline(aes(yintercept = 0), colour = "#880000", linetype = "dashed") +
+    geom_col(aes(x = Factor, y = Lo - Mid), fill = "#000000", colour = NA) + 
+    geom_col(aes(x = Factor, y = Hi - Mid), fill = "#ffffff", colour = "#000000", size = 0.25) +
+    geom_hline(aes(yintercept = 0), colour = "#888888", linetype = "dashed", size = 0.8) +
     scale_y_continuous(breaks = c(-300, -200, -100, 0, 100, 200, 300) - 42, labels = c(342, 442, 542, 642, 742, 842, 942) - 42) +
     labs(x = NULL, y = "DALYs averted") +
     coord_flip()
-ggsave("~/Dropbox/LAIV/Analysis/sensitivity.pdf", width = 8.7, height = 6, units = "cm")
+ggsave(paste0(figout, "sensitivity.pdf"), width = 8.5, height = 6, units = "cm")
 
 # PLOT: Secular trend in antibiotic prescribing
-usage = fread("~/Documents/UK/England.BNF05.txt")
-usage = usage[BNF.CODE %like% "^0501", sum(items), by = PERIOD]
+usage = fread(paste0(root, "england_bnf0501_total.csv"));
 usage[, year := floor(PERIOD/100)]
 usage[, month := PERIOD - year * 100]
 usage[, time := year + (month-1)/12]
 ggplot(usage[time >= 2012]) + geom_line(aes(x = time, y = V1/1000)) + geom_smooth(aes(x = time, y = V1/1000), method = "lm") + labs(x = "Year", y = "Thousands of antibiotic prescriptions")
+ggsave(paste0(figout, "trend.pdf"), width = 8, height = 8, units = "cm")
